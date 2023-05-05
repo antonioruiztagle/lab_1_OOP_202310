@@ -112,6 +112,10 @@ def export_count_by_local(data,filename):
 
 data = import_data("data.csv")
 export_count_by_local(data,"candidatoslocal.csv")
+export_general_results(data, "resultadosgenerales.csv")
+export_tables_by_region(data, "tablasporregion.csv")
+
+
 
         
                
