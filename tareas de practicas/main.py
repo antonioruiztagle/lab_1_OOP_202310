@@ -34,7 +34,10 @@ if hermano.creaapellido == persona.establecer_apellido:
     print("Efectivamente son hermanos")
 
 else: 
-    print("No son hermanos estos wnes")
+    print("No son hermanos estos wneees")
+
+
+    
 
 
 

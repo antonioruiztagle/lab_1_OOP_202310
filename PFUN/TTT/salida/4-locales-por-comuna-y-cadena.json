@@ -1,0 +1,12165 @@
+{
+  "QUILLOTA": {
+    "CRUZ VERDE": [
+      "1",
+      "17",
+      "535",
+      "5040",
+      "5477"
+    ],
+    "AHUMADA": [
+      "9",
+      "10"
+    ],
+    "SALCOBRAND": [
+      "13",
+      "6029"
+    ],
+    "KNOP": [
+      "14"
+    ],
+    "ECOFARMACIAS": [
+      "29"
+    ],
+    "SAN IGNACIO": [
+      "30"
+    ],
+    "DR. SIMI": [
+      "31",
+      "4949"
+    ],
+    "ITALIA": [
+      "32"
+    ],
+    "FARMACIA HOSPITAL SAN MARTIN DE QUILLOTA": [
+      "4459"
+    ],
+    "DON ANTONIO": [
+      "4600"
+    ],
+    "FARMACIA COMUNAL BANAMOR": [
+      "4757"
+    ],
+    "CECOSF RUTA NORTE": [
+      "5119"
+    ],
+    "CTR TIEMPOS NUEVOS": [
+      "5120"
+    ],
+    "CTR TIEMPO DE ALEGRIA": [
+      "5121"
+    ],
+    "BOTIQU00cdN PROMED": [
+      "5418"
+    ],
+    "BOTIQU00cdN PROSAIN": [
+      "5419"
+    ],
+    "BOTIQUIN PROSAIN": [
+      "5422"
+    ],
+    "BOTIQU00cdN SERPAJ": [
+      "5423"
+    ],
+    "BOTIQU00cdN CENTRO DE SALUD C.CH.C.": [
+      "5424"
+    ],
+    "BOTIQU00cdN DE MEDICAMENTOS LA ARAUCANA": [
+      "5511"
+    ],
+    "BOTIQU00cdN DE MEDICAMENTOS CENTRO RESPIRATORIO": [
+      "5736"
+    ],
+    "BOTIQU00cdN SCANNER": [
+      "5855"
+    ],
+    "BOTIQU00cdN INALTO": [
+      "6034"
+    ],
+    "BOTIQUIN VETERINARIO MI MUNDO VET": [
+      "6278"
+    ],
+    "GISEMI": [
+      "6614"
+    ],
+    "MARGA MARGA": [
+      "7085"
+    ],
+    "FARMAHORRO 24/7": [
+      "7155"
+    ],
+    "FARMACIA COMUNAL DE SAN PEDRO": [
+      "7634"
+    ]
+  },
+  "LA CALERA": {
+    "CRUZ VERDE": [
+      "2",
+      "5842"
+    ],
+    "AHUMADA": [
+      "5",
+      "8"
+    ],
+    "SALCOBRAND": [
+      "11",
+      "36",
+      "5856"
+    ],
+    "KNOP": [
+      "15"
+    ],
+    "DR. SIMI": [
+      "21",
+      "6263"
+    ],
+    "HOSPITAL 1": [
+      "22"
+    ],
+    "SAN NICOLAS": [
+      "23"
+    ],
+    "TAMANACO": [
+      "24"
+    ],
+    "HOSPITAL DOCTOR MARIO SANCHEZ LA CALERA": [
+      "4460"
+    ],
+    "FARMACIA COMUNAL LA CALERA": [
+      "5406"
+    ],
+    "BOTIQU00cdN DIAGNOCAL": [
+      "5413"
+    ],
+    "BOTIQU00cdN ACHS": [
+      "5415"
+    ],
+    "BOTIQUIN CL00cdNICA DENTAL SMILE": [
+      "5416"
+    ],
+    "BOTIQU00cdN EMECAL": [
+      "5776"
+    ],
+    "TAMANACO LOCAL 2": [
+      "7041"
+    ],
+    "DEL PILAR": [
+      "7157"
+    ],
+    "FARMACIA REDFARMA": [
+      "7624"
+    ]
+  },
+  "LIMACHE": {
+    "CRUZ VERDE": [
+      "3",
+      "4",
+      "27",
+      "39"
+    ],
+    "SALCOBRAND": [
+      "20"
+    ],
+    "ECOFARMACIAS": [
+      "26",
+      "6640"
+    ],
+    "DR. SIMI": [
+      "28",
+      "6705"
+    ],
+    "CAPREDENA": [
+      "33"
+    ],
+    "FARMACIA FAMILIAR": [
+      "351"
+    ],
+    "REAL": [
+      "4251"
+    ],
+    "FARMACIA HOSPITAL SANTO TOMAS LIMACHE": [
+      "5126"
+    ],
+    "BOTIQU00edN CENTRO MEDICO LIMACHE": [
+      "5353"
+    ],
+    "BOTIQUIN CENTRO PREVENTIVA LIMACHE": [
+      "5354"
+    ],
+    "FARMACIA GERIATRICO": [
+      "5368"
+    ],
+    "CENTRO MEDICO URMENETA": [
+      "5839"
+    ],
+    "MARGA MARGA": [
+      "6339"
+    ]
+  },
+  "LA CRUZ": {
+    "LA CRUZ": [
+      "25"
+    ],
+    "SALCOBRAND": [
+      "37"
+    ],
+    "CONSULTORIO MUNICIPAL DE LA CRUZ": [
+      "2668"
+    ],
+    "BOTIQU00cdN VETERINARIO": [
+      "5417"
+    ],
+    "DR. SIMI": [
+      "6340"
+    ],
+    "BOTICA MUNICIPAL LA CRUZ": [
+      "6467"
+    ],
+    "BOTIQUIN VETERINARIO DR. RODRIGO FURI00d3": [
+      "6686"
+    ]
+  },
+  "NOGALES": {
+    "FARMACIA EL MELON": [
+      "40"
+    ],
+    "CECOSF EL POL00edGONO": [
+      "5122"
+    ],
+    "BOTIQU00cdN DE MEDICAMENTOS PORTEZUELOS": [
+      "5735"
+    ],
+    "FARMACIA NAHUEN": [
+      "6760"
+    ]
+  },
+  "QUILPUE": {
+    "AHUMADA": [
+      "43",
+      "44",
+      "59",
+      "320",
+      "4079"
+    ],
+    "CRUZ VERDE": [
+      "46",
+      "47",
+      "56",
+      "57",
+      "58",
+      "348",
+      "3324"
+    ],
+    "DR. SIMI": [
+      "49",
+      "4202",
+      "5255",
+      "6925",
+      "7186"
+    ],
+    "ECOFARMACIAS": [
+      "50",
+      "51",
+      "52",
+      "325",
+      "5543",
+      "6611"
+    ],
+    "KNOP": [
+      "53",
+      "54"
+    ],
+    "SALCOBRAND": [
+      "55",
+      "5054"
+    ],
+    "MAS SALUD": [
+      "326"
+    ],
+    "HOMEONATUR": [
+      "328"
+    ],
+    "ECONATURA": [
+      "4586"
+    ],
+    "QFARMA": [
+      "4667"
+    ],
+    "FARMACIA MUNICIPAL QUILPUE-BELLOTO": [
+      "4730"
+    ],
+    "MARGA MARGA": [
+      "5110",
+      "5594",
+      "6039",
+      "6169",
+      "6338",
+      "6411"
+    ],
+    "FARMACIA HOSPITAL QUILPUE": [
+      "5124"
+    ],
+    "FARMACIA MUNICIPAL EL BELLOTO": [
+      "5345"
+    ],
+    "BOTIQU00cdN IST": [
+      "5364"
+    ],
+    "CTR CLOTARIO BLEST RIFFO": [
+      "5795"
+    ],
+    "BOTIQUIN BIOZELLEN": [
+      "5796"
+    ],
+    "ECONOMIK": [
+      "5870",
+      "6995"
+    ],
+    "CENTRO ODONTOLOGICO QUILPUE": [
+      "6037"
+    ],
+    "DIAGNO IMAGE": [
+      "6168"
+    ],
+    "SMILE": [
+      "6172"
+    ],
+    "JUMBO": [
+      "6173"
+    ],
+    "AHORRO": [
+      "6188"
+    ],
+    "BOTIQUIN PAI (CTA) QUILPUE": [
+      "6217"
+    ],
+    "BOTIQU00cdN ASODIAL": [
+      "6404"
+    ],
+    "REDFARMA": [
+      "6408"
+    ],
+    "FARMACIA DR. AMIGO": [
+      "6747"
+    ],
+    "FARMACIAS MARGA MARGA": [
+      "6783"
+    ],
+    "BOTIQUIN ARAGON": [
+      "7029"
+    ],
+    "FARMACIAS UNIDAS": [
+      "7591"
+    ],
+    "FARMACIA MARGA MARGA": [
+      "7630"
+    ]
+  },
+  "PUCHUNCAVI": {
+    "ECONOMICA": [
+      "61"
+    ],
+    "LAS REJAS": [
+      "243"
+    ],
+    "CRUZ VERDE": [
+      "305"
+    ],
+    "AHUMADA": [
+      "4598"
+    ],
+    "BOTIQU00cdN POL00cdCL00cdNICO": [
+      "5035"
+    ],
+    "CENTRO DE ATENCION MEDICA MAITENCILLO": [
+      "5671"
+    ]
+  },
+  "QUINTERO": {
+    "CRUZ VERDE": [
+      "63",
+      "64"
+    ],
+    "ECONOMICA": [
+      "65",
+      "329"
+    ],
+    "DR. SIMI": [
+      "67"
+    ],
+    "NUEVA SALUD": [
+      "490"
+    ],
+    "ASODIAL": [
+      "4208"
+    ],
+    "AHUMADA": [
+      "4322"
+    ],
+    "HOSPITAL QUINTERO": [
+      "4390"
+    ],
+    "PEQUE00d1O COTTOLENGO": [
+      "4915"
+    ],
+    "FARMACIA COMUNAL QUINTERO": [
+      "5450"
+    ],
+    "FARMAXPRESS": [
+      "7382"
+    ]
+  },
+  "VILLA ALEMANA": {
+    "AHUMADA": [
+      "68",
+      "4735"
+    ],
+    "DR. SIMI": [
+      "70",
+      "6171"
+    ],
+    "ECOFARMACIAS": [
+      "71",
+      "72",
+      "4135"
+    ],
+    "SALCOBRAND": [
+      "73",
+      "76"
+    ],
+    "CRUZ VERDE": [
+      "75",
+      "77"
+    ],
+    "NATURAL LIFE": [
+      "300"
+    ],
+    "VALPARAISO": [
+      "327"
+    ],
+    "DR SIMI": [
+      "497"
+    ],
+    "KNOP": [
+      "4252"
+    ],
+    "BELLFARMA": [
+      "4544"
+    ],
+    "BOTICA MUNICIPAL": [
+      "4731"
+    ],
+    "DOCTOR FARMA": [
+      "5077"
+    ],
+    "FARMACIA HOSPITAL PE00d1A BLANCA": [
+      "5125"
+    ],
+    "FARMAZEN": [
+      "5257"
+    ],
+    "FARMACIA CONSULTORIO NAVAL": [
+      "5841"
+    ],
+    "MARGA MARGA": [
+      "6170",
+      "6187"
+    ],
+    "ISAVET": [
+      "6205"
+    ],
+    "CENTRO MEDICO VILLA ALEMANA": [
+      "6301"
+    ],
+    "BOTIQU00cdN UNO SALUD VILLA ALEMANA": [
+      "6399"
+    ],
+    "REDFARMA": [
+      "6419"
+    ],
+    "FARMACIA NUEVA NATURA": [
+      "6753"
+    ],
+    "FARMACIA MARGA MARGA": [
+      "6955"
+    ],
+    "LA FARMACIA": [
+      "7276"
+    ],
+    "ATOM FARMACIA": [
+      "7310"
+    ],
+    "FARMAQUINTA": [
+      "7599"
+    ]
+  },
+  "VI00d1A DEL MAR": {
+    "AHUMADA": [
+      "79",
+      "81",
+      "82",
+      "83",
+      "84",
+      "85",
+      "87",
+      "88",
+      "89",
+      "91",
+      "140"
+    ],
+    "CRUZ VERDE": [
+      "93",
+      "94",
+      "95",
+      "96",
+      "97",
+      "98",
+      "99",
+      "100",
+      "102",
+      "103",
+      "104",
+      "106",
+      "141",
+      "302",
+      "331",
+      "332",
+      "4283",
+      "4881",
+      "5835",
+      "5956",
+      "6161",
+      "6615"
+    ],
+    "DR. SIMI": [
+      "107",
+      "108",
+      "110",
+      "137",
+      "494",
+      "4066",
+      "5845",
+      "6019",
+      "6354",
+      "6379",
+      "6816",
+      "7147"
+    ],
+    "GALENICA": [
+      "112"
+    ],
+    "HAHNEMANN": [
+      "113"
+    ],
+    "MICKMAN": [
+      "114"
+    ],
+    "KNOP": [
+      "115",
+      "495",
+      "4339",
+      "6942"
+    ],
+    "NOVASALUD": [
+      "117"
+    ],
+    "SALCOBRAND": [
+      "119",
+      "120",
+      "121",
+      "124",
+      "125",
+      "126",
+      "127",
+      "128",
+      "129",
+      "143",
+      "4138",
+      "4889",
+      "6850"
+    ],
+    "SEREY": [
+      "132"
+    ],
+    "VILLANELO 00a0": [
+      "134"
+    ],
+    "VI00d1AMARINA": [
+      "135"
+    ],
+    "FARMAMED": [
+      "138"
+    ],
+    "ECOFARMACIAS": [
+      "139",
+      "142",
+      "491",
+      "4446"
+    ],
+    "FARMACHILE": [
+      "299",
+      "4001",
+      "5834"
+    ],
+    "SAN JAVIER": [
+      "306"
+    ],
+    "INTEGRAMEDICA": [
+      "4134"
+    ],
+    "SERMEDIAL": [
+      "4137"
+    ],
+    "CLINHE": [
+      "4148"
+    ],
+    "HOSPITAL MIRAFLORES": [
+      "4384"
+    ],
+    "HOSPITAL IST": [
+      "4385"
+    ],
+    "HOSPITAL RE00d1ACA": [
+      "4386"
+    ],
+    "CL00cdNICA CIUDAD DEL MAR": [
+      "4387"
+    ],
+    "HOSPITAL FRICKE": [
+      "4388"
+    ],
+    "HOSPITAL VI00d1A DEL MAR": [
+      "4389"
+    ],
+    "PUNTO FARMACIA": [
+      "4447"
+    ],
+    "OFTALMOLASER": [
+      "4502"
+    ],
+    "HOGAR LA ROCA": [
+      "4503"
+    ],
+    "SEMEFIC": [
+      "4510"
+    ],
+    "RUKANT00da": [
+      "4581"
+    ],
+    "FARMAXPRESS": [
+      "4606"
+    ],
+    "AZUCENA": [
+      "4663"
+    ],
+    "COMUNAL CMVM VI00d1A DEL MAR": [
+      "4682"
+    ],
+    "CL00cdNICA TABANCURA": [
+      "4858"
+    ],
+    "CL00cdNICA ODONTOL00d3GICA ANDR00c9S BELLO": [
+      "4859"
+    ],
+    "HOSPITAL CL00cdNICO VETERINARIO UNIVERDIDAD SANTO TOM00c1S": [
+      "4860"
+    ],
+    "CL00cdNICA VETERINARIA CENTRO INTEGRAL DE MASCOTAS": [
+      "4861"
+    ],
+    "LA ROCA": [
+      "4865"
+    ],
+    "UNO SALUD": [
+      "4890"
+    ],
+    "CTA TIEMPO DE CRECER": [
+      "4913"
+    ],
+    "CTA TIEMPO DE ESPERANZA": [
+      "4934"
+    ],
+    "CTR VIDA NUEVA": [
+      "5030"
+    ],
+    "DEL MAR": [
+      "5031"
+    ],
+    "FUNDACION DIABETES JUVENIL DE CHILE": [
+      "5146"
+    ],
+    "OCCA": [
+      "5224"
+    ],
+    "SONORAD II": [
+      "5282"
+    ],
+    "FARMACIA HOGAN": [
+      "5442"
+    ],
+    "UNIMEDICAL": [
+      "5488"
+    ],
+    "UNO SALUD VI00d1A DOS": [
+      "5493"
+    ],
+    "OFTALMOMED": [
+      "5495"
+    ],
+    "CL00cdNICA VETERINARIA SEVET": [
+      "5496"
+    ],
+    "VACUNATORIO ESTUDIO PEDIATRICO INTEGRAL": [
+      "5497"
+    ],
+    "BELMED": [
+      "5498"
+    ],
+    "ONCOCENTRO": [
+      "5529"
+    ],
+    "MOLECULARE": [
+      "5538"
+    ],
+    "UMI": [
+      "5583"
+    ],
+    "DR SIMI": [
+      "5587"
+    ],
+    "ECOFARMACIA": [
+      "5664",
+      "5966"
+    ],
+    "MEGASCAN": [
+      "5737"
+    ],
+    "RESONANCIA MAGN00c9TICA NUCLEAR": [
+      "5738"
+    ],
+    "LEBEN": [
+      "5747"
+    ],
+    "GALA": [
+      "6016"
+    ],
+    "BOTIQU00cdN UROCENTRO": [
+      "6017"
+    ],
+    "BOTIQU00cdN VACUNATORIO CL00cdNICA RE00d1ACA": [
+      "6038"
+    ],
+    "BOTIQU00cdN CIRUG00cdA PL00c1STICA Y LIPOESCULTURA": [
+      "6040"
+    ],
+    "PAI VI00f1A": [
+      "6054"
+    ],
+    "FUNDACI00d3N P00c9REZ RIFO": [
+      "6055"
+    ],
+    "ALMA RA": [
+      "6067"
+    ],
+    "VIDA RENGO": [
+      "6120"
+    ],
+    "CINVEC": [
+      "6190",
+      "6308"
+    ],
+    "MARGA MARGA": [
+      "6356",
+      "6357",
+      "6405",
+      "6748",
+      "6921",
+      "7423"
+    ],
+    "BOSQUES": [
+      "6605"
+    ],
+    "IPHARMA": [
+      "6658"
+    ],
+    "ALHEL00cd": [
+      "6730"
+    ],
+    "FARMAPUEBLO": [
+      "6853"
+    ],
+    "SAN JUAN": [
+      "6902"
+    ],
+    "VACUNATORIO MONTEMAR": [
+      "6940"
+    ],
+    "GEOFARMA": [
+      "6992"
+    ],
+    "FARMA VI00d1A": [
+      "7027"
+    ],
+    "RODIN": [
+      "7028"
+    ],
+    "BOTIQU00cdN ONCOLOGICO": [
+      "7038"
+    ],
+    "LOS COPIHUES": [
+      "7217"
+    ],
+    "CENTRO MEDICINA NUCLEAR": [
+      "7296"
+    ],
+    "DA VINCI": [
+      "7374"
+    ],
+    "BOTIQU00cdN LIKE": [
+      "7396"
+    ],
+    "FARMACIA IPHARMA": [
+      "7458"
+    ]
+  },
+  "VALPARAISO": {
+    "ALMENDRAL": [
+      "151"
+    ],
+    "CRUZ VERDE": [
+      "154",
+      "156",
+      "158",
+      "159",
+      "160",
+      "161",
+      "163",
+      "186",
+      "2545",
+      "5289"
+    ],
+    "DR. SIMI": [
+      "164",
+      "165",
+      "532",
+      "2546",
+      "4052",
+      "4736",
+      "4850",
+      "5252",
+      "5351",
+      "5352",
+      "6385",
+      "6654",
+      "6789",
+      "6888"
+    ],
+    "GALENICA": [
+      "167"
+    ],
+    "IBERIA": [
+      "168"
+    ],
+    "PLAYA ANCHA": [
+      "170"
+    ],
+    "PORTE00d1A": [
+      "171"
+    ],
+    "NACIONAL": [
+      "172"
+    ],
+    "BOTICA UNI00d3N": [
+      "173"
+    ],
+    "FAMIFARMA": [
+      "174"
+    ],
+    "SALCOBRAND": [
+      "175",
+      "179",
+      "180",
+      "4520"
+    ],
+    "BOTICA SALCOBRAND": [
+      "181"
+    ],
+    "KNOP": [
+      "182",
+      "183",
+      "184"
+    ],
+    "MAS SALUD": [
+      "185"
+    ],
+    "CONAC": [
+      "187"
+    ],
+    "SANA SANA": [
+      "241"
+    ],
+    "LA SALUD": [
+      "508"
+    ],
+    "ASOCIACION CHILENA DE SEGURIDAD": [
+      "2623"
+    ],
+    "FARMACIA CAPREDENA": [
+      "4054"
+    ],
+    "CITYMED": [
+      "4169"
+    ],
+    "ECOFARMACIAS": [
+      "4244",
+      "5269",
+      "5482",
+      "6052"
+    ],
+    "CENTRO DE REPRODUCCION HUMANA": [
+      "4340"
+    ],
+    "HOSPITAL CARLOS VAN BUREN": [
+      "4391"
+    ],
+    "HOSPITAL DEL SALVADOR": [
+      "4392"
+    ],
+    "LUIS CARDENAS": [
+      "4515"
+    ],
+    "JUSTICIA": [
+      "4516"
+    ],
+    "AHUMADA": [
+      "4656"
+    ],
+    "OCCA": [
+      "4664"
+    ],
+    "REGIONAL": [
+      "4665"
+    ],
+    "HOSPITAL VETERINARIO DE CURAUMA": [
+      "4669"
+    ],
+    "CLINICA VETERINARIA VETCLIN": [
+      "4670"
+    ],
+    "CLINICA VETERINARIA PACIFICO SUR": [
+      "4671"
+    ],
+    "VETERINARIA PLACILLA E.I.R.L.": [
+      "4672"
+    ],
+    "MAPUCHE MAKELAWEN": [
+      "4692"
+    ],
+    "BIOTERIO CENTRAL": [
+      "4734"
+    ],
+    "CONSULTA VETERINARIA XTREME PET2\"S": [
+      "4740"
+    ],
+    "POPULAR VALPARA00edSO": [
+      "4771"
+    ],
+    "BOTIQU00cdN CLINICA DERMOEST00c9TICA": [
+      "4869"
+    ],
+    "BOTIQUIN CLINICA VETERINARIA MASCOTAS CURAUMA": [
+      "4870"
+    ],
+    "SAN JUAN": [
+      "5246",
+      "5881",
+      "6403"
+    ],
+    "UNO SALUD DENTAL": [
+      "5285"
+    ],
+    "FARMACIA POPULAR LAGUNA VERDE": [
+      "5433"
+    ],
+    "SANITO": [
+      "5486"
+    ],
+    "MUTUAL DE SEGURIDAD CAMARA CHILENA DE LA CONSTRUCCI00f3N": [
+      "5745"
+    ],
+    "BURSAN": [
+      "5750"
+    ],
+    "CLINICAL PHARMA": [
+      "5849"
+    ],
+    "EKIS": [
+      "5850"
+    ],
+    "FARMACIA POPULAR DE PLACILLA DE PE00d1UELAS": [
+      "6008"
+    ],
+    "NUCLEO SALUD VALPARAISO": [
+      "6282"
+    ],
+    "CHILENA": [
+      "6283",
+      "6806"
+    ],
+    "BOTIQUIN CEMED VALPARA00cdSO": [
+      "6285"
+    ],
+    "ECOFARMACIA": [
+      "6329",
+      "6887"
+    ],
+    "NUEVA": [
+      "6409"
+    ],
+    "PROVINCIAL": [
+      "6889"
+    ],
+    "DOCTOR SIMI": [
+      "7054"
+    ],
+    "FARMACIA FARMALAB": [
+      "7497"
+    ],
+    "FARMACIAS UNIDAS": [
+      "7498"
+    ]
+  },
+  "CASABLANCA": {
+    "ECONOMICA": [
+      "192"
+    ],
+    "CRUZ VERDE": [
+      "498",
+      "6284"
+    ],
+    "DR SIMI": [
+      "4512"
+    ],
+    "FUNDACION STUKA": [
+      "4741"
+    ],
+    "BOTICA COMUNAL CASABLANCA": [
+      "5410"
+    ],
+    "COMUNITARIA MAS SALUD": [
+      "6441"
+    ],
+    "DOCTOR SIMI": [
+      "7177"
+    ]
+  },
+  "ALGARROBO": {
+    "ALGARROBO": [
+      "194"
+    ],
+    "CRUZ VERDE": [
+      "195",
+      "196"
+    ],
+    "GALVEZ": [
+      "198"
+    ],
+    "DR. SIMI": [
+      "5989"
+    ],
+    "FARMACIA LITORAL": [
+      "6424"
+    ],
+    "FARMACIA SANA SANA": [
+      "6466"
+    ]
+  },
+  "EL QUISCO": {
+    "CRUZ VERDE": [
+      "199"
+    ],
+    "EL QUISCO": [
+      "200"
+    ],
+    "FARMACIA MUNICIPAL EL QUISCO": [
+      "4750"
+    ],
+    "SANA SANA": [
+      "4923"
+    ],
+    "DR. SIMI": [
+      "5483"
+    ],
+    "FARMACIA MUNICIPAL MARIO HENR00edQUEZ LILLO": [
+      "6267"
+    ],
+    "SALCOBRAND": [
+      "6269"
+    ],
+    "SALEM": [
+      "6406"
+    ],
+    "FARMACIA LITORAL": [
+      "6834"
+    ]
+  },
+  "EL TABO": {
+    "SAN ENRIQUE": [
+      "203"
+    ],
+    "FARMASOL": [
+      "204"
+    ],
+    "SAN PABLO": [
+      "4373"
+    ],
+    "CESFAM EL TABO": [
+      "5981"
+    ],
+    "FARMACIA MUNICIPAL EL TABO": [
+      "6315"
+    ]
+  },
+  "CARTAGENA": {
+    "CARTAGENA": [
+      "206"
+    ],
+    "CRUZ VERDE": [
+      "207"
+    ],
+    "SAN SEBASTIAN": [
+      "208"
+    ],
+    "FARMACIA MUNICIPAL DE CARTAGENA": [
+      "5028"
+    ],
+    "DR. SIMI": [
+      "6423"
+    ]
+  },
+  "SAN ANTONIO": {
+    "CRUZ VERDE": [
+      "211",
+      "213",
+      "214",
+      "225",
+      "6324"
+    ],
+    "DR. SIMI": [
+      "215",
+      "4136",
+      "5589",
+      "6281",
+      "6407"
+    ],
+    "MASTER": [
+      "216"
+    ],
+    "FARMACIA MINELY": [
+      "217"
+    ],
+    "SALCOBRAND": [
+      "218",
+      "219",
+      "224",
+      "5547"
+    ],
+    "SAN ENRIQUE": [
+      "220"
+    ],
+    "SAN NICOLAS": [
+      "221"
+    ],
+    "CENTRAL DE HOMEOPATIA SAN ANTONIO": [
+      "222"
+    ],
+    "FARMACIA BRIELY": [
+      "4042"
+    ],
+    "HOSPITAL CLAUDIO VICU00d1A": [
+      "4393"
+    ],
+    "INSTITUTO DE SEGURIDAD DEL TRABAJO": [
+      "4479"
+    ],
+    "CLINICA SAN JULIAN": [
+      "4744"
+    ],
+    "CENTRO DE DIALISIS DIAMAR LTDA.": [
+      "4746"
+    ],
+    "CENTRO DE ATENCION DE SALUD DE GENDARMERIA DE CHILE": [
+      "4749"
+    ],
+    "PHARMA PUERTO": [
+      "5249"
+    ],
+    "SANA SANA": [
+      "5254"
+    ],
+    "BOTIQUIN DIAVERUM": [
+      "5355"
+    ],
+    "CLINICA INTERMEDICAL": [
+      "5852"
+    ],
+    "BELEN": [
+      "5975"
+    ],
+    "FARMACIA MUNICIPAL SAN ANTONIO": [
+      "6268"
+    ],
+    "BENDITO REMEDIO": [
+      "6286"
+    ],
+    "FARMAMED": [
+      "6616"
+    ],
+    "FARMACIA FARMANOVA": [
+      "6617",
+      "6835"
+    ],
+    "LA BOTICA DEL PUERTO": [
+      "6670"
+    ],
+    "EKONOFARMACIAS": [
+      "6697"
+    ],
+    "FARMACIA PHARMACYS RP": [
+      "7039"
+    ],
+    "FARMACIA FARMAS": [
+      "7566"
+    ],
+    "FARMACIA DAFARMA": [
+      "7622"
+    ]
+  },
+  "SANTO DOMINGO": {
+    "CRUZ VERDE": [
+      "227"
+    ],
+    "FARMACIA MUNICIPAL SANTO REMEDIO": [
+      "5286"
+    ],
+    "PHARMACYS RP": [
+      "5851"
+    ],
+    "FARMACIAS DEL DOCTOR SIMI": [
+      "7009"
+    ],
+    "FARMACIA PHARMAPUERTO": [
+      "7623"
+    ]
+  },
+  "ISLA DE PASCUA": {
+    "CRUZ VERDE": [
+      "228"
+    ],
+    "SALCOBRAND": [
+      "4421"
+    ],
+    "DEL PACIFICO": [
+      "4884"
+    ]
+  },
+  "CABILDO": {
+    "CABILDO": [
+      "245"
+    ],
+    "ECOFARMACIAS": [
+      "246"
+    ],
+    "NUEVA CABILDO": [
+      "247"
+    ],
+    "CRUZ VERDE": [
+      "248"
+    ],
+    "DR SIMI": [
+      "4658"
+    ],
+    "FARMACIA POPULAR CABILDO": [
+      "4833"
+    ]
+  },
+  "CATEMU": {
+    "FARMAVIDA": [
+      "249"
+    ],
+    "JOE'S PHARMACY": [
+      "6046"
+    ]
+  },
+  "LA LIGUA": {
+    "CRUZ VERDE": [
+      "250"
+    ],
+    "DR. SIMI": [
+      "252"
+    ],
+    "ECOFARMACIAS": [
+      "253",
+      "254"
+    ],
+    "PORTALES": [
+      "255"
+    ],
+    "AHUMADA": [
+      "256"
+    ],
+    "DEL VALLE": [
+      "4077",
+      "6445"
+    ],
+    "FARMAEXPRESS": [
+      "4078"
+    ],
+    "HOSPITAL SAN AGUSTIN": [
+      "4766"
+    ],
+    "CESFAM RAUL SANCHEZ": [
+      "4767"
+    ],
+    "FARMACIA POPULAR LA LIGUA": [
+      "4768"
+    ],
+    "CENTRO DE DI00c0LISIS VITTA": [
+      "5382"
+    ],
+    "ECUVIDA": [
+      "5846"
+    ],
+    "SUFARMA": [
+      "6080"
+    ],
+    "FARMACIA POPULAR VALLE HERMOSO": [
+      "6375"
+    ],
+    "FARMACIA AQUAFARMA": [
+      "7421"
+    ]
+  },
+  "LOS ANDES": {
+    "AHUMADA": [
+      "257",
+      "269"
+    ],
+    "CRUZ VERDE": [
+      "258",
+      "259",
+      "270"
+    ],
+    "DR. SIMI": [
+      "260"
+    ],
+    "EL CONDOR": [
+      "261"
+    ],
+    "SALCOBRAND": [
+      "263",
+      "264",
+      "265",
+      "266"
+    ],
+    "SANTA ROSA": [
+      "267"
+    ],
+    "KNOP": [
+      "268"
+    ],
+    "POLICLINICO PORTILLO": [
+      "2620"
+    ],
+    "SCANNER MED": [
+      "2672"
+    ],
+    "ESACHS SALADILLO": [
+      "2834"
+    ],
+    "ECOFARMACIA": [
+      "3212",
+      "7128"
+    ],
+    "HOSPITAL SAN JUAN DE DIOS DE LOS ANDES": [
+      "4758"
+    ],
+    "CAE HOSPITAL SAN JUAN DE DIOS DE LOS ANDES": [
+      "4759"
+    ],
+    "CESFAM CENTENARIO": [
+      "4761"
+    ],
+    "CECOSF JUAN PABLO SEGUNDO": [
+      "4762"
+    ],
+    "POSTA RIO BLANCO": [
+      "4763"
+    ],
+    "CENTRO DE CUMPLIMIENTO PENITENCIARIO": [
+      "4764"
+    ],
+    "DR SIMI": [
+      "4811"
+    ],
+    "FARMACIA POPULAR LOS ANDES": [
+      "4841"
+    ],
+    "FARMACIA CLINICA RIO BLANCO": [
+      "4842"
+    ],
+    "BOTICA ANDINA": [
+      "4908"
+    ],
+    "FARMAVIDA": [
+      "5044"
+    ],
+    "CENTENARIO": [
+      "5363"
+    ],
+    "CLINICA VETERINARIA MUNDO HIUELLITAS": [
+      "5381"
+    ],
+    "FARMANDES": [
+      "5389"
+    ],
+    "ESPERANZA": [
+      "5391"
+    ],
+    "FARMACIA COSAM LOS ANDES": [
+      "5458"
+    ],
+    "FARMAINTEGRAL": [
+      "5601"
+    ],
+    "BOTIQUIN INTERIOR MINA SUR SUR": [
+      "6049"
+    ],
+    "BOTIQUIN INTERIOR MINA NIVEL 17": [
+      "6050"
+    ],
+    "FARMAFEL": [
+      "6334"
+    ],
+    "SANTO REMEDIO": [
+      "6659"
+    ]
+  },
+  "PAPUDO": {
+    "DEL VALLE": [
+      "271"
+    ],
+    "SAN JOSE PAPUDO": [
+      "272"
+    ]
+  },
+  "PUTAENDO": {
+    "NUEVA ANTONIO": [
+      "274"
+    ],
+    "FARMAVIDA": [
+      "275"
+    ],
+    "HOSP. PSIQUIATRICO P. PINEL": [
+      "4074"
+    ]
+  },
+  "SAN FELIPE": {
+    "AHUMADA": [
+      "276"
+    ],
+    "CRUZ VERDE": [
+      "277",
+      "278",
+      "283"
+    ],
+    "DR. SIMI": [
+      "280"
+    ],
+    "NUEVA MODERNA": [
+      "281"
+    ],
+    "SALCOBRAND": [
+      "282",
+      "285"
+    ],
+    "KNOP": [
+      "284"
+    ],
+    "BELLPARMA": [
+      "286"
+    ],
+    "ANTONIO": [
+      "294"
+    ],
+    "ECOFARMACIAS": [
+      "345",
+      "5899"
+    ],
+    "POLICLINICO CCHC": [
+      "2634"
+    ],
+    "DIALISIS DEL VALLE": [
+      "2648"
+    ],
+    "SERVIMEDICA": [
+      "2673"
+    ],
+    "BELLFARMA": [
+      "4662"
+    ],
+    "FARMACIA MUNICIPAL DR. EDUARDO VALENZUELA": [
+      "4681"
+    ],
+    "ASOCIACI00d3N CHILENA DE SEGURIDAD": [
+      "4775"
+    ],
+    "HOSPITAL SAN CAMILO": [
+      "4776"
+    ],
+    "BOTIQUIN GENDARMERIA SAN FELIPE": [
+      "4822"
+    ],
+    "ECO FARMACIA": [
+      "4856"
+    ],
+    "DR SIMI": [
+      "4898"
+    ],
+    "RENACER JUVENIL": [
+      "5392"
+    ],
+    "ESPERANZA JUVENIL": [
+      "5393"
+    ],
+    "INVERSIONES SAN FELIPE S.A.": [
+      "6185"
+    ],
+    "REDFARMA": [
+      "7184",
+      "7431"
+    ],
+    "FARMAINTEGRAL": [
+      "7635"
+    ]
+  },
+  "SANTA MARIA": {
+    "FARMAVIDA": [
+      "287"
+    ]
+  },
+  "ZAPALLAR": {
+    "CRUZ VERDE": [
+      "289"
+    ],
+    "FARMARKET": [
+      "290"
+    ],
+    "FARMACIA MOVIL ITINERANTE MUNICIPAL DE ZAPALLAR": [
+      "6086"
+    ],
+    "ALMACEN FARMACEUTICO CATAPILCO": [
+      "6186"
+    ]
+  },
+  "LLAY LLAY": {
+    "ECOFARMACIAS": [
+      "292"
+    ],
+    "CRUZ VERDE": [
+      "293"
+    ],
+    "DR. SIMI": [
+      "4086"
+    ],
+    "HOSPITAL SAN FRANCISCO": [
+      "4418"
+    ],
+    "POLICLINICO I.S.T. LLAYLLAY": [
+      "4613"
+    ],
+    "DIALISIS DEL VALLE": [
+      "4769"
+    ],
+    "PHARMACY Y DRUGSTORE": [
+      "6420"
+    ]
+  },
+  "JUAN FERNANDEZ": {
+    "SALCOBRAND": [
+      "296"
+    ]
+  },
+  "IQUIQUE": {
+    "FARMACIA AHUMADA": [
+      "297",
+      "298",
+      "314",
+      "315",
+      "5431"
+    ],
+    "FARMACIA ARAUCO": [
+      "319"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "322",
+      "323",
+      "335",
+      "337",
+      "338",
+      "341",
+      "342",
+      "343",
+      "344",
+      "3332",
+      "3333",
+      "4139",
+      "5293",
+      "5485",
+      "5661",
+      "7212"
+    ],
+    "FARMACIA DR. SIMI": [
+      "3334",
+      "4338",
+      "5284",
+      "5365",
+      "5585"
+    ],
+    "FARMAX": [
+      "3349"
+    ],
+    "NACIONAL": [
+      "3360"
+    ],
+    "FARMACIA BELLO": [
+      "3361"
+    ],
+    "PLAYA BRAVA": [
+      "3382"
+    ],
+    "PRINCIPAL": [
+      "3387"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3389",
+      "3395",
+      "3399",
+      "3401",
+      "3412"
+    ],
+    "FARMAC IA TRI-O FARMA": [
+      "4489"
+    ],
+    "FARMACIA COMUNAL DE IQUIQUE": [
+      "4695"
+    ],
+    "FARMACIA GENESIS": [
+      "4835"
+    ],
+    "FARMACIA FARMANDINA": [
+      "4887"
+    ],
+    "LIGA CHILENA CONTRA LA EPILEPSIA": [
+      "4914"
+    ],
+    "BOTIQUIN CENTRO DI00c1LISIS LA TIRANA": [
+      "5033"
+    ],
+    "BOTIQU00cdN PABELL00d3N CIRUG00cdA MENOR DE LA CL00cdNICA COSTA MAR": [
+      "5034"
+    ],
+    "FARMACIA DEL DR. SIMI": [
+      "5037"
+    ],
+    "FARMACIA HOFFEN": [
+      "5118"
+    ],
+    "FARMACIA TRI-O FARMA": [
+      "5369"
+    ],
+    "BOTIQUIN VACUNATORIO CENTRO MEDICO CLINICA TARAPACA": [
+      "5373"
+    ],
+    "FARMACIA NOVAVITA": [
+      "5414"
+    ],
+    "FUNDACION DR. JORGE PEREZ RIFO": [
+      "5459"
+    ],
+    "BOTIQUIN PABELLON CIRUGIA MENOR REFRACTIVA LASER": [
+      "5490"
+    ],
+    "BOTIQUIN CENTRO MEDICO VETERINARIO ZOOMUNDO": [
+      "5491"
+    ],
+    "CENTRO DE DIALISIS IQUIQUE": [
+      "5520"
+    ],
+    "CLINICA PUCAR00c1": [
+      "5586"
+    ],
+    "BOTIQUIN CLINICA VETERINARIA DR. VET": [
+      "5590"
+    ],
+    "FARMACIA VIDAMED": [
+      "5605"
+    ],
+    "BOTIQUIN CLINICA ESTETICA MEDICA": [
+      "5663"
+    ],
+    "FARMACIA ADONAY": [
+      "5739"
+    ],
+    "SERVICIO PRIVADO DE TRASLADO DE ENFERMOS LIFEMED": [
+      "5740"
+    ],
+    "BOTIQU00cdN CLINICA AUREA": [
+      "5771"
+    ],
+    "FARMACIA KNOP": [
+      "5791"
+    ],
+    "FARMACIA PENINSULA": [
+      "5792"
+    ],
+    "FARMACIA ALGARROBO": [
+      "5964"
+    ],
+    "FARMACIA NEOFARMA": [
+      "5980"
+    ],
+    "BOTIQUIN POSTA RURAL DE CHANAVAYITA": [
+      "5992"
+    ],
+    "FARMACIA EL AMIGO DEL PUEBLO": [
+      "6123"
+    ],
+    "FARMACIA ASISTENCIAL DEL HOSPITAL DR. ERNESTO TORRES GALDAMES": [
+      "6270"
+    ],
+    "BOTIQUIN CECOSF CERRO ESMERALDA": [
+      "6273"
+    ],
+    "BOTIQUIN SAR CESFAM SUR DE IQUIQUE": [
+      "6296"
+    ],
+    "BOTIQUIN VACUNATORIO CLINICA IQUIQUE": [
+      "6317"
+    ],
+    "BOTIQUIN POLICLINICO DE LA ASOCIACI00d3N CHILENA DE SEGURIDAD (ACHS)": [
+      "6332"
+    ],
+    "BOTIQUIN CENTRO DE DIALISIS MEDICEN": [
+      "6333"
+    ],
+    "BOTIQUIN CENTRO CLINICO MILITAR": [
+      "6336"
+    ],
+    "BOTIQU00cdN DEL CENTRO DE DI00c1LISIS DE LA CORPORACION PAUL HARRIS": [
+      "6341"
+    ],
+    "BOTIQUIN DEL CTR PAI FERNANDO ALIAGA": [
+      "6344"
+    ],
+    "BOTIQU00cdN DEL CENTRO RADIOLOGICO TAMARUGAL": [
+      "6394"
+    ],
+    "FARMACIA ALOPATICA NOVAVITA": [
+      "6410"
+    ],
+    "FARMACIA SERVICIO SALUD IQUIQUE": [
+      "6412"
+    ],
+    "FARMACIA ALOPATICA LA BOTIKA": [
+      "6413"
+    ],
+    "FARMACIA NACIONAL": [
+      "6610"
+    ],
+    "HERBALMED": [
+      "6708"
+    ],
+    "FARMACIA REDNORTE": [
+      "6840"
+    ],
+    "BOTIQU00cdN CESFAM CIRUJANO AGUIRRE": [
+      "6897"
+    ],
+    "BOTIQUIN CL00cdNICA TARAPAC00c1": [
+      "7024"
+    ],
+    "FARMACIA BIOPHARMA": [
+      "7378"
+    ],
+    "BOTIQUIN UNIDAD PACIENTE CRITICO CLINICA IQUIQUE": [
+      "7495"
+    ],
+    "FARMACIA FARMA IQUIQUE": [
+      "7600"
+    ],
+    "BOTIQUIN CENTRO DE DIALISIS ALTO MEDICEN": [
+      "7628"
+    ]
+  },
+  "CONCON": {
+    "CRUZ VERDE": [
+      "308",
+      "309",
+      "310",
+      "6192"
+    ],
+    "AHUMADA": [
+      "311"
+    ],
+    "SALCOBRAND": [
+      "312",
+      "4192"
+    ],
+    "FAMIFARMA": [
+      "313"
+    ],
+    "MONTEMAR": [
+      "334"
+    ],
+    "DR. SIMI": [
+      "3977",
+      "6625"
+    ],
+    "GEOFARMA": [
+      "4756",
+      "7247"
+    ],
+    "COMUNAL CONCON": [
+      "4910"
+    ],
+    "CENTRO M00c9DICO IST CONC00d3N": [
+      "4911"
+    ],
+    "PUNTO FARMACIA": [
+      "5250"
+    ],
+    "DI00c1LISIS SAN JOSE DE CHIMBARONGO": [
+      "5387"
+    ],
+    "PETHOUSE": [
+      "5494"
+    ],
+    "TOGA": [
+      "5582"
+    ],
+    "SANA SANA": [
+      "6763"
+    ]
+  },
+  "ALTO HOSPICIO": {
+    "FARMACIA CRUZ DEL SUR": [
+      "321"
+    ],
+    "CRUZ DEL SUR": [
+      "3328"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3329"
+    ],
+    "GENESIS": [
+      "3354"
+    ],
+    "LAS AMERICAS": [
+      "3359"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3409"
+    ],
+    "FARMACIA VITAL": [
+      "3416"
+    ],
+    "ZONA VITAL": [
+      "3418"
+    ],
+    "DR. SIMI": [
+      "4015"
+    ],
+    "FARMACIA DEL FORMULARIO": [
+      "4634"
+    ],
+    "FARMACIA DR. SIMI": [
+      "4862",
+      "7246"
+    ],
+    "FARMACIA MUNICIPAL DR. PEDRO PULGAR MELGAREJO": [
+      "5043"
+    ],
+    "SAPU DR. PEDRO PULGAR MELGAREJO": [
+      "5741"
+    ],
+    "BOTIQUIN CESFAM DR. YANDRY A00d1AZCO MONTERO": [
+      "5766"
+    ],
+    "BOTIQUIN SALA DE PROCEDIMIENTOS INVASIVOS CLINICA VIDA SANA": [
+      "6335"
+    ],
+    "LOS ALAMOS": [
+      "6707"
+    ],
+    "FARMACIA MEGAFARMA": [
+      "7062"
+    ],
+    "FARMACIA VITAL SANTA ROSA": [
+      "7182"
+    ],
+    "FARMACIA ALMA": [
+      "7211"
+    ]
+  },
+  "HIJUELAS": {
+    "CENTRO DE SALUD FAMILIAR HIJUELAS": [
+      "354"
+    ],
+    "POSTA DE SALUD RURAL ROMERAL": [
+      "355"
+    ],
+    "PLAZA HIJUELAS": [
+      "5412"
+    ]
+  },
+  "RINCONADA": {
+    "CESFAM RINCONADA": [
+      "357"
+    ],
+    "SANTO REMEDIO": [
+      "4577"
+    ]
+  },
+  "PANQUEHUE": {
+    "CESFAM PANQUEHUE": [
+      "358"
+    ]
+  },
+  "SAN ESTEBAN": {
+    "CESFAM SAN ESTEBAN": [
+      "359"
+    ],
+    "CECOSF LO CALVO": [
+      "361"
+    ],
+    "A.F. BOTICA LILLO": [
+      "4610"
+    ],
+    "RENACER": [
+      "5390"
+    ],
+    "FARMACIA SAN ESTEBAN": [
+      "7504"
+    ]
+  },
+  "RECOLETA": {
+    "TORRES MPD": [
+      "534"
+    ],
+    "AHUMADA": [
+      "1641"
+    ],
+    "B P M": [
+      "1642"
+    ],
+    "BICENTENARIO": [
+      "1643",
+      "1644",
+      "1645"
+    ],
+    "CRUZ DEL NORTE": [
+      "1646"
+    ],
+    "FARMARKET": [
+      "1648"
+    ],
+    "CRUZ VERDE": [
+      "1649",
+      "1650",
+      "1651",
+      "1652",
+      "3987",
+      "5534"
+    ],
+    "DAVID": [
+      "1653"
+    ],
+    "DEL DR. SIMI": [
+      "1655",
+      "1656",
+      "5302",
+      "5319"
+    ],
+    "FARMACUBA": [
+      "1657"
+    ],
+    "RP FARMA": [
+      "1658"
+    ],
+    "GANDARA": [
+      "1659",
+      "4104"
+    ],
+    "LA BOTICA CUBANA": [
+      "1660",
+      "1661",
+      "4112",
+      "5898"
+    ],
+    "MARSIL": [
+      "1662",
+      "1663",
+      "4790"
+    ],
+    "OCHOA": [
+      "1664"
+    ],
+    "EL SALTO": [
+      "1669"
+    ],
+    "VITALE": [
+      "1670"
+    ],
+    "SANTA TERESITA": [
+      "1671"
+    ],
+    "FARMAPRECIO": [
+      "2553"
+    ],
+    "MEDICAR": [
+      "4093"
+    ],
+    "LATINOAMERICANA": [
+      "4097"
+    ],
+    "CRUZ DEL SUR": [
+      "4576"
+    ],
+    "POPULAR RECOLETA RICARDO SILVA SOTO": [
+      "4916"
+    ],
+    "JESUS DEL GRAN PODER": [
+      "5102"
+    ],
+    "SOLGREENS": [
+      "5638",
+      "5826"
+    ],
+    "VIDA FARM": [
+      "5896"
+    ],
+    "DAVIFAR": [
+      "5903"
+    ],
+    "GUSI": [
+      "5907"
+    ],
+    "CLARITA": [
+      "6002"
+    ],
+    "SERVIFARMA": [
+      "6498"
+    ],
+    "VACUNATORIO - CESFAM CRISTO VIVE": [
+      "6559"
+    ],
+    "LAWENCHE": [
+      "7075"
+    ],
+    "COPIHUE": [
+      "7265"
+    ],
+    "PRONTO FARMA": [
+      "7286"
+    ],
+    "BOTICA LAWEN": [
+      "7386"
+    ],
+    "MAICAO": [
+      "7453"
+    ],
+    "PATRONATO": [
+      "7509"
+    ]
+  },
+  "BUIN": {
+    "AHUMADA": [
+      "753",
+      "754",
+      "4216",
+      "5818"
+    ],
+    "BUIN": [
+      "755"
+    ],
+    "CRUZ VERDE": [
+      "756",
+      "5068"
+    ],
+    "DEL DR. SIMI": [
+      "757",
+      "6506"
+    ],
+    "EL ALBA": [
+      "758"
+    ],
+    "KURTH": [
+      "759"
+    ],
+    "PLAZA BUIN": [
+      "760"
+    ],
+    "SANTA CATALINA": [
+      "761"
+    ],
+    "SUIZA": [
+      "762"
+    ],
+    "SALCOBRAND": [
+      "764",
+      "765"
+    ],
+    "MONTT": [
+      "4057"
+    ],
+    "FARMACIA POPULAR DE BUIN CONCEJAL RAM00d3N CALDER00d3N HORMAZ00c1BAL": [
+      "4704"
+    ],
+    "FARMACIA DE URGENCIA": [
+      "5461"
+    ],
+    "PLAZA": [
+      "6158"
+    ],
+    "REDFARMA": [
+      "6386"
+    ],
+    "UNIDAS": [
+      "6664",
+      "6665"
+    ],
+    "KNOP": [
+      "7112"
+    ],
+    "CENTRO DE SALUD FAMILIAR MAIPO": [
+      "7376"
+    ]
+  },
+  "CALERA DE TANGO": {
+    "CALERA DE TANGO": [
+      "766"
+    ],
+    "CRUZ VERDE": [
+      "767",
+      "5329"
+    ],
+    "EFRAIN": [
+      "768"
+    ],
+    "OMLU": [
+      "4498"
+    ],
+    "MAS SALUD": [
+      "7269"
+    ]
+  },
+  "CERRILLOS": {
+    "AHUMADA": [
+      "771",
+      "4163"
+    ],
+    "HELP": [
+      "775"
+    ],
+    "K00dcMELEN": [
+      "776"
+    ],
+    "LA FE": [
+      "777"
+    ],
+    "VILLA MEXICO": [
+      "778"
+    ],
+    "SALCOBRAND": [
+      "780"
+    ],
+    "CRUZ VERDE": [
+      "4365",
+      "6102"
+    ],
+    "FARMACIA POPULAR DE CERRILLOS": [
+      "4999"
+    ],
+    "HELP SERVICE": [
+      "5301"
+    ],
+    "SOLUFAR": [
+      "5830",
+      "6923"
+    ],
+    "FARMAVEN": [
+      "6178"
+    ],
+    "CHILENA": [
+      "6780"
+    ]
+  },
+  "CERRO NAVIA": {
+    "CRUZ VERDE": [
+      "782"
+    ],
+    "DAVIFAR": [
+      "783"
+    ],
+    "DYLAN 2": [
+      "784"
+    ],
+    "ITALIA": [
+      "785"
+    ],
+    "ECONOSUR": [
+      "786"
+    ],
+    "SANTO THOMAS": [
+      "787"
+    ],
+    "SILVA": [
+      "788",
+      "789"
+    ],
+    "TIERRA DEL FUEGO": [
+      "790",
+      "792"
+    ],
+    "DB FARMACIAS": [
+      "791",
+      "5554"
+    ],
+    "DEL DR. SIMI": [
+      "793"
+    ],
+    "LA UNION": [
+      "794"
+    ],
+    "NEPTUNO": [
+      "795"
+    ],
+    "JOSE JOAQUIN PEREZ": [
+      "3984"
+    ],
+    "CATAGUS": [
+      "4505"
+    ],
+    "MAPOCHO": [
+      "4550"
+    ],
+    "NUESTRA FARMACIA": [
+      "5725"
+    ],
+    "POPULAR DE CERRO NAVIA": [
+      "6465"
+    ],
+    "K00fcME FELEN": [
+      "6509"
+    ],
+    "JOSEFA": [
+      "6668"
+    ],
+    "EBEN EZER": [
+      "6714"
+    ],
+    "NUEVA VIDA": [
+      "6779"
+    ],
+    "AYS00c9N": [
+      "7360"
+    ],
+    "KRISHNA": [
+      "7627"
+    ]
+  },
+  "COLINA": {
+    "AHUMADA": [
+      "796",
+      "797",
+      "798",
+      "799",
+      "4366",
+      "4528"
+    ],
+    "BELEN": [
+      "800"
+    ],
+    "CRUZ VERDE": [
+      "801",
+      "802",
+      "803",
+      "2556",
+      "4824",
+      "5825",
+      "7015"
+    ],
+    "DEL DR. SIMI": [
+      "804",
+      "4462"
+    ],
+    "HELIFARMA": [
+      "805"
+    ],
+    "NUEVA REAL": [
+      "807"
+    ],
+    "SAN MARTIN": [
+      "808"
+    ],
+    "SALCOBRAND": [
+      "809",
+      "810",
+      "811",
+      "4344",
+      "5551",
+      "5557",
+      "5922",
+      "6175"
+    ],
+    "TU FARMACIA": [
+      "4485",
+      "6609"
+    ],
+    "ESMERALDA": [
+      "4716"
+    ],
+    "COMUNAL COLINA": [
+      "4944"
+    ],
+    "LEMBACH": [
+      "5317"
+    ],
+    "PUNTOFARMA": [
+      "5647",
+      "6100"
+    ],
+    "CHICUREO": [
+      "5934"
+    ],
+    "VACUNATORIO - LOS PINOS": [
+      "6547"
+    ],
+    "VACUNATORIO - CLINICA ALEMANA CHICUREO": [
+      "6585"
+    ],
+    "ARMONIA": [
+      "6712"
+    ],
+    "KNOP": [
+      "7145"
+    ],
+    "CUMBRES": [
+      "7257"
+    ],
+    "COMUNAL ITINERANTE M00f3VIL COLINA": [
+      "7258"
+    ],
+    "ALC00c1NTARA": [
+      "7297"
+    ],
+    "CENTERFARMA": [
+      "7345"
+    ],
+    "TERRAFARMA": [
+      "7373"
+    ]
+  },
+  "CONCHALI": {
+    "AHUMADA": [
+      "812",
+      "813"
+    ],
+    "BELEN": [
+      "814",
+      "815",
+      "816"
+    ],
+    "CRUZ VERDE": [
+      "817",
+      "819",
+      "820"
+    ],
+    "FARMACIAS Y PERFUMERIAS FAMILIAR S.P.A.": [
+      "822"
+    ],
+    "SAN ANDRES": [
+      "823"
+    ],
+    "LA PALMILLA": [
+      "824"
+    ],
+    "NUEVA REAL": [
+      "825",
+      "912"
+    ],
+    "TEATINOS": [
+      "826"
+    ],
+    "VALLE DE VIDA": [
+      "4158",
+      "4559"
+    ],
+    "FARMACIA MUNICIPAL DE CONCHALI": [
+      "4705"
+    ],
+    "NOVOFARMA": [
+      "5335"
+    ],
+    "ECONOFARMA": [
+      "6129"
+    ],
+    "NOAH": [
+      "6130"
+    ],
+    "ABARCA": [
+      "6516"
+    ],
+    "FONTOVA": [
+      "6790"
+    ],
+    "OLGUITA": [
+      "6841"
+    ],
+    "GLORIA": [
+      "6980"
+    ],
+    "SALUDFONTOVA": [
+      "7194"
+    ],
+    "SANA SANA": [
+      "7272"
+    ],
+    "PLUS FARMA": [
+      "7273"
+    ],
+    "ALOSAL": [
+      "7306"
+    ],
+    "EL ALBA": [
+      "7404"
+    ],
+    "EL SALVADOR": [
+      "7406"
+    ]
+  },
+  "CURACAVI": {
+    "CRUZ VERDE": [
+      "827"
+    ],
+    "CURACAVI": [
+      "828"
+    ],
+    "EL SOL": [
+      "829"
+    ],
+    "ESMERALDA": [
+      "830"
+    ],
+    "DEL DR. SIMI": [
+      "1210"
+    ],
+    "FARMACIA HOSPITAL DE CURACAV00ed": [
+      "5509"
+    ]
+  },
+  "EL BOSQUE": {
+    "AHUMADA": [
+      "831"
+    ],
+    "ALAMEDA": [
+      "832"
+    ],
+    "BEAR": [
+      "834"
+    ],
+    "BELEN": [
+      "835",
+      "836"
+    ],
+    "SALUD/CANAIMA": [
+      "837"
+    ],
+    "CRUZ VERDE": [
+      "839",
+      "840",
+      "841"
+    ],
+    "DEL DR. SIMI": [
+      "842",
+      "7400"
+    ],
+    "EL BOSQUE": [
+      "843"
+    ],
+    "FARMASUR": [
+      "844"
+    ],
+    "RAYMA": [
+      "845"
+    ],
+    "LANVAR": [
+      "846"
+    ],
+    "LOS MAQUIS": [
+      "847"
+    ],
+    "MARAZUL": [
+      "848"
+    ],
+    "NUEVA ERA": [
+      "850"
+    ],
+    "SALUD": [
+      "851"
+    ],
+    "SAN SEBASTIAN": [
+      "852"
+    ],
+    "NETFARMA": [
+      "853",
+      "3281"
+    ],
+    "FARMA ITALIA": [
+      "3991"
+    ],
+    "SAN IGNACIO": [
+      "4043"
+    ],
+    "URGENCIA - SANTO REMEDIO": [
+      "4233"
+    ],
+    "SEGAL": [
+      "4810"
+    ],
+    "BLANCA": [
+      "4825"
+    ],
+    "MIVAL": [
+      "4826"
+    ],
+    "COMUNITARIA EL BOSQUE": [
+      "4942"
+    ],
+    "VIVI": [
+      "5057"
+    ],
+    "MAZEL TOV FARMAC00e9UTICA S.P.A": [
+      "5614"
+    ],
+    "LO OSSA": [
+      "6476"
+    ],
+    "VIDAFARMA": [
+      "6482"
+    ],
+    "BASTIAN": [
+      "6724"
+    ],
+    "LA BOTIKA": [
+      "7418"
+    ]
+  },
+  "EL MONTE": {
+    "DON ANTONIO": [
+      "855"
+    ],
+    "SAN JUAN": [
+      "856"
+    ],
+    "AURA FARMA": [
+      "6497"
+    ],
+    "FARMAS": [
+      "6677"
+    ],
+    "AHORROFARMA": [
+      "7067"
+    ]
+  },
+  "ESTACION CENTRAL": {
+    "AHUMADA": [
+      "857",
+      "858"
+    ],
+    "BELGOCHILENA": [
+      "861"
+    ],
+    "CARRERA": [
+      "862"
+    ],
+    "CENTRO DE SALUD LAS REJAS": [
+      "863"
+    ],
+    "CRUZ VERDE": [
+      "865",
+      "867",
+      "868",
+      "869",
+      "4465",
+      "6876"
+    ],
+    "DEL DR. SIMI": [
+      "871",
+      "872",
+      "4268",
+      "6147",
+      "6176",
+      "6984",
+      "7564"
+    ],
+    "ELENA": [
+      "873"
+    ],
+    "ESPOZ": [
+      "874",
+      "875"
+    ],
+    "PURA SALUD": [
+      "877"
+    ],
+    "PUDAHUEL": [
+      "880"
+    ],
+    "SAINT GERMAIN": [
+      "881"
+    ],
+    "SALCOBRAND": [
+      "882",
+      "883",
+      "884",
+      "885",
+      "886",
+      "887"
+    ],
+    "BIAGI": [
+      "4022"
+    ],
+    "LA FAMILIA": [
+      "4260",
+      "6139",
+      "7049"
+    ],
+    "LOS ALPES": [
+      "4278"
+    ],
+    "COMUNAL ESTACI00d3N CENTRAL": [
+      "4937"
+    ],
+    "BENJAMIN": [
+      "5080"
+    ],
+    "VITAUD 2.0": [
+      "5106"
+    ],
+    "VALLE DE VIDA": [
+      "5338"
+    ],
+    "FARMABARRIO": [
+      "6541"
+    ],
+    "VACUNATORIO - MUTUAL DE SEGURIDAD": [
+      "6551"
+    ],
+    "HERMES": [
+      "6864"
+    ],
+    "FARMASMART": [
+      "6893"
+    ],
+    "KNOP": [
+      "7098"
+    ],
+    "SU SALUD": [
+      "7260"
+    ]
+  },
+  "SANTIAGO": {
+    "CRUZ VERDE": [
+      "864",
+      "1826",
+      "1827",
+      "1828",
+      "1829",
+      "1830",
+      "1831",
+      "1834",
+      "1835",
+      "1836",
+      "1837",
+      "1838",
+      "1839",
+      "1841",
+      "1843",
+      "1844",
+      "1845",
+      "1846",
+      "1847",
+      "1849",
+      "1850",
+      "1851",
+      "1852",
+      "1853",
+      "1854",
+      "1855",
+      "1856",
+      "1857",
+      "1858",
+      "1859",
+      "1860",
+      "1862",
+      "1863",
+      "1864",
+      "1866",
+      "1867",
+      "1943",
+      "4050",
+      "4534",
+      "4798",
+      "5324",
+      "5569",
+      "6384",
+      "6791",
+      "6987",
+      "7004"
+    ],
+    "FARMACIA TU BIENESTAR": [
+      "1023"
+    ],
+    "LA REBAJA": [
+      "1174",
+      "1799",
+      "5533",
+      "6104",
+      "6537",
+      "6786",
+      "6982",
+      "7364",
+      "7369"
+    ],
+    "SAN JORGE": [
+      "1500"
+    ],
+    "FERCO": [
+      "1736"
+    ],
+    "SALCOBRAND": [
+      "1777",
+      "1778",
+      "1779",
+      "1780",
+      "1781",
+      "1782",
+      "1785",
+      "1787",
+      "1790",
+      "1792",
+      "1793",
+      "1794",
+      "1795",
+      "1796",
+      "1797",
+      "1798",
+      "1800",
+      "1801",
+      "4072",
+      "4218",
+      "5540",
+      "5563",
+      "5790",
+      "5808",
+      "6431",
+      "7238"
+    ],
+    "AHUMADA": [
+      "1804",
+      "1808",
+      "1811",
+      "1813",
+      "1824",
+      "2554",
+      "4029",
+      "4533",
+      "4783",
+      "6033"
+    ],
+    "URGENCIA - AHUMADA": [
+      "1810"
+    ],
+    "ALMAGRO": [
+      "1814"
+    ],
+    "ARAUCO": [
+      "1815"
+    ],
+    "MANRIQUEZ": [
+      "1816",
+      "1907",
+      "1910",
+      "1911",
+      "1912",
+      "3111",
+      "3976",
+      "4024",
+      "4254",
+      "4325",
+      "4541",
+      "4784",
+      "5932",
+      "5941",
+      "7193"
+    ],
+    "FRANCESA": [
+      "1817"
+    ],
+    "JARDIN": [
+      "1818"
+    ],
+    "BS FARMACIAS": [
+      "1820"
+    ],
+    "BULFOR": [
+      "1821"
+    ],
+    "C.A.": [
+      "1822"
+    ],
+    "TORRES": [
+      "1825"
+    ],
+    "CARMEN": [
+      "1833"
+    ],
+    "FARMABIZA": [
+      "1840"
+    ],
+    "RENACER": [
+      "1865"
+    ],
+    "DAMYFAR": [
+      "1868",
+      "2566",
+      "6906"
+    ],
+    "DANIELA": [
+      "1869"
+    ],
+    "DEL DR. SIMI": [
+      "1879",
+      "1880",
+      "1881",
+      "1882",
+      "1883",
+      "1884",
+      "1886",
+      "1887",
+      "1888",
+      "1889",
+      "1892",
+      "1893",
+      "1930",
+      "1945",
+      "3125",
+      "4223",
+      "5320",
+      "5532",
+      "5556",
+      "5567",
+      "5643",
+      "5801",
+      "5894",
+      "5936",
+      "6133",
+      "6138",
+      "6155",
+      "6328",
+      "6381",
+      "6393",
+      "6453",
+      "6532",
+      "6683",
+      "6768",
+      "7368"
+    ],
+    "BOTIKA HABANERA": [
+      "1885"
+    ],
+    "BELEN": [
+      "1891",
+      "4028"
+    ],
+    "EL GATO": [
+      "1896"
+    ],
+    "FARMA REBAJAS": [
+      "1897"
+    ],
+    "FARMAVIP": [
+      "1899"
+    ],
+    "SAN ANTONIO": [
+      "1900"
+    ],
+    "FARMAMEDICAL": [
+      "1901"
+    ],
+    "GALENICA": [
+      "1903"
+    ],
+    "GALLERY": [
+      "1904",
+      "1905"
+    ],
+    "LA BOTICA SALCOBRAND": [
+      "1906"
+    ],
+    "SALUD CHILE": [
+      "1908"
+    ],
+    "MAGISTRALES": [
+      "1909"
+    ],
+    "NASER": [
+      "1914"
+    ],
+    "NOBEL": [
+      "1915"
+    ],
+    "NOVASALUD.COM": [
+      "1918"
+    ],
+    "MAVI": [
+      "1919"
+    ],
+    "OCHOA": [
+      "1920",
+      "7032"
+    ],
+    "OMARI": [
+      "1921",
+      "1932",
+      "4547"
+    ],
+    "OTERO": [
+      "1922"
+    ],
+    "PARIS": [
+      "1923",
+      "4407",
+      "4785",
+      "5062",
+      "5087",
+      "5560",
+      "5762",
+      "5763"
+    ],
+    "PUNTO AHORRO": [
+      "1924"
+    ],
+    "PHARMA 93": [
+      "1925"
+    ],
+    "PICAGALLO": [
+      "1926"
+    ],
+    "RECCIUS": [
+      "1927"
+    ],
+    "REDFARMA": [
+      "1928",
+      "1929",
+      "6475",
+      "6522"
+    ],
+    "S.O.S": [
+      "1931"
+    ],
+    "SANTA GEMITA": [
+      "1933",
+      "1934"
+    ],
+    "SANTIAGO": [
+      "1935"
+    ],
+    "SANTO THOMAS": [
+      "1936"
+    ],
+    "SEBFARMA": [
+      "1937"
+    ],
+    "SIBONEY": [
+      "1938"
+    ],
+    "SIERRA BELLA": [
+      "1939"
+    ],
+    "VALDIVIESO": [
+      "1940"
+    ],
+    "VANIA": [
+      "1942"
+    ],
+    "DEL BARRIO": [
+      "1944"
+    ],
+    "NUEVA BOGOTA": [
+      "1946"
+    ],
+    "ECONOFARMA": [
+      "3280"
+    ],
+    "VALLE DE VIDA": [
+      "4116",
+      "4255",
+      "5537"
+    ],
+    "FARMASANTIAGO": [
+      "4228"
+    ],
+    "ALQUIMIA": [
+      "4232",
+      "7070"
+    ],
+    "EZ": [
+      "4236"
+    ],
+    "FARMAM00e1S": [
+      "4270"
+    ],
+    "ROXANA": [
+      "4404"
+    ],
+    "URGENCIA - SALCOBRAND": [
+      "4531"
+    ],
+    "ALKOSTO": [
+      "4540"
+    ],
+    "LA POPULAR": [
+      "4542"
+    ],
+    "CUETO": [
+      "4551"
+    ],
+    "FARMALIFE": [
+      "4552"
+    ],
+    "FARMAMASPLUS": [
+      "4571",
+      "5089"
+    ],
+    "MEDDICA": [
+      "4574"
+    ],
+    "CENTRO INTEGRAL DE SALUD SUR": [
+      "4582"
+    ],
+    "LICAN": [
+      "4781"
+    ],
+    "LOS ANDES": [
+      "4789"
+    ],
+    "FARMA TOTAL": [
+      "4801"
+    ],
+    "PHARMASTORE LTDA": [
+      "4813"
+    ],
+    "INDI": [
+      "4876"
+    ],
+    "SALAMOVICH": [
+      "4906"
+    ],
+    "BOTICA COMUNITARIA DRA. ELO00cdSA D00cdAZ": [
+      "4922"
+    ],
+    "SATTVA": [
+      "5066"
+    ],
+    "PHAROL": [
+      "5096"
+    ],
+    "SAN DIEGO": [
+      "5098"
+    ],
+    "BOTIFARM": [
+      "5103"
+    ],
+    "SANTA RAFAELA": [
+      "5311"
+    ],
+    "FARMACIAS AMIGA": [
+      "5513"
+    ],
+    "INSTITUTO TRAUMATOL00f3GICO DR. TEODORO GEBAUER WEISSER": [
+      "5526"
+    ],
+    "GAMA": [
+      "5564",
+      "5758",
+      "6472"
+    ],
+    "FARMAPRECIO": [
+      "5568",
+      "6101"
+    ],
+    "MUNDO": [
+      "5618"
+    ],
+    "FARMACIA VILLA ALEGRE": [
+      "5625"
+    ],
+    "DR ALIVIO": [
+      "5645",
+      "6873"
+    ],
+    "FARMACIA SOCIAL DEL CIRCULO DE GENDARMER00edA DE CHILE (CIRGENCHI)": [
+      "5649"
+    ],
+    "FARMEX": [
+      "5655"
+    ],
+    "GUARDIAN": [
+      "5764"
+    ],
+    "FARMACIAS AYSEN": [
+      "5815"
+    ],
+    "FARMACIAS 21 DE MAYO": [
+      "5821"
+    ],
+    "KNOP": [
+      "5848",
+      "6534",
+      "7100",
+      "7104",
+      "7109",
+      "7127",
+      "7508"
+    ],
+    "SU SALUD": [
+      "5902",
+      "6461",
+      "6514"
+    ],
+    "FARMAVEN": [
+      "5904"
+    ],
+    "CHILE": [
+      "5914",
+      "6449",
+      "6715"
+    ],
+    "BIOFORMULA": [
+      "5939"
+    ],
+    "TODOFARMA": [
+      "6097"
+    ],
+    "EL BIENESTAR": [
+      "6112"
+    ],
+    "SR. WANG": [
+      "6121"
+    ],
+    "PHARMACOSTA": [
+      "6131"
+    ],
+    "FARMABIEN": [
+      "6135",
+      "6471",
+      "7057"
+    ],
+    "LA BOTIKA": [
+      "6137"
+    ],
+    "LIGA CHILENA CONTRA LA EPILEPSIA": [
+      "6426"
+    ],
+    "ESTACION MEDICA DE BARRIO DAVILA LARRAIN": [
+      "6459"
+    ],
+    "SAN LUIS": [
+      "6462"
+    ],
+    "FARMA NATURAL CARE": [
+      "6463"
+    ],
+    "DOCTOR GALENO": [
+      "6493"
+    ],
+    "OPENFARMA": [
+      "6496"
+    ],
+    "UNIDAS": [
+      "6517",
+      "6836"
+    ],
+    "FARMABARRIO": [
+      "6525",
+      "7110"
+    ],
+    "BOTICA COMUNITARIA": [
+      "6527"
+    ],
+    "VACUNATORIO - JB MEDICAL TEST": [
+      "6581"
+    ],
+    "VACUNATORIO - CENTRO MEDICO Y DENTAL FUNDACION": [
+      "6587"
+    ],
+    "DEL AHORRO": [
+      "6667"
+    ],
+    "SALUD, VIDA Y BIENESTAR S.P.A.": [
+      "6669"
+    ],
+    "FARMAEXPRESS": [
+      "6672"
+    ],
+    "FARMAIDEAL": [
+      "6678"
+    ],
+    "COOPERCARAB": [
+      "6771"
+    ],
+    "FARMAUNIDAS": [
+      "6781"
+    ],
+    "FARMABAST": [
+      "6782"
+    ],
+    "FARMAUNI00d3N": [
+      "6784"
+    ],
+    "G00e9MINIS": [
+      "6785"
+    ],
+    "TU AHORRO": [
+      "6844"
+    ],
+    "FARMAHOGAR": [
+      "6847"
+    ],
+    "FARMALLANO": [
+      "6917"
+    ],
+    "PURAVIDA": [
+      "6997"
+    ],
+    "DRA. MILY": [
+      "7058"
+    ],
+    "PHARMA EXPRESS": [
+      "7066"
+    ],
+    "LA ECONOMIA": [
+      "7069"
+    ],
+    "QUINTANA": [
+      "7152"
+    ],
+    "DIGNIDAD": [
+      "7181"
+    ],
+    "UNIFARMACIA": [
+      "7187"
+    ],
+    "FARMAYUDA": [
+      "7192"
+    ],
+    "HOSPITAL DE URGENCIA ASISTENCIA PUBLICA": [
+      "7221"
+    ],
+    "OD": [
+      "7242"
+    ],
+    "SEMILLA": [
+      "7291"
+    ],
+    "DEL CARMEN": [
+      "7295"
+    ],
+    "DR. FARMA": [
+      "7340"
+    ],
+    "EL PRIMERO": [
+      "7365",
+      "7366"
+    ],
+    "ARIZAS": [
+      "7370"
+    ],
+    "CENTRAL": [
+      "7377"
+    ],
+    "OLIMPICA": [
+      "7392"
+    ],
+    "FARMASALUD": [
+      "7446"
+    ],
+    "SESSAREGO": [
+      "7456"
+    ],
+    "BIOCUBA": [
+      "7602"
+    ]
+  },
+  "SAN BERNARDO": {
+    "NUESTRA SALUD": [
+      "878"
+    ],
+    "GAYOSO": [
+      "1083"
+    ],
+    "SALCOBRAND": [
+      "1685",
+      "1688",
+      "1692",
+      "1693",
+      "4162",
+      "4504"
+    ],
+    "NETFARMA": [
+      "1694"
+    ],
+    "AHUMADA": [
+      "1696",
+      "1698",
+      "3237",
+      "4256"
+    ],
+    "BELEN": [
+      "1699",
+      "4231"
+    ],
+    "COMUNITARIA": [
+      "1700"
+    ],
+    "VITA SPA": [
+      "1701"
+    ],
+    "CRUZ VERDE": [
+      "1702",
+      "1704",
+      "1705",
+      "1706",
+      "1707",
+      "3995"
+    ],
+    "DEL DR. SIMI": [
+      "1710",
+      "1711",
+      "1712",
+      "6767",
+      "7071"
+    ],
+    "FARMAOFERTA": [
+      "1713"
+    ],
+    "TU AHORRO": [
+      "1714"
+    ],
+    "FARMAVECINA": [
+      "1715"
+    ],
+    "GALENICA": [
+      "1716"
+    ],
+    "LAS ALMENDRAS": [
+      "1719"
+    ],
+    "LATORRE": [
+      "1720"
+    ],
+    "LOS ALMENDROS": [
+      "1721"
+    ],
+    "LOS OLIVOS": [
+      "1722"
+    ],
+    "MEDDICA": [
+      "1723"
+    ],
+    "PETIT-KORNFELD": [
+      "1725"
+    ],
+    "SAN BERNARDO": [
+      "4196"
+    ],
+    "PRAT": [
+      "4524"
+    ],
+    "MAS SALUD": [
+      "4560"
+    ],
+    "HERNANDEZ": [
+      "4782"
+    ],
+    "NOS": [
+      "4820"
+    ],
+    "FARMACIA PARA TODOS": [
+      "4997"
+    ],
+    "FARMAPRECIO": [
+      "5476"
+    ],
+    "KNOP": [
+      "5507"
+    ],
+    "UNIDAS": [
+      "5729",
+      "7014"
+    ],
+    "F00c1TIMA": [
+      "5730"
+    ],
+    "ALEM": [
+      "5927"
+    ],
+    "LOS ROBLES": [
+      "5930"
+    ],
+    "MUNDO FARMA": [
+      "6116",
+      "7424"
+    ],
+    "LIFEPHARMACY": [
+      "6292"
+    ],
+    "FARMALYM": [
+      "6389"
+    ],
+    "GUNDIAN": [
+      "6511"
+    ],
+    "APOTECARIA": [
+      "6890"
+    ],
+    "SAN GABRIEL": [
+      "7250"
+    ],
+    "PR FARMA": [
+      "7266"
+    ],
+    "LO BLANCO": [
+      "7289"
+    ],
+    "MAICAO": [
+      "7358"
+    ],
+    "GUARD00edAN": [
+      "7401"
+    ],
+    "SALUD FARMA": [
+      "7433",
+      "7434"
+    ],
+    "LESTRANGE": [
+      "7455"
+    ],
+    "TU RINC00d3N SALUD": [
+      "7567"
+    ]
+  },
+  "HUECHURABA": {
+    "SALCOBRAND": [
+      "888",
+      "889",
+      "899",
+      "4263"
+    ],
+    "AHUMADA": [
+      "890",
+      "892",
+      "4438",
+      "5061"
+    ],
+    "CRUZ VERDE": [
+      "893",
+      "894",
+      "895",
+      "896",
+      "4525",
+      "5923",
+      "6732"
+    ],
+    "FARMAVIDA": [
+      "897"
+    ],
+    "MAIPO": [
+      "898"
+    ],
+    "SANTA TERESITA": [
+      "900"
+    ],
+    "SOLUFAR": [
+      "4554",
+      "4726"
+    ],
+    "POPULAR LA PINCOYA": [
+      "4706",
+      "6151"
+    ],
+    "OSTER": [
+      "4803"
+    ],
+    "KNOP": [
+      "5092"
+    ],
+    "GAVE": [
+      "5330"
+    ],
+    "FARMACY": [
+      "5654"
+    ],
+    "PUNTOFARMA": [
+      "5952",
+      "7293"
+    ],
+    "DEL DR. SIMI": [
+      "6652",
+      "7287"
+    ],
+    "MEKI": [
+      "6773"
+    ],
+    "ALPHALAB": [
+      "7017"
+    ],
+    "ZUPHARMA": [
+      "7142"
+    ],
+    "FARMAFULL": [
+      "7405"
+    ]
+  },
+  "INDEPENDENCIA": {
+    "BENJAMIN": [
+      "902"
+    ],
+    "BICENTENARIO": [
+      "903"
+    ],
+    "MEDDICA": [
+      "904"
+    ],
+    "URGENCIA - CRUZ VERDE": [
+      "905"
+    ],
+    "CRUZ VERDE": [
+      "906",
+      "907",
+      "5559",
+      "6848"
+    ],
+    "DEL DR. SIMI": [
+      "908",
+      "5906",
+      "5915"
+    ],
+    "LA URGENCIA": [
+      "909"
+    ],
+    "MAESTRE": [
+      "910"
+    ],
+    "VECINAL ASFAR": [
+      "911"
+    ],
+    "RENACER": [
+      "913"
+    ],
+    "SANTA LAURA": [
+      "914",
+      "6680"
+    ],
+    "VALLE DE VIDA": [
+      "915"
+    ],
+    "SALCOBRAND": [
+      "916",
+      "918",
+      "5803"
+    ],
+    "ASFAR": [
+      "919"
+    ],
+    "HERNANDEZ": [
+      "4187"
+    ],
+    "FORMAS": [
+      "4319"
+    ],
+    "AHUMADA": [
+      "4827"
+    ],
+    "MUNICIPAL DR. CARLOS LORCA TOBAR": [
+      "4924"
+    ],
+    "REAL": [
+      "5928",
+      "5991",
+      "6828"
+    ],
+    "LOS ANDES": [
+      "6003"
+    ],
+    "VACUNATORIO - CRUZ NACIONAL": [
+      "6586"
+    ],
+    "PHARMACENTER": [
+      "6831"
+    ],
+    "POZO'S": [
+      "6832"
+    ],
+    "ANDRADE": [
+      "6911"
+    ],
+    "ROSARIO": [
+      "6916"
+    ],
+    "LA REBAJA": [
+      "7362"
+    ]
+  },
+  "ISLA DE MAIPO": {
+    "ECUANASER": [
+      "921",
+      "922"
+    ],
+    "FARMA-MARKET": [
+      "923",
+      "4225"
+    ],
+    "MOLY FARMA": [
+      "4725"
+    ],
+    "COMUNITARIA ISLA DE MAIPO": [
+      "4940"
+    ],
+    "ISLE00f1A": [
+      "5611"
+    ],
+    "PUNTOSALUD": [
+      "6829"
+    ]
+  },
+  "LA GRANJA": {
+    "ISAIAS": [
+      "925"
+    ],
+    "CRUZ VERDE": [
+      "1019"
+    ],
+    "ELIANA": [
+      "1021"
+    ],
+    "LOS PALTOS": [
+      "1024",
+      "1025"
+    ],
+    "ESPOZ": [
+      "1026"
+    ],
+    "MANRIQUEZ": [
+      "4190"
+    ],
+    "LA BOTIKA": [
+      "4272"
+    ],
+    "FARMAHORRO": [
+      "4885"
+    ],
+    "COMUNITARIA VIDA BUENA": [
+      "4930"
+    ],
+    "DEL DR. SIMI": [
+      "5916"
+    ],
+    "BUENA SALUD": [
+      "6662"
+    ],
+    "SANTIAGO": [
+      "6681"
+    ],
+    "FARMATENCI00d3N": [
+      "7274"
+    ]
+  },
+  "LA CISTERNA": {
+    "SALCOBRAND": [
+      "926",
+      "947",
+      "950"
+    ],
+    "AHUMADA": [
+      "927"
+    ],
+    "URGENCIA - AHUMADA": [
+      "928"
+    ],
+    "BELEN": [
+      "929"
+    ],
+    "CARMEN": [
+      "930"
+    ],
+    "CRUZ VERDE": [
+      "931",
+      "932",
+      "933",
+      "934",
+      "6484"
+    ],
+    "DEL DR. SIMI": [
+      "935",
+      "936",
+      "937",
+      "938",
+      "4791",
+      "7133"
+    ],
+    "LA GRANJA": [
+      "942"
+    ],
+    "MANRIQUEZ": [
+      "943",
+      "948",
+      "949"
+    ],
+    "MARTINEZ ACU00d1A": [
+      "944"
+    ],
+    "SANTA ANSELMA": [
+      "945"
+    ],
+    "SANTA RITA": [
+      "946"
+    ],
+    "LA CISTERNA": [
+      "2560"
+    ],
+    "CATEDRAL": [
+      "4161"
+    ],
+    "MUNICIPAL DE LA CISTERNA": [
+      "4932"
+    ],
+    "DE LO ALTO": [
+      "5463"
+    ],
+    "C.A.": [
+      "5566"
+    ],
+    "BIENESTAR": [
+      "6127"
+    ],
+    "FARMACIA RORAIMA": [
+      "6470"
+    ],
+    "SANTO REMEDIO": [
+      "6473"
+    ],
+    "GEMINIS": [
+      "6519"
+    ],
+    "ITALPHARMA": [
+      "6530"
+    ],
+    "LA FAMILIA": [
+      "6545",
+      "7076"
+    ],
+    "BLANCA": [
+      "6826"
+    ],
+    "LIGA CHILENA CONTRA LA EPILEPSIA": [
+      "7019"
+    ]
+  },
+  "LA FLORIDA": {
+    "AHUMADA": [
+      "951",
+      "952",
+      "953",
+      "955",
+      "956",
+      "957",
+      "958",
+      "960",
+      "961",
+      "962",
+      "963",
+      "4117",
+      "5575",
+      "5784"
+    ],
+    "URGENCIA - AHUMADA": [
+      "954"
+    ],
+    "BELEN": [
+      "965"
+    ],
+    "C.A.": [
+      "966"
+    ],
+    "CRUZ DEL SUR": [
+      "967"
+    ],
+    "URGENCIA - CRUZ VERDE": [
+      "968",
+      "970"
+    ],
+    "CRUZ VERDE": [
+      "969",
+      "971",
+      "973",
+      "974",
+      "975",
+      "976",
+      "978",
+      "979",
+      "980",
+      "983",
+      "984",
+      "985",
+      "3986",
+      "4875",
+      "5108"
+    ],
+    "VITA": [
+      "986"
+    ],
+    "M & L": [
+      "987"
+    ],
+    "DEL DR. SIMI": [
+      "988",
+      "989",
+      "990",
+      "5075",
+      "5951",
+      "6128",
+      "6140",
+      "7254"
+    ],
+    "EBEN EZER": [
+      "991"
+    ],
+    "HERRERA": [
+      "993",
+      "1717"
+    ],
+    "FAMILY": [
+      "994"
+    ],
+    "GALENICA": [
+      "996"
+    ],
+    "JUMBO": [
+      "997"
+    ],
+    "LOS CANELOS": [
+      "998"
+    ],
+    "NOVASALUD.COM": [
+      "999"
+    ],
+    "REDFARMA": [
+      "1000"
+    ],
+    "REY FARMA": [
+      "1001"
+    ],
+    "ROSARIO": [
+      "1002"
+    ],
+    "ROTONDA LA FLORIDA": [
+      "1003"
+    ],
+    "SANTA RAQUEL": [
+      "1005"
+    ],
+    "SU FARMA": [
+      "1006"
+    ],
+    "SALCOBRAND": [
+      "1007",
+      "1008",
+      "1010",
+      "1011",
+      "1012",
+      "1014",
+      "1015",
+      "1016",
+      "1017",
+      "4569",
+      "6004"
+    ],
+    "CARMEN": [
+      "1560",
+      "7403"
+    ],
+    "YORUGUA": [
+      "2568"
+    ],
+    "EL QU00cdMICO": [
+      "4064"
+    ],
+    "VIVE": [
+      "4199"
+    ],
+    "MANRIQUEZ": [
+      "4219"
+    ],
+    "LUNA LUZ": [
+      "4497"
+    ],
+    "CIUDADANA": [
+      "4945",
+      "4947"
+    ],
+    "OMEGA": [
+      "5084"
+    ],
+    "MINAY": [
+      "5291"
+    ],
+    "PUNTO SALUD": [
+      "5636"
+    ],
+    "CL00edNICA BUPA SANTIAGO": [
+      "5637"
+    ],
+    "FARMALIVIO": [
+      "5831"
+    ],
+    "INDI": [
+      "5929"
+    ],
+    "LIGA CHILENA CONTRA LA EPILEPSIA": [
+      "6427"
+    ],
+    "PANUL": [
+      "6433"
+    ],
+    "G00e9MINIS": [
+      "6480"
+    ],
+    "BARRIO FARMA": [
+      "6535"
+    ],
+    "SANTA ANA SPA": [
+      "6540"
+    ],
+    "VACUNATORIO - CLINICA BUPA": [
+      "6566"
+    ],
+    "VACUNATORIO - CLINICA VESPUCIO": [
+      "6575"
+    ],
+    "COPIHUE": [
+      "6676"
+    ],
+    "REINOSO": [
+      "6819"
+    ],
+    "FARMACIA G00e9MINIS": [
+      "6919"
+    ],
+    "KNOP": [
+      "7124"
+    ],
+    "ECO FARMACIAS": [
+      "7131"
+    ],
+    "FARMANINA": [
+      "7229"
+    ],
+    "ECONOMICAS": [
+      "7357"
+    ],
+    "GEMINIS": [
+      "7363"
+    ],
+    "MARIA ELENA": [
+      "7524"
+    ],
+    "MAICAO": [
+      "7632"
+    ]
+  },
+  "00d1U00d1OA": {
+    "LA REBAJA": [
+      "977",
+      "1325",
+      "6986"
+    ],
+    "AHUMADA": [
+      "1299",
+      "1300",
+      "1314",
+      "1315",
+      "1316",
+      "1317",
+      "1318",
+      "1319",
+      "1321",
+      "1322",
+      "1323",
+      "1324",
+      "4277",
+      "5785"
+    ],
+    "SALCOBRAND": [
+      "1301",
+      "1302",
+      "1303",
+      "1304",
+      "1305",
+      "1308",
+      "1309",
+      "1310",
+      "1355",
+      "1358",
+      "4342",
+      "4468",
+      "4532",
+      "6722"
+    ],
+    "BLANCO": [
+      "1326"
+    ],
+    "CRUZ VERDE": [
+      "1327",
+      "1328",
+      "1331",
+      "1332",
+      "1333",
+      "1334",
+      "1335",
+      "1336",
+      "1337",
+      "1338",
+      "1339",
+      "1340",
+      "1341",
+      "1342",
+      "4113",
+      "4160",
+      "4262",
+      "4470",
+      "4526",
+      "4543",
+      "4570",
+      "4793",
+      "6434",
+      "6703",
+      "6993"
+    ],
+    "FARMANUESTRA": [
+      "1330"
+    ],
+    "DEL DR. SIMI": [
+      "1345",
+      "1346",
+      "1347",
+      "4795"
+    ],
+    "GALENICA": [
+      "1348"
+    ],
+    "INSTITUCIONAL": [
+      "1349"
+    ],
+    "PHARMA 93": [
+      "1351"
+    ],
+    "R Y C": [
+      "1352"
+    ],
+    "REDOXX": [
+      "1353",
+      "1354"
+    ],
+    "SANTA GEMITA": [
+      "1356",
+      "1357",
+      "5525"
+    ],
+    "VALHFARM": [
+      "1602"
+    ],
+    "LATINOAMERICANA": [
+      "4280"
+    ],
+    "LOS ORIENTALES": [
+      "4434"
+    ],
+    "VALDIVIA": [
+      "4555"
+    ],
+    "LA BOTICA DE 00d1U00f1OA": [
+      "4710"
+    ],
+    "FARMARECET": [
+      "5091"
+    ],
+    "CENTRAL DE HOMEOPAT00cdA": [
+      "5309"
+    ],
+    "ECOPHARMA": [
+      "5468"
+    ],
+    "TU FARMACIAONLINE": [
+      "5565"
+    ],
+    "PURA PHARMA": [
+      "5570"
+    ],
+    "EUREKA": [
+      "5613"
+    ],
+    "BRAIN": [
+      "5823"
+    ],
+    "LO OSSA": [
+      "5893"
+    ],
+    "EKONOPLUS": [
+      "5909"
+    ],
+    "RADANET": [
+      "6113"
+    ],
+    "FARMAFULL": [
+      "6318",
+      "6454"
+    ],
+    "BOTICA VILLA OLIMPICA": [
+      "6435"
+    ],
+    "BOTICA AMAPOLAS": [
+      "6479"
+    ],
+    "ULTRA SOLIDARIA": [
+      "6504"
+    ],
+    "ASFAR": [
+      "6538"
+    ],
+    "VACUNATORIO - VARIK": [
+      "6567"
+    ],
+    "VACUNATORIO - LABORATORIO CLINICO IEM 00d1U00d1OA": [
+      "6590"
+    ],
+    "COOPERCARAB": [
+      "6604"
+    ],
+    "ACEVEDO": [
+      "6675"
+    ],
+    "INDI": [
+      "6723"
+    ],
+    "ECO FARMACIAS": [
+      "6728"
+    ],
+    "VECINAL ASFAR": [
+      "6774"
+    ],
+    "FARMACARE": [
+      "6809"
+    ],
+    "BOTICA CENTRO ASISTENCIAL DE 00d1U00f1OA": [
+      "6860"
+    ],
+    "OCHOA": [
+      "6922"
+    ],
+    "SAN NICOL00c1S": [
+      "7001"
+    ],
+    "KNOP": [
+      "7111",
+      "7126"
+    ],
+    "VITALFARMA": [
+      "7130",
+      "7388"
+    ],
+    "FARMAETIKA": [
+      "7141"
+    ],
+    "AGUIRRE": [
+      "7195"
+    ],
+    "DAMYFAR": [
+      "7222"
+    ],
+    "FARMABIEN": [
+      "7259"
+    ],
+    "INTEGRAL": [
+      "7343"
+    ],
+    "FARMACUL": [
+      "7438"
+    ],
+    "CHILE": [
+      "7472"
+    ]
+  },
+  "LA PINTANA": {
+    "CORDILLERA": [
+      "1027"
+    ],
+    "CRUZ VERDE": [
+      "1028"
+    ],
+    "FARMA SUR": [
+      "1029"
+    ],
+    "FARMAVECINA": [
+      "1030"
+    ],
+    "GABRIELA": [
+      "1031"
+    ],
+    "SANTA ROSA SUR": [
+      "1032"
+    ],
+    "SOZAFAR": [
+      "1033"
+    ],
+    "SAN VENANCIO": [
+      "1034"
+    ],
+    "SALCOBRAND": [
+      "1035"
+    ],
+    "DAVIFAR": [
+      "1036"
+    ],
+    "LANVAR": [
+      "1038"
+    ],
+    "6 DE MAYO": [
+      "4427"
+    ],
+    "COMUNITARIA LA PINTANA": [
+      "4936"
+    ],
+    "CURMAN": [
+      "5333"
+    ],
+    "TORRES": [
+      "5619"
+    ],
+    "DONKEY DOC": [
+      "6945"
+    ],
+    "DEL DR. SIMI": [
+      "7394"
+    ],
+    "MEDDICA": [
+      "7416"
+    ]
+  },
+  "LA REINA": {
+    "AHUMADA": [
+      "1040",
+      "1041",
+      "1044",
+      "1045",
+      "1052",
+      "4021",
+      "4409"
+    ],
+    "URGENCIA - AHUMADA": [
+      "1043"
+    ],
+    "CRUZ VERDE": [
+      "1046",
+      "1047",
+      "1053",
+      "1247",
+      "2570",
+      "4023",
+      "4217",
+      "4327"
+    ],
+    "LA REINA": [
+      "1049"
+    ],
+    "SALCOBRAND": [
+      "1050",
+      "1051",
+      "1055",
+      "1056",
+      "1058",
+      "3993",
+      "5558"
+    ],
+    "DEL DR. SIMI": [
+      "2574",
+      "6682"
+    ],
+    "COMUNITARIA DE LA REINA": [
+      "4925"
+    ],
+    "KNOP": [
+      "6536"
+    ],
+    "GO FARMA": [
+      "6539"
+    ],
+    "VACUNATORIO - DARVAX": [
+      "6563"
+    ],
+    "FARMALOOP": [
+      "6702"
+    ],
+    "FALMAFULL": [
+      "6990"
+    ],
+    "REINA VICTORIA": [
+      "7031"
+    ],
+    "HUMAN PHARMA": [
+      "7292"
+    ]
+  },
+  "LO BARNECHEA": {
+    "CRUZ VERDE": [
+      "1054",
+      "1163",
+      "1164",
+      "1166",
+      "3988",
+      "6765"
+    ],
+    "LA DEHESA": [
+      "1136"
+    ],
+    "SALCOBRAND": [
+      "1157",
+      "1169",
+      "1170",
+      "1171",
+      "1172",
+      "4275",
+      "6656",
+      "7270"
+    ],
+    "AHUMADA": [
+      "1158",
+      "1160",
+      "1161",
+      "1162",
+      "4279",
+      "4329"
+    ],
+    "VITA": [
+      "1168"
+    ],
+    "LA BOTIKA": [
+      "3368"
+    ],
+    "CARMEN": [
+      "5063"
+    ],
+    "LO BARNECHEA FARMACIA": [
+      "5310"
+    ],
+    "FARMADESCUENTO S.P.A.": [
+      "6674"
+    ],
+    "PHARMA & CUORE": [
+      "6842"
+    ],
+    "CHARME": [
+      "6843"
+    ],
+    "DEL DR. SIMI": [
+      "6989"
+    ],
+    "MEDIFARMA": [
+      "7005"
+    ],
+    "KNOP": [
+      "7107"
+    ]
+  },
+  "LAMPA": {
+    "BELEN": [
+      "1060",
+      "1061"
+    ],
+    "LAMPA": [
+      "1062"
+    ],
+    "LETICIA": [
+      "1063"
+    ],
+    "SU FARMACIA": [
+      "1064"
+    ],
+    "SALCOBRAND": [
+      "1065"
+    ],
+    "VECINA LARAPINTA": [
+      "4445"
+    ],
+    "DEL DR. SIMI": [
+      "4819"
+    ],
+    "TU FARMACIA": [
+      "5548"
+    ],
+    "SOLUFAR": [
+      "5809"
+    ],
+    "SERVIFARMA": [
+      "6322"
+    ],
+    "BICENTENARIO": [
+      "6392"
+    ]
+  },
+  "LAS CONDES": {
+    "SALCOBRAND": [
+      "1066",
+      "1067",
+      "1068",
+      "1069",
+      "1070",
+      "1071",
+      "1072",
+      "1073",
+      "1074",
+      "1076",
+      "1077",
+      "1078",
+      "1139",
+      "1140",
+      "1141",
+      "1142",
+      "1143",
+      "1145",
+      "1146",
+      "1147",
+      "1148",
+      "1149",
+      "1150",
+      "1151",
+      "1152",
+      "1153",
+      "1154",
+      "1155",
+      "3981",
+      "4197",
+      "4257",
+      "4269",
+      "5306",
+      "5326",
+      "5806",
+      "5827",
+      "5937",
+      "6430",
+      "6533",
+      "6725"
+    ],
+    "AHUMADA": [
+      "1079",
+      "1080",
+      "1085",
+      "1086",
+      "1088",
+      "1089",
+      "1091",
+      "1092",
+      "1093",
+      "1094",
+      "1095",
+      "2572",
+      "4026",
+      "4372",
+      "4499",
+      "4575"
+    ],
+    "URGENCIA - AHUMADA": [
+      "1096",
+      "1097"
+    ],
+    "CENTRO MEDICO": [
+      "1100",
+      "3092"
+    ],
+    "CRUZ VERDE": [
+      "1102",
+      "1103",
+      "1104",
+      "1105",
+      "1106",
+      "1107",
+      "1108",
+      "1109",
+      "1110",
+      "1111",
+      "1112",
+      "1113",
+      "1114",
+      "1115",
+      "1116",
+      "1117",
+      "1118",
+      "1119",
+      "1121",
+      "1122",
+      "1123",
+      "1124",
+      "1125",
+      "1126",
+      "1127",
+      "1128",
+      "1129",
+      "1130",
+      "1131",
+      "1132",
+      "4048",
+      "4237",
+      "4320",
+      "4537",
+      "4787",
+      "5090",
+      "5093",
+      "5797",
+      "5828",
+      "5837",
+      "5921",
+      "6099",
+      "6156",
+      "6439",
+      "6440",
+      "6515",
+      "6627",
+      "6729",
+      "6954",
+      "7223"
+    ],
+    "DEL DR. SIMI": [
+      "1133",
+      "6153",
+      "6474",
+      "6769"
+    ],
+    "FARPLUS": [
+      "1134"
+    ],
+    "HERGOFAR": [
+      "1135"
+    ],
+    "LORENA": [
+      "1137"
+    ],
+    "URGENCIA - SALCOBRAND": [
+      "1144",
+      "1156"
+    ],
+    "JUMBO": [
+      "3327"
+    ],
+    "CESFAR": [
+      "4608"
+    ],
+    "DIEZ": [
+      "5072"
+    ],
+    "LIGA CHILENA CONTRA LA EPILEPSIA": [
+      "5328",
+      "6487"
+    ],
+    "BOTICA NATURLAND": [
+      "5510"
+    ],
+    "COFAR + SALUD": [
+      "5615"
+    ],
+    "FARMACIA PETER SWUAN": [
+      "5631"
+    ],
+    "FARMAETIKA": [
+      "6316",
+      "6811"
+    ],
+    "FARMA UNO": [
+      "6443"
+    ],
+    "FARMASALUTE": [
+      "6468"
+    ],
+    "KNOP": [
+      "6481",
+      "7050",
+      "7121"
+    ],
+    "DERMOFAR": [
+      "6494"
+    ],
+    "TODOFARMA": [
+      "6508"
+    ],
+    "VACUNATORIO - NUEVA CLINICA CORDILLERA": [
+      "6582"
+    ],
+    "VACUNATORIO - CLINICA LAS CONDES": [
+      "6588"
+    ],
+    "FUNDACI00d3N DR. JORGE PEREZ RIFO": [
+      "6612"
+    ],
+    "FARMAGENTE": [
+      "6764",
+      "7473"
+    ],
+    "ONCOL00f3GICO": [
+      "6861"
+    ],
+    "VACUNATORIO - PATAGONIA": [
+      "6918"
+    ],
+    "RIESCO": [
+      "7013"
+    ],
+    "LA REBAJA": [
+      "7154",
+      "7248"
+    ],
+    "BIKU FARMA": [
+      "7236"
+    ],
+    "CENTRO DE SALUD FAMILIAR APOQUINDO": [
+      "7371"
+    ],
+    "LF": [
+      "7372"
+    ],
+    "ARAG00d3N": [
+      "7633"
+    ]
+  },
+  "LO ESPEJO": {
+    "GIRENO": [
+      "1175"
+    ],
+    "LA FE": [
+      "1176"
+    ],
+    "L-V": [
+      "1177"
+    ],
+    "SU FARMA": [
+      "1178"
+    ],
+    "LA ERA ARCAYA": [
+      "4198"
+    ],
+    "SAJANI": [
+      "4265"
+    ],
+    "NEFRES": [
+      "5974"
+    ],
+    "LA BOTIKA": [
+      "6912"
+    ],
+    "HERN00c1NDEZ": [
+      "7275"
+    ]
+  },
+  "LO PRADO": {
+    "AHUMADA": [
+      "1179"
+    ],
+    "CRUZ VERDE": [
+      "1180",
+      "1181",
+      "1182",
+      "4786"
+    ],
+    "DEL DR. SIMI": [
+      "1183"
+    ],
+    "FIGUEROA": [
+      "1184"
+    ],
+    "BELEN": [
+      "1185"
+    ],
+    "R Y C": [
+      "1186"
+    ],
+    "ESPOZ": [
+      "1187",
+      "1193"
+    ],
+    "LAS ROSAS": [
+      "1188"
+    ],
+    "LOS EDILES": [
+      "1189"
+    ],
+    "SAN FRANCISCO": [
+      "1190"
+    ],
+    "SALCOBRAND": [
+      "1191",
+      "1192"
+    ],
+    "VITAUD": [
+      "4471"
+    ],
+    "FARMACIA COMUNAL PABLO NERUDA": [
+      "4707"
+    ],
+    "DAMYFAR": [
+      "5652"
+    ],
+    "D00edAZ": [
+      "5752"
+    ],
+    "DEL BARRIO": [
+      "5770"
+    ],
+    "LA ALIANZA": [
+      "6035"
+    ],
+    "CHILENA": [
+      "6524"
+    ],
+    "UNIVERSAL": [
+      "7379"
+    ]
+  },
+  "MACUL": {
+    "SALCOBRAND": [
+      "1194",
+      "5935"
+    ],
+    "AHUMADA": [
+      "1195",
+      "1197"
+    ],
+    "URGENCIA - AHUMADA": [
+      "1196"
+    ],
+    "CRUZ VERDE": [
+      "1199",
+      "1200",
+      "5312",
+      "5617"
+    ],
+    "DEL DR. SIMI": [
+      "1201",
+      "4102",
+      "4812"
+    ],
+    "EL LIBANO": [
+      "1202"
+    ],
+    "FARMASTORE J. RAFAH": [
+      "1203"
+    ],
+    "NETFARMA": [
+      "3985"
+    ],
+    "FARMACIA COMUNAL DE MACUL": [
+      "4708"
+    ],
+    "MANRIQUEZ": [
+      "5944"
+    ],
+    "K00dcMELKALEN": [
+      "6096"
+    ],
+    "INSTAFARM": [
+      "6477"
+    ],
+    "VACUNATORIO - CENTRO MEDICO SAN JOAQUIN - RED DE SALUD UC CHRISTUS": [
+      "6579"
+    ],
+    "PILBOX": [
+      "6877"
+    ],
+    "REDFARMA": [
+      "6998"
+    ],
+    "COMUNAL DR. ALEXIS KALERGIS": [
+      "7129"
+    ],
+    "FAR-Q-FAR": [
+      "7191"
+    ],
+    "FAMILY": [
+      "7395"
+    ]
+  },
+  "MAIPU": {
+    "SALCOBRAND": [
+      "1204",
+      "1205",
+      "1206",
+      "1207",
+      "1209",
+      "1281",
+      "3968",
+      "4408",
+      "6451"
+    ],
+    "AHUMADA": [
+      "1211",
+      "1212",
+      "1214",
+      "1215",
+      "1216",
+      "1220",
+      "5577"
+    ],
+    "URGENCIA - AHUMADA": [
+      "1217"
+    ],
+    "ALMENDRA": [
+      "1222"
+    ],
+    "AVANTT": [
+      "1223",
+      "1224",
+      "4527"
+    ],
+    "BELEN": [
+      "1225",
+      "1226",
+      "1227"
+    ],
+    "BERNALES": [
+      "1228"
+    ],
+    "BL00dcMEL": [
+      "1229",
+      "5926"
+    ],
+    "APOTHEKE": [
+      "1230"
+    ],
+    "CENTRAL": [
+      "1231",
+      "2584"
+    ],
+    "CERRILLOS": [
+      "1232"
+    ],
+    "CORDILLERA": [
+      "1233"
+    ],
+    "CRUZ VERDE": [
+      "1235",
+      "1236",
+      "1237",
+      "1238",
+      "1239",
+      "1240",
+      "1241",
+      "1242",
+      "1243",
+      "1244",
+      "1245",
+      "1246",
+      "5810",
+      "5925",
+      "6442"
+    ],
+    "DEL DR. SIMI": [
+      "1248",
+      "1249",
+      "1250",
+      "1251",
+      "6914"
+    ],
+    "DEL PARQUE": [
+      "1253"
+    ],
+    "ECONOFARMA": [
+      "1255",
+      "1278",
+      "5053"
+    ],
+    "EXPRESS": [
+      "1258"
+    ],
+    "LOS MAQUIS": [
+      "1261"
+    ],
+    "MAIPU": [
+      "1262"
+    ],
+    "MEBAL": [
+      "1264"
+    ],
+    "MEVIC": [
+      "1265",
+      "1266"
+    ],
+    "MI SALUD": [
+      "1267"
+    ],
+    "PLUSVIDA": [
+      "1269"
+    ],
+    "PRINCIPAL": [
+      "1270",
+      "1271",
+      "5578",
+      "7230"
+    ],
+    "PUDAHUELISIMO": [
+      "1272"
+    ],
+    "SAINT GERMAIN": [
+      "1274",
+      "1275",
+      "5339"
+    ],
+    "VIDA SALUD": [
+      "1276",
+      "6546"
+    ],
+    "SAN FELIPE": [
+      "1277",
+      "4121"
+    ],
+    "NETFARMA": [
+      "1280"
+    ],
+    "SAN PATRICIO": [
+      "1949"
+    ],
+    "DEL SOL": [
+      "2577"
+    ],
+    "FARMAX": [
+      "4044"
+    ],
+    "LA FARFANA": [
+      "4274"
+    ],
+    "GIRENO": [
+      "4441"
+    ],
+    "NORDENFLYCHT": [
+      "4719"
+    ],
+    "PORTALES": [
+      "4724"
+    ],
+    "FARMAS": [
+      "4794",
+      "6495"
+    ],
+    "COES": [
+      "4818"
+    ],
+    "LA RECETA": [
+      "4926"
+    ],
+    "DEL CARMEN": [
+      "5303",
+      "5340",
+      "6001"
+    ],
+    "PURA PHARMA": [
+      "5321"
+    ],
+    "MIFARMA": [
+      "5332"
+    ],
+    "IBIZA": [
+      "5334"
+    ],
+    "FARMACIA FALMEZ": [
+      "5628"
+    ],
+    "ISAMAR": [
+      "5630"
+    ],
+    "FARMACIAS DR. AHORRO": [
+      "5656"
+    ],
+    "FARMACIA SAN JOS00e9": [
+      "5657"
+    ],
+    "LAFONT": [
+      "5813"
+    ],
+    "BIOCUBA": [
+      "6125"
+    ],
+    "HERRERA": [
+      "6134",
+      "6827"
+    ],
+    "JUMBO": [
+      "6136"
+    ],
+    "M00e1S AHORRO": [
+      "6319"
+    ],
+    "FARMA MAS": [
+      "6320"
+    ],
+    "LIGA CHILENA CONTRA LA EPILEPSIA": [
+      "6429"
+    ],
+    "FARMA CHILE": [
+      "6458"
+    ],
+    "SPACIO FARMA": [
+      "6502"
+    ],
+    "PORTALES DE MAIP00fa": [
+      "6513"
+    ],
+    "FLOR DE LOTO": [
+      "6520"
+    ],
+    "BUSTAMANTE": [
+      "6679"
+    ],
+    "FARMAGRAN": [
+      "6713"
+    ],
+    "BRALE": [
+      "6720",
+      "7074"
+    ],
+    "FARMILIA FARMACIA": [
+      "6787"
+    ],
+    "UNIDAS": [
+      "6815"
+    ],
+    "PEHUEN": [
+      "6872"
+    ],
+    "FARMAHELP": [
+      "6879"
+    ],
+    "M Y D": [
+      "6953"
+    ],
+    "LA BOTIKA": [
+      "6979"
+    ],
+    "ER": [
+      "7008"
+    ],
+    "BELGOCHILENA": [
+      "7065"
+    ],
+    "KNOP": [
+      "7123"
+    ],
+    "ECO FARMACIAS": [
+      "7188"
+    ],
+    "PHARMA TORRES": [
+      "7219"
+    ],
+    "NOVASALUD.COM": [
+      "7244"
+    ],
+    "REDFARMA": [
+      "7267"
+    ],
+    "FARMA ATENTO": [
+      "7399"
+    ],
+    "SANTA ANA": [
+      "7460"
+    ],
+    "FARMISALUD": [
+      "7609"
+    ]
+  },
+  "PEDRO AGUIRRE CERDA": {
+    "LA BOTIKA": [
+      "1282",
+      "1383"
+    ],
+    "CARDENAL CARO": [
+      "1369"
+    ],
+    "CRUZ VERDE": [
+      "1370",
+      "1371"
+    ],
+    "DAVILA": [
+      "1372"
+    ],
+    "DIFAR": [
+      "1373"
+    ],
+    "EXODO": [
+      "1374"
+    ],
+    "FARMAMEDDICA": [
+      "1375"
+    ],
+    "FARMAVITAL": [
+      "1376"
+    ],
+    "G Y V NACIONAL": [
+      "1377"
+    ],
+    "IDAHUE": [
+      "1379"
+    ],
+    "SPLENDID": [
+      "1381"
+    ],
+    "VILLA SUR": [
+      "1382"
+    ],
+    "LH FARMA": [
+      "1384"
+    ],
+    "SALESIANOS": [
+      "4186"
+    ],
+    "POPULAR DR. JUAN CARLOS CONCHA GUTI00c9RREZ": [
+      "4933"
+    ],
+    "DEL DR. SIMI": [
+      "5056"
+    ],
+    "LA PAC": [
+      "6036"
+    ],
+    "RENACER": [
+      "7277"
+    ]
+  },
+  "MELIPILLA": {
+    "AHUMADA": [
+      "1283",
+      "1284",
+      "4215"
+    ],
+    "CRUZ VERDE": [
+      "1286",
+      "1287",
+      "1288",
+      "5811"
+    ],
+    "DEL DR. SIMI": [
+      "1289",
+      "4802"
+    ],
+    "EKONOFARMA": [
+      "1290"
+    ],
+    "PRIETO CENTRO": [
+      "1291"
+    ],
+    "REDONDO": [
+      "1292"
+    ],
+    "SERRANO": [
+      "1293",
+      "1294"
+    ],
+    "B&S": [
+      "1295"
+    ],
+    "SALCOBRAND": [
+      "1296",
+      "1297"
+    ],
+    "ECUANASER": [
+      "2576"
+    ],
+    "SUPER FARMA": [
+      "4333"
+    ],
+    "ARCA": [
+      "4804",
+      "6387"
+    ],
+    "FARMACIA SOLIDARIA": [
+      "4946"
+    ],
+    "NUEVA SALUD": [
+      "5101",
+      "5658"
+    ],
+    "PLAZA BOLLENAR": [
+      "5109"
+    ],
+    "UNO": [
+      "6531"
+    ],
+    "ECUAFARMA": [
+      "6875"
+    ],
+    "MELIPILLA": [
+      "6896"
+    ],
+    "FARMACIA MELIPILLA": [
+      "6915"
+    ],
+    "GARC00cdA & GARC00cdA": [
+      "7261"
+    ],
+    "NG SALUD": [
+      "7442"
+    ]
+  },
+  "PADRE HURTADO": {
+    "EL MANZANO": [
+      "1359"
+    ],
+    "LOS MAQUIS": [
+      "1360"
+    ],
+    "MEVIC": [
+      "1361"
+    ],
+    "SAN JUAN": [
+      "1362"
+    ],
+    "FARMA-MARKET": [
+      "1363"
+    ],
+    "CRUZ VERDE": [
+      "4529",
+      "4809"
+    ],
+    "COMUNAL DE PADRE HURTADO": [
+      "4948"
+    ],
+    "MARIANA": [
+      "5059"
+    ],
+    "FARMA GRAU": [
+      "5088"
+    ],
+    "VADEMECUM": [
+      "5308"
+    ],
+    "FARMACIA EL TREBOL": [
+      "5626"
+    ],
+    "VALVIC": [
+      "5832"
+    ],
+    "FARMATOP": [
+      "6115"
+    ],
+    "SAN FELIPE": [
+      "6382"
+    ],
+    "ALQUIMIA": [
+      "6505"
+    ]
+  },
+  "PAINE": {
+    "CRUZ VERDE": [
+      "1365"
+    ],
+    "DEL DR. SIMI": [
+      "1367"
+    ],
+    "PLAZA PAINE": [
+      "1368"
+    ],
+    "SALCOBRAND": [
+      "2563"
+    ],
+    "FARMAPRECIO": [
+      "3996"
+    ],
+    "HUELQUEN": [
+      "4118"
+    ],
+    "LA BOTICA PANDA": [
+      "5646"
+    ],
+    "EL AHORRO DE SA00daL": [
+      "7441"
+    ]
+  },
+  "PE00d1AFLOR": {
+    "FARMA-MARKET": [
+      "1385",
+      "5824"
+    ],
+    "AHUMADA": [
+      "1386"
+    ],
+    "CRUZ VERDE": [
+      "1388",
+      "1389",
+      "1390",
+      "1391",
+      "6148"
+    ],
+    "DEL DR. SIMI": [
+      "1392"
+    ],
+    "FARMAX": [
+      "1393"
+    ],
+    "MALLOCO": [
+      "1394"
+    ],
+    "PE00d1AFLOR": [
+      "1395"
+    ],
+    "AHORROFARMA": [
+      "1396"
+    ],
+    "SAN JUAN": [
+      "1397"
+    ],
+    "FARMA OFERTAS": [
+      "4535"
+    ],
+    "TODO SALUD": [
+      "4573"
+    ],
+    "MUNICIPAL PE00d1AFLOR": [
+      "4943"
+    ],
+    "SAN SEBASTIAN": [
+      "5634"
+    ],
+    "FARMAVIDA Y SALUD": [
+      "5648"
+    ],
+    "ROCIO": [
+      "5760"
+    ],
+    "TRINIDAD": [
+      "5812"
+    ],
+    "AITUE": [
+      "5822"
+    ],
+    "PHARMAMEDICAL": [
+      "5945"
+    ],
+    "ECUAFARMA": [
+      "6149"
+    ],
+    "FARMACIAS VECINO": [
+      "6958"
+    ]
+  },
+  "PE00d1ALOLEN": {
+    "SALCOBRAND": [
+      "1398",
+      "1400",
+      "1401",
+      "1428",
+      "1429"
+    ],
+    "AHUMADA": [
+      "1402",
+      "1403",
+      "1404",
+      "1406",
+      "3994",
+      "5073"
+    ],
+    "BELEN": [
+      "1407"
+    ],
+    "CRUZ VERDE": [
+      "1408",
+      "1409",
+      "1410",
+      "1411",
+      "1412",
+      "1414",
+      "2000",
+      "5943",
+      "6438"
+    ],
+    "DEL DR. SIMI": [
+      "1415",
+      "1416",
+      "1417",
+      "5316"
+    ],
+    "EL VALLE": [
+      "1418"
+    ],
+    "FARMACIAS 24": [
+      "1419"
+    ],
+    "MEDDICA": [
+      "1420",
+      "6114"
+    ],
+    "GENNETIKA": [
+      "1421"
+    ],
+    "GALLARDO": [
+      "1426"
+    ],
+    "LA BOTIKA": [
+      "1427",
+      "5555"
+    ],
+    "LOS ORIENTALES": [
+      "2580"
+    ],
+    "REAL": [
+      "4318"
+    ],
+    "V Y M": [
+      "4567"
+    ],
+    "FARMACIA COMUNITARIA DE PE00f1ALOLEN": [
+      "4711"
+    ],
+    "JOVITA": [
+      "4815"
+    ],
+    "DAMYFAR": [
+      "4823"
+    ],
+    "TOBALABA": [
+      "5067"
+    ],
+    "SAN IGNACIO": [
+      "5107"
+    ],
+    "JUMBO": [
+      "5315"
+    ],
+    "VIDALUZ": [
+      "5466"
+    ],
+    "VIDA": [
+      "5653"
+    ],
+    "VERTICAL": [
+      "5753"
+    ],
+    "URGENCIA - MANQUEL": [
+      "6327"
+    ],
+    "MAXIMA": [
+      "6455"
+    ],
+    "LA SOLUCI00d3N": [
+      "7304"
+    ]
+  },
+  "PIRQUE": {
+    "SALCOBRAND": [
+      "1431",
+      "6908"
+    ],
+    "CRUZ VERDE": [
+      "6592"
+    ],
+    "LA BOTICA DO00d1A VANESA": [
+      "6738"
+    ],
+    "EL PRINICIPAL": [
+      "6739"
+    ]
+  },
+  "PROVIDENCIA": {
+    "SALCOBRAND": [
+      "1432",
+      "1433",
+      "1434",
+      "1435",
+      "1498",
+      "1499",
+      "1501",
+      "1502",
+      "1503",
+      "1504",
+      "1505",
+      "4105",
+      "4273",
+      "4568",
+      "5536",
+      "5550",
+      "5800",
+      "6704"
+    ],
+    "URGENCIA - SALCOBRAND": [
+      "1436"
+    ],
+    "AHUMADA": [
+      "1437",
+      "1438",
+      "1439",
+      "1440",
+      "1441",
+      "1442",
+      "1444",
+      "1445",
+      "1447",
+      "1448",
+      "1449",
+      "5817",
+      "5820"
+    ],
+    "URGENCIA - AHUMADA": [
+      "1443"
+    ],
+    "ARAVIL": [
+      "1453"
+    ],
+    "ASODI": [
+      "1454"
+    ],
+    "BIOFORMULA": [
+      "1455"
+    ],
+    "CARMEN": [
+      "1456",
+      "1458"
+    ],
+    "GALFARMA": [
+      "1457"
+    ],
+    "CRUZ VERDE": [
+      "1460",
+      "1461",
+      "1462",
+      "1463",
+      "1464",
+      "1465",
+      "1466",
+      "1467",
+      "1468",
+      "1469",
+      "1470",
+      "1471",
+      "1472",
+      "1474",
+      "1475",
+      "1476",
+      "1477",
+      "2585",
+      "4796",
+      "4797",
+      "4816",
+      "5323",
+      "5325",
+      "5541",
+      "5562",
+      "5799",
+      "5924",
+      "6103",
+      "6507",
+      "7299"
+    ],
+    "DEL DR. SIMI": [
+      "1478",
+      "1479",
+      "1480",
+      "5086",
+      "5549",
+      "7294",
+      "7331",
+      "7391"
+    ],
+    "CESFAR": [
+      "1481",
+      "6709"
+    ],
+    "RPFARMA": [
+      "1482"
+    ],
+    "INGLESA": [
+      "1484"
+    ],
+    "LIDO": [
+      "1485"
+    ],
+    "MIIFARMACIA": [
+      "1486"
+    ],
+    "NOVASALUD.COM": [
+      "1487"
+    ],
+    "REDSANA": [
+      "1489"
+    ],
+    "PHARMA 93": [
+      "1493"
+    ],
+    "TAJAMAR": [
+      "1494"
+    ],
+    "VALDANI D": [
+      "1495"
+    ],
+    "FARS FARMACIA MEDICUS": [
+      "1497"
+    ],
+    "MANRIQUEZ": [
+      "3100",
+      "3172",
+      "5300"
+    ],
+    "FARESP": [
+      "3990"
+    ],
+    "FUNDACION DIABETES JUVENIL": [
+      "4025"
+    ],
+    "GALENICA": [
+      "4103"
+    ],
+    "PROFAR": [
+      "4229"
+    ],
+    "LINCE": [
+      "4235"
+    ],
+    "BIOSPHARE": [
+      "4374"
+    ],
+    "LEMBACH": [
+      "4430"
+    ],
+    "HAHNEMANN": [
+      "4868"
+    ],
+    "ADICH": [
+      "4873"
+    ],
+    "SOLIDARIA DE PROVIDENCIA": [
+      "4919"
+    ],
+    "LA BOTICA ITALIA": [
+      "5071"
+    ],
+    "FARMATOTAL": [
+      "5307"
+    ],
+    "MEDFARMA": [
+      "5314"
+    ],
+    "ITALIANA": [
+      "5759"
+    ],
+    "FARMAPRECIO": [
+      "5798"
+    ],
+    "AMIGA": [
+      "5977"
+    ],
+    "CHILEFARMA": [
+      "6122"
+    ],
+    "OFT00c1LMIKA": [
+      "6157"
+    ],
+    "FRACCION": [
+      "6428"
+    ],
+    "LA REBAJA": [
+      "6460",
+      "6464",
+      "6542",
+      "7336",
+      "7389"
+    ],
+    "MONTES": [
+      "6485"
+    ],
+    "VACUNATORIO - PROVACCINE": [
+      "6548"
+    ],
+    "VACUNATORIO - RENVAC": [
+      "6550",
+      "6570"
+    ],
+    "VACUNATORIO - MEDICLOWN": [
+      "6562"
+    ],
+    "VACUNATORIO - LOS ESPA00d1OLES": [
+      "6564"
+    ],
+    "VACUNATORIO - VACUNATORIO INTERNACIONAL IMMUNITAS": [
+      "6571"
+    ],
+    "VACUNATORIO - VACUNATORIO WENGAN": [
+      "6583"
+    ],
+    "VACUNATORIO - VACUMED": [
+      "6584"
+    ],
+    "VACUNATORIO - CENTRO DE ESPECIALIDADES MEDICAS HTS": [
+      "6591"
+    ],
+    "SALVADOR": [
+      "6603"
+    ],
+    "UNIDAS": [
+      "6684"
+    ],
+    "BIOCUBA": [
+      "6759"
+    ],
+    "SOLUFAR": [
+      "6839"
+    ],
+    "ONCOL00f3GICO": [
+      "6862"
+    ],
+    "LA P00d3CIMA": [
+      "6944"
+    ],
+    "OPENFARMA": [
+      "6983"
+    ],
+    "LIGA CHILENA CONTRA LA EPILEPSIA": [
+      "6996"
+    ],
+    "FARMABIENESTAR SPA": [
+      "7012"
+    ],
+    "KNOP": [
+      "7099",
+      "7108",
+      "7113",
+      "7122"
+    ],
+    "POPULAR ACHIFARP": [
+      "7134"
+    ],
+    "ZAMARIN": [
+      "7137"
+    ],
+    "REDFARMA": [
+      "7163"
+    ],
+    "FARMA VITALITY": [
+      "7243"
+    ],
+    "CONSTITUCION": [
+      "7298"
+    ],
+    "GOFARM!": [
+      "7332"
+    ],
+    "ECO FARMACIAS": [
+      "7341"
+    ],
+    "OLIVEROS": [
+      "7375"
+    ],
+    "FARMA-ULLOA": [
+      "7387"
+    ],
+    "MAS AHORRO": [
+      "7390"
+    ],
+    "FARMAFULL": [
+      "7393"
+    ],
+    "FARMA EXPERTOS": [
+      "7398"
+    ],
+    "LA FARMA": [
+      "7402"
+    ],
+    "CEM": [
+      "7432"
+    ],
+    "FARMAAHORRO": [
+      "7459"
+    ]
+  },
+  "VITACURA": {
+    "PANONIA": [
+      "1488"
+    ],
+    "SALCOBRAND": [
+      "1965",
+      "1966",
+      "1967",
+      "1968",
+      "1970",
+      "1971",
+      "1972",
+      "3992",
+      "4666"
+    ],
+    "AHUMADA": [
+      "1973",
+      "1974",
+      "1975",
+      "1977",
+      "4065",
+      "4266",
+      "6032"
+    ],
+    "URGENCIA - AHUMADA": [
+      "1979"
+    ],
+    "GALFARMA": [
+      "1982",
+      "4788"
+    ],
+    "CRUZ VERDE": [
+      "1983",
+      "1984",
+      "1985",
+      "1986",
+      "1987",
+      "1989",
+      "1991",
+      "1992",
+      "1993",
+      "4032",
+      "4099",
+      "4167",
+      "5623",
+      "5910",
+      "6154"
+    ],
+    "URGENCIA - CRUZ VERDE": [
+      "1990"
+    ],
+    "ARBOLARIA": [
+      "1994"
+    ],
+    "NOVASALUD.COM": [
+      "1998"
+    ],
+    "ALTO ORIENTE": [
+      "2583"
+    ],
+    "VITABOTICA": [
+      "4938"
+    ],
+    "GALENICA": [
+      "5751"
+    ],
+    "VACUNATORIO - PROCEDIMIENTOS CL00edNICOS ALTO TABANCURA S.A.": [
+      "6577"
+    ],
+    "VACUNATORIO - CENTRO DE DIAGNOSTICO CLINICA TABANCURA": [
+      "6578"
+    ],
+    "VACUNATORIO - CLINICA ALEMANA": [
+      "6580"
+    ],
+    "VACUNATORIO - LABORATORIO CLINICO IEM VITACURA": [
+      "6589"
+    ],
+    "COYHAIQUE": [
+      "6775"
+    ],
+    "DEL DR. SIMI": [
+      "6874"
+    ],
+    "TODOFARMA": [
+      "7253"
+    ]
+  },
+  "PUDAHUEL": {
+    "FARMA UNO": [
+      "1506"
+    ],
+    "AHUMADA": [
+      "1507",
+      "1508",
+      "1509",
+      "1510"
+    ],
+    "BELEN": [
+      "1511",
+      "5890"
+    ],
+    "CATHERINNE": [
+      "1512"
+    ],
+    "CRUZ VERDE": [
+      "1514",
+      "1515",
+      "1525"
+    ],
+    "DEL DR. SIMI": [
+      "1516",
+      "4019"
+    ],
+    "EMIFAR": [
+      "1517"
+    ],
+    "GALENICA": [
+      "1518"
+    ],
+    "LAISA": [
+      "1519"
+    ],
+    "LAS ALMENDRAS": [
+      "1520"
+    ],
+    "FARMASOL": [
+      "1521"
+    ],
+    "ESPOZ": [
+      "1522",
+      "1526",
+      "6510"
+    ],
+    "FARMA OFERTA": [
+      "1523",
+      "4258"
+    ],
+    "ROMINA": [
+      "1524"
+    ],
+    "SAN PIO": [
+      "1527"
+    ],
+    "SERRANO": [
+      "1528"
+    ],
+    "TIERRA DEL FUEGO": [
+      "1530"
+    ],
+    "TORRES": [
+      "1532"
+    ],
+    "LAS PRINCESAS": [
+      "1533"
+    ],
+    "NETFARMA": [
+      "3989"
+    ],
+    "BOTIQUIN SUR": [
+      "4722"
+    ],
+    "FARMAROD": [
+      "4872"
+    ],
+    "CRUZ DEL SUR": [
+      "5469"
+    ],
+    "MEDICAL STORES": [
+      "5895"
+    ],
+    "SANTA RAQUEL": [
+      "6119"
+    ],
+    "VIVAS": [
+      "6152"
+    ],
+    "MEDIPLUS": [
+      "6503"
+    ],
+    "DYLAN": [
+      "6523",
+      "6962"
+    ],
+    "VACUNATORIO - CLINICA EL BOSQUE": [
+      "6573"
+    ],
+    "SEPULVEDA": [
+      "6671"
+    ],
+    "EL REMEDIO": [
+      "6719"
+    ],
+    "SANTA RAQUEL II": [
+      "7231"
+    ],
+    "BELEY": [
+      "7262"
+    ],
+    "POPULAR DE PUDAHUEL SUR": [
+      "7601"
+    ]
+  },
+  "PUENTE ALTO": {
+    "HABANA": [
+      "1535",
+      "1543"
+    ],
+    "SALCOBRAND": [
+      "1536",
+      "1537",
+      "1538",
+      "1540",
+      "1541",
+      "1603",
+      "1604",
+      "4063"
+    ],
+    "MACARENA": [
+      "1542"
+    ],
+    "LA BOTIKA": [
+      "1544",
+      "5829",
+      "6457"
+    ],
+    "LOS TOROS": [
+      "1545"
+    ],
+    "AHUMADA": [
+      "1546",
+      "1547",
+      "1548",
+      "1550",
+      "1553",
+      "2561"
+    ],
+    "ALBORADA": [
+      "1555"
+    ],
+    "ANGEL": [
+      "1556"
+    ],
+    "ARES": [
+      "1557"
+    ],
+    "BL00dcMEL": [
+      "1559"
+    ],
+    "CATALINA": [
+      "1561"
+    ],
+    "CRUZ VERDE": [
+      "1563",
+      "1564",
+      "1565",
+      "1566",
+      "1567",
+      "1569",
+      "1570",
+      "1573",
+      "1574",
+      "4051",
+      "4261",
+      "4572",
+      "5574",
+      "6602"
+    ],
+    "J M": [
+      "1575",
+      "5576"
+    ],
+    "DEL DR. SIMI": [
+      "1577",
+      "1578",
+      "1579",
+      "1580",
+      "1581",
+      "5524"
+    ],
+    "EMANUEL": [
+      "1582"
+    ],
+    "ESTRELLA": [
+      "1583"
+    ],
+    "FARMA-ULLOA": [
+      "1584",
+      "5572"
+    ],
+    "FENIX": [
+      "1585"
+    ],
+    "FULLFARMA": [
+      "1586"
+    ],
+    "GALENICA": [
+      "1587"
+    ],
+    "LA OLA": [
+      "1588"
+    ],
+    "SALUD FARMA": [
+      "1589"
+    ],
+    "LOS PALTOS": [
+      "1591"
+    ],
+    "NETFARMA": [
+      "1592",
+      "1594"
+    ],
+    "MEDDICA": [
+      "1593"
+    ],
+    "PABLO": [
+      "1595"
+    ],
+    "PATRICIO": [
+      "1596",
+      "1597"
+    ],
+    "ROKI": [
+      "1598"
+    ],
+    "ROUBILLARD": [
+      "1599"
+    ],
+    "BLANCA": [
+      "1600"
+    ],
+    "SAN CARLOS": [
+      "4120",
+      "5471",
+      "5573",
+      "7263"
+    ],
+    "BOTICA FAMILIAR": [
+      "4222"
+    ],
+    "EL MILAGRO": [
+      "4429"
+    ],
+    "UNIDAS": [
+      "4496"
+    ],
+    "DE LO ALTO": [
+      "4553",
+      "5105",
+      "6528"
+    ],
+    "SOLIDARIA POPULAR DE PUENTE ALTO": [
+      "4920"
+    ],
+    "MEGA AHORRO": [
+      "5318"
+    ],
+    "SHALOM": [
+      "5470"
+    ],
+    "FARMAPRECIO": [
+      "5579"
+    ],
+    "EL TREBOL": [
+      "5627"
+    ],
+    "SANTA ESPERANZA": [
+      "5632"
+    ],
+    "LF": [
+      "5639"
+    ],
+    "SANTA MARTA": [
+      "5727"
+    ],
+    "KNOP": [
+      "5833",
+      "7125"
+    ],
+    "FIRST FARMA": [
+      "5938"
+    ],
+    "TOCORNAL": [
+      "6388"
+    ],
+    "SALUD ETERNA": [
+      "6500"
+    ],
+    "CAMPOS L00f3PEZ LOCAL": [
+      "6512"
+    ],
+    "SEGAL": [
+      "6526"
+    ],
+    "FARMALIANZA": [
+      "6529"
+    ],
+    "VITA": [
+      "6666"
+    ],
+    "HERRERA": [
+      "6830"
+    ],
+    "IANES": [
+      "6878"
+    ],
+    "VALGAL": [
+      "6951"
+    ],
+    "NOVASALUD.COM": [
+      "7020"
+    ],
+    "CIELO ANDINO": [
+      "7068"
+    ],
+    "CARMENCITA": [
+      "7138"
+    ],
+    "LUVIFARM": [
+      "7290"
+    ],
+    "MARLIOT NEWEN": [
+      "7435"
+    ],
+    "MAICAO": [
+      "7454"
+    ],
+    "MYFARMA": [
+      "7565"
+    ]
+  },
+  "QUILICURA": {
+    "LA REBAJA": [
+      "1605"
+    ],
+    "SALCOBRAND": [
+      "1606",
+      "1626",
+      "2557",
+      "4264",
+      "5331"
+    ],
+    "AHUMADA": [
+      "1607",
+      "1609"
+    ],
+    "BELEN": [
+      "1610",
+      "1611",
+      "5313"
+    ],
+    "CRUZ VERDE": [
+      "1613",
+      "1614",
+      "1615",
+      "6132",
+      "7367"
+    ],
+    "DEL DR. SIMI": [
+      "1616",
+      "5475",
+      "5609",
+      "7190"
+    ],
+    "FARMAX": [
+      "1617"
+    ],
+    "HELIFARMA": [
+      "1618"
+    ],
+    "REAL": [
+      "1621",
+      "5805"
+    ],
+    "NUEVA REAL": [
+      "1622",
+      "6150"
+    ],
+    "FARMAVIDA": [
+      "1623"
+    ],
+    "SCANDIC": [
+      "1624"
+    ],
+    "VECINA SANTA LAURA": [
+      "1625"
+    ],
+    "VECINA LOS JARDINES": [
+      "2559"
+    ],
+    "MACPHARMA": [
+      "4094"
+    ],
+    "BICENTENARIO": [
+      "4330"
+    ],
+    "SANTA ANA SPA": [
+      "4558"
+    ],
+    "MEDDICA": [
+      "4615"
+    ],
+    "DMEDICAL": [
+      "4625"
+    ],
+    "FARMAXAL": [
+      "4721"
+    ],
+    "MUNICIPAL SOLIDARIA DE QUILICURA": [
+      "4928"
+    ],
+    "FARMA TOUT": [
+      "5099"
+    ],
+    "ANTONIO": [
+      "5473",
+      "5629"
+    ],
+    "ESSALUD": [
+      "5651"
+    ],
+    "FARMAHORRO": [
+      "5931"
+    ],
+    "ARAUCOMED": [
+      "6117"
+    ],
+    "SOLIDARIA MOVIL": [
+      "6726"
+    ],
+    "FARMALU": [
+      "6799"
+    ],
+    "PHARMA ISA": [
+      "6845"
+    ],
+    "RP FARMA": [
+      "7056"
+    ],
+    "SU FARMACIA": [
+      "7241"
+    ]
+  },
+  "QUINTA NORMAL": {
+    "CRUZ VERDE": [
+      "1628",
+      "1631"
+    ],
+    "EMIFAR": [
+      "1629"
+    ],
+    "SIMON BOLIVAR": [
+      "1630"
+    ],
+    "ESPOZ": [
+      "1632",
+      "4406"
+    ],
+    "GALENICA": [
+      "1633",
+      "1634"
+    ],
+    "BARROSO": [
+      "1635"
+    ],
+    "MACARENA": [
+      "1636"
+    ],
+    "MENDOZA": [
+      "1637"
+    ],
+    "MEVIC": [
+      "1638"
+    ],
+    "MYPHARMA": [
+      "1639"
+    ],
+    "HYGEA": [
+      "4539"
+    ],
+    "LA BOTIKA": [
+      "4792",
+      "5094",
+      "5298"
+    ],
+    "LONQUIMAY": [
+      "5074"
+    ],
+    "VILLASANA": [
+      "5299"
+    ],
+    "PEVAL LTDA": [
+      "5814"
+    ],
+    "PHARMA-VITAE": [
+      "5897"
+    ],
+    "PINTO MART00cdNEZ": [
+      "6118"
+    ],
+    "CARRASCAL": [
+      "6770"
+    ],
+    "J M": [
+      "7021"
+    ],
+    "CELIA": [
+      "7282"
+    ],
+    "DEL DR. SIMI": [
+      "7361"
+    ],
+    "MOUR": [
+      "7626"
+    ]
+  },
+  "RENCA": {
+    "LA BOTIKA": [
+      "1672"
+    ],
+    "AHUMADA": [
+      "1673"
+    ],
+    "CARLA": [
+      "1674"
+    ],
+    "CRUZ VERDE": [
+      "1675",
+      "1676"
+    ],
+    "DEL DR. SIMI": [
+      "1677",
+      "4220"
+    ],
+    "IRIS": [
+      "1678"
+    ],
+    "MEDDICA": [
+      "1679"
+    ],
+    "DONDE'L LORITO": [
+      "1680"
+    ],
+    "TIERRA DEL FUEGO": [
+      "1682"
+    ],
+    "VECINA": [
+      "1683"
+    ],
+    "SALCOBRAND": [
+      "1684"
+    ],
+    "AMIGA": [
+      "4939",
+      "4990"
+    ],
+    "SANA SANA": [
+      "5322",
+      "5892"
+    ],
+    "COMUNITARIA DE RENCA": [
+      "5854"
+    ],
+    "NETFARMA": [
+      "6095"
+    ],
+    "LAS PRINCESAS": [
+      "6105"
+    ],
+    "FAMILIARES": [
+      "6518"
+    ],
+    "BUENAVENTURA": [
+      "7278"
+    ],
+    "BENMAR": [
+      "7280"
+    ]
+  },
+  "SAN JOAQUIN": {
+    "LA BOTIKA": [
+      "1728"
+    ],
+    "DAMYFAR": [
+      "1730"
+    ],
+    "DEL DR. SIMI": [
+      "1731",
+      "6544"
+    ],
+    "CONTIGO": [
+      "1732"
+    ],
+    "FARMASTORE J. RAFAH": [
+      "1734"
+    ],
+    "FARMAVIDA": [
+      "1735"
+    ],
+    "LA FLORIDA": [
+      "1737"
+    ],
+    "THERAPIA IV": [
+      "1738"
+    ],
+    "ESTRELLA": [
+      "2564"
+    ],
+    "AHUMADA": [
+      "3355"
+    ],
+    "POPULAR DE SAN JOAQUIN": [
+      "4921"
+    ],
+    "RUKALAF": [
+      "5085"
+    ],
+    "DEPARTAMENTAL": [
+      "6124"
+    ],
+    "FARMALILA": [
+      "6673"
+    ],
+    "LA SERVICIAL": [
+      "7156"
+    ]
+  },
+  "SAN JOSE DE MAIPO": {
+    "SAN ANDRES": [
+      "1739"
+    ],
+    "SAN JOSE": [
+      "1740"
+    ]
+  },
+  "SAN MIGUEL": {
+    "FARMAPRECIO": [
+      "1741"
+    ],
+    "SALCOBRAND": [
+      "1743",
+      "1744",
+      "1766",
+      "5070",
+      "6432"
+    ],
+    "AHUMADA": [
+      "1745",
+      "1746",
+      "1747",
+      "2550"
+    ],
+    "ALEMANA": [
+      "1749"
+    ],
+    "CARLY": [
+      "1752"
+    ],
+    "CARYVON": [
+      "1753",
+      "6293"
+    ],
+    "CRUZ VERDE": [
+      "1755",
+      "1756",
+      "1757",
+      "1758",
+      "1759"
+    ],
+    "LA REBAJA": [
+      "1762",
+      "5940",
+      "7036"
+    ],
+    "LO VIAL": [
+      "1763"
+    ],
+    "SAN JOSE": [
+      "1764"
+    ],
+    "MANRIQUEZ": [
+      "1765"
+    ],
+    "FABY": [
+      "4058"
+    ],
+    "PURA PHARMA": [
+      "4281"
+    ],
+    "ANTONELLA": [
+      "4723"
+    ],
+    "FARMACIA COMUNAL SAN MIGUEL": [
+      "4998"
+    ],
+    "JUMBO": [
+      "5095"
+    ],
+    "VITALPHARMA": [
+      "5530"
+    ],
+    "INGLESA": [
+      "5733"
+    ],
+    "FARMAMASPLUS": [
+      "6146"
+    ],
+    "O2": [
+      "6299",
+      "6300"
+    ],
+    "SAN NICOL00c1S": [
+      "6342"
+    ],
+    "UNIDAS": [
+      "6390",
+      "7140"
+    ],
+    "DEL DR. SIMI": [
+      "7018",
+      "7185"
+    ],
+    "REDFARMA": [
+      "7207"
+    ],
+    "TU FARMACIA DIGITAL DEL BARRIO": [
+      "7496"
+    ],
+    "SALUD EN TU BARRIO": [
+      "7523"
+    ]
+  },
+  "SAN RAMON": {
+    "ALEJANDRA": [
+      "1767"
+    ],
+    "BELEN": [
+      "1768"
+    ],
+    "CRUZ VERDE": [
+      "1769"
+    ],
+    "MANRIQUEZ": [
+      "1770",
+      "4530"
+    ],
+    "DEL DR. SIMI": [
+      "1771"
+    ],
+    "FARMAVITAL": [
+      "1772"
+    ],
+    "NUEVA": [
+      "1774"
+    ],
+    "SUR": [
+      "1775"
+    ],
+    "AHORRO MAS": [
+      "4221"
+    ],
+    "POPULAR COMUNA SAN RAM00f3N": [
+      "4917"
+    ],
+    "TU BARRIO": [
+      "5058"
+    ],
+    "SOZAFAR": [
+      "5082"
+    ],
+    "FARMACIAS 24": [
+      "5100"
+    ],
+    "FARMACIA DEL SEGUNDO PISO DEL 00c1REA DE CONSULTAS AMBULATORIAS CRS": [
+      "5802"
+    ]
+  },
+  "TALAGANTE": {
+    "SALCOBRAND": [
+      "1948"
+    ],
+    "AHUMADA": [
+      "1950",
+      "1952"
+    ],
+    "CRUZ VERDE": [
+      "1951",
+      "1954",
+      "1955",
+      "5942"
+    ],
+    "MI FARMACIA": [
+      "1956"
+    ],
+    "DEL DR. SIMI": [
+      "1957"
+    ],
+    "EL SOL": [
+      "1958"
+    ],
+    "FARMA-MARKET": [
+      "1959"
+    ],
+    "MOLYFARMA": [
+      "1960"
+    ],
+    "SAN JUAN": [
+      "1961"
+    ],
+    "TALAGANTE": [
+      "1962"
+    ],
+    "CAROLINA": [
+      "4808"
+    ],
+    "CATEDRAL": [
+      "5327"
+    ],
+    "BOTICA ALQUIMIA": [
+      "6106"
+    ],
+    "VACUNATORIO - SEMCO": [
+      "6549"
+    ],
+    "VIDASOLMAR": [
+      "6758"
+    ],
+    "GO FARMA": [
+      "6907"
+    ],
+    "POPULAR FARMA": [
+      "7048"
+    ]
+  },
+  "TIL-TIL": {
+    "BELEN": [
+      "1963"
+    ],
+    "HUERTOS FAMILIARES": [
+      "4253"
+    ],
+    "COMUNAL DE TIL TIL": [
+      "5571"
+    ]
+  },
+  "ARAUCO": {
+    "CRUZ VERDE": [
+      "2269"
+    ],
+    "LA ESTRELLA": [
+      "2270"
+    ],
+    "FORMULARIO": [
+      "2271"
+    ],
+    "PLAZA": [
+      "2272"
+    ],
+    "FUTURO": [
+      "2273"
+    ],
+    "DR. SIMI": [
+      "2274"
+    ],
+    "FARMACIA MUNICIPAL FARMARAUCO": [
+      "5010"
+    ],
+    "SALCOBRAND": [
+      "6348"
+    ]
+  },
+  "BULNES": {
+    "ITALIA": [
+      "2275"
+    ],
+    "SANITEX": [
+      "2276"
+    ]
+  },
+  "CA00d1ETE": {
+    "CRUZ VERDE": [
+      "2277",
+      "2278",
+      "2280"
+    ],
+    "DR. SIMI": [
+      "2279"
+    ],
+    "SALCOBRAND": [
+      "2281"
+    ],
+    "UNION": [
+      "2283"
+    ],
+    "ELIAS": [
+      "5597"
+    ],
+    "FARMACIAS DR. SIMI": [
+      "7022"
+    ]
+  },
+  "CHIGUAYANTE": {
+    "CRUZ VERDE": [
+      "2285",
+      "2286"
+    ],
+    "DR. SIMI": [
+      "2287"
+    ],
+    "REDFARMA": [
+      "2289",
+      "2290"
+    ],
+    "SALCOBRAND": [
+      "2291",
+      "2292"
+    ],
+    "FARMACIA MUNICIPAL CHIGUAYANTE": [
+      "5008"
+    ],
+    "FARMACIA DR. SIMI": [
+      "5196"
+    ],
+    "FARMACIA BIOBIO": [
+      "6350"
+    ]
+  },
+  "CHILLAN": {
+    "AHUMADA": [
+      "2294",
+      "2295",
+      "2296",
+      "2298"
+    ],
+    "CRUZ VERDE": [
+      "2299",
+      "2301",
+      "2302",
+      "2303",
+      "5375",
+      "7380"
+    ],
+    "BARRIOSALUD": [
+      "2304"
+    ],
+    "EL LEON": [
+      "2306",
+      "2307"
+    ],
+    "EL LEON EXPRESS": [
+      "2308"
+    ],
+    "SALCOBRAND": [
+      "2311",
+      "2312",
+      "2313"
+    ],
+    "SANTOS": [
+      "2314",
+      "6871"
+    ],
+    "DEL FORMULARIO": [
+      "2317"
+    ],
+    "DR. SIMI": [
+      "2318",
+      "5434",
+      "6597"
+    ],
+    "SALUD NATURAL": [
+      "2319"
+    ],
+    "KNOP": [
+      "2320",
+      "6065"
+    ],
+    "BARRIO SALUD": [
+      "4212"
+    ],
+    "FARMACIA ASISTENCIAL COMUNAL CHILL00c1N": [
+      "5013"
+    ],
+    "FARMACIA HUEPE": [
+      "5052"
+    ],
+    "BARRIO-SALUD": [
+      "5111"
+    ],
+    "HUEPE": [
+      "5376"
+    ],
+    "TELEFARMA": [
+      "5377"
+    ],
+    "NEVADOS": [
+      "5976"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "6304"
+    ],
+    "EGIPCIA": [
+      "6613"
+    ],
+    "CLINICA CHILLAN": [
+      "6688"
+    ],
+    "FARMACIA HERENCIA": [
+      "6800"
+    ],
+    "ULTRASALUD": [
+      "7279"
+    ],
+    "MASPHARMA": [
+      "7619"
+    ],
+    "LA TRINIDAD": [
+      "7629"
+    ]
+  },
+  "CHILLAN VIEJO": {
+    "REDFARMA": [
+      "2321"
+    ],
+    "FARMACIA ASISTENCIAL COMUNAL CHILL00c1N VIEJO": [
+      "5015"
+    ]
+  },
+  "COELEMU": {
+    "SOMOS FARMACIA": [
+      "2322"
+    ],
+    "MAS": [
+      "2323"
+    ],
+    "VIDASUR": [
+      "2324"
+    ]
+  },
+  "CONCEPCION": {
+    "AHUMADA": [
+      "2326",
+      "2327",
+      "2328",
+      "2329",
+      "2332",
+      "2333",
+      "2335",
+      "2336",
+      "2522",
+      "2587"
+    ],
+    "CRUZ VERDE": [
+      "2338",
+      "2339",
+      "2341",
+      "2343",
+      "2344",
+      "2345",
+      "2351",
+      "2589"
+    ],
+    "SOCOSEP": [
+      "2348"
+    ],
+    "SETOP PHARMA": [
+      "2350"
+    ],
+    "DR. SIMI": [
+      "2353",
+      "2354",
+      "2355",
+      "4209",
+      "4951"
+    ],
+    "ENGELNAT": [
+      "2357"
+    ],
+    "INSUVAL": [
+      "2360"
+    ],
+    "LORENZO ARENAS": [
+      "2361"
+    ],
+    "LOS CARRERAS": [
+      "2362"
+    ],
+    "NONGU00c9N": [
+      "2364"
+    ],
+    "NOVAFAR": [
+      "2365"
+    ],
+    "NOVASALUD.COM": [
+      "2366"
+    ],
+    "REDFARMA": [
+      "2367",
+      "2368",
+      "4507",
+      "4877",
+      "5516",
+      "5603",
+      "5660"
+    ],
+    "RIVERA": [
+      "2372"
+    ],
+    "SALCOBRAND": [
+      "2373",
+      "2375",
+      "2376",
+      "2377",
+      "2378",
+      "2379",
+      "2380",
+      "2381",
+      "2382",
+      "2526",
+      "3090"
+    ],
+    "SANA": [
+      "2383"
+    ],
+    "SANATORIO ALEMAN": [
+      "2384"
+    ],
+    "THERAP00cdA": [
+      "2385"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "4119",
+      "4660",
+      "5880",
+      "5998",
+      "6060",
+      "6351",
+      "7302",
+      "7527"
+    ],
+    "FARMACIA DR. SIMI": [
+      "4449",
+      "6740"
+    ],
+    "FARMACIA AHUMADA": [
+      "4477"
+    ],
+    "FARMAVIDA": [
+      "4506"
+    ],
+    "FARMACIAS DEL DR. SIMI": [
+      "4565"
+    ],
+    "BIOFARMAC": [
+      "4686"
+    ],
+    "FARMACIA LINCOYAN": [
+      "4806"
+    ],
+    "FARMACIA CONCEPCION": [
+      "4807"
+    ],
+    "FARMACIA MUNICIPAL DE CONCEPCION": [
+      "5009"
+    ],
+    "FARMACIA REDFARMA": [
+      "5194",
+      "5885",
+      "6000"
+    ],
+    "FARMACIA EL TREBOL": [
+      "5239"
+    ],
+    "ELIXIR": [
+      "5348"
+    ],
+    "FARMACIA 21 DE MAYO": [
+      "5385"
+    ],
+    "FARMACIA HCS": [
+      "5411"
+    ],
+    "BARRIO SALUD": [
+      "5432",
+      "5480"
+    ],
+    "FARMACIA SHOFAR": [
+      "5591"
+    ],
+    "LIGA CHILENA CONTRA LA EPILEPSIA SEDE CONCEPCION": [
+      "5659"
+    ],
+    "FARMACIA CHILENA": [
+      "5878"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "5879"
+    ],
+    "COOPERCARAB CONCEPCION": [
+      "6352"
+    ],
+    "FARMACIA ANIBAL PINTO": [
+      "6489"
+    ],
+    "FARMACIA BIG FARMA": [
+      "6492",
+      "6698",
+      "6905"
+    ],
+    "FARMACIA INSTITUCIONAL": [
+      "6630"
+    ],
+    "LA BOTICA PENQUISTA": [
+      "6735"
+    ],
+    "FARMACIA FARMALUZ": [
+      "6741"
+    ],
+    "FARMACIA BIOCUBA": [
+      "6796"
+    ],
+    "FARMACIA BARRIO SALUD": [
+      "6805",
+      "7339"
+    ],
+    "FARMACIA CONAC CONECPCI00d3N": [
+      "6855"
+    ],
+    "FARMACIA DR SIMI": [
+      "6901"
+    ],
+    "FARMACIA FREIRE": [
+      "7037"
+    ],
+    "FARMACIA SAN CARLOS": [
+      "7170"
+    ],
+    "FARMACIA EMA": [
+      "7305"
+    ],
+    "FARMACIA DELTASALUD": [
+      "7437"
+    ]
+  },
+  "TALCAHUANO": {
+    "CAPREDENA": [
+      "2352"
+    ],
+    "AHUMADA": [
+      "2452",
+      "2453",
+      "4003"
+    ],
+    "REDFARMA": [
+      "2454",
+      "2467"
+    ],
+    "ARAUCARIA": [
+      "2455"
+    ],
+    "CRUZ VERDE": [
+      "2456",
+      "2457",
+      "2458",
+      "2459",
+      "2460",
+      "3261"
+    ],
+    "DR. SIMI": [
+      "2461",
+      "4687"
+    ],
+    "ESTACI00d3N": [
+      "2462"
+    ],
+    "PORTUS": [
+      "2466"
+    ],
+    "SALCOBRAND": [
+      "2469",
+      "2470",
+      "2471",
+      "4480",
+      "4882"
+    ],
+    "FARMACIA AHUMADA": [
+      "4476"
+    ],
+    "FARMA MAS AHORRO": [
+      "4805"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "5997"
+    ],
+    "FARMACIA DR. SIMI": [
+      "6059",
+      "7568"
+    ],
+    "FARMACIA SAN MARCOS": [
+      "6490"
+    ],
+    "FARMACIA REDFARMA": [
+      "6772"
+    ],
+    "FARMACIA HIGUERAS": [
+      "6846"
+    ],
+    "FARMACIA BIG FARMA": [
+      "7338"
+    ],
+    "FARMACIA MUNICIPAL DE TALCAHUANO": [
+      "7604"
+    ]
+  },
+  "TOME": {
+    "TOME": [
+      "2369"
+    ],
+    "BIOSALUD": [
+      "2475",
+      "5349"
+    ],
+    "CRUZ VERDE": [
+      "2477"
+    ],
+    "DR. SIMI": [
+      "2478"
+    ],
+    "REDFARMA": [
+      "2479"
+    ],
+    "SALCOBRAND": [
+      "2480"
+    ],
+    "VIDASUR": [
+      "4049"
+    ],
+    "FARMACIA BARRIO SALUD": [
+      "4620"
+    ],
+    "FARMACIA POPULAR TOM00c9": [
+      "5007"
+    ],
+    "FARMACIA MAIP00da": [
+      "7546"
+    ]
+  },
+  "CORONEL": {
+    "AHUMADA": [
+      "2387"
+    ],
+    "CRUZ VERDE": [
+      "2388",
+      "2389"
+    ],
+    "DR. SIMI": [
+      "2390"
+    ],
+    "SALCOBRAND": [
+      "2392",
+      "2527",
+      "4601"
+    ],
+    "ZURITA": [
+      "2393",
+      "2528"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "4583"
+    ],
+    "FARMACIA DR. SIMI": [
+      "4867"
+    ],
+    "FARMACIA BIOFARMA LAGUNILLAS": [
+      "5886"
+    ],
+    "FARMACIA GEN00c9RICA": [
+      "6734"
+    ],
+    "FARMACIA REDFARMA": [
+      "6900"
+    ]
+  },
+  "CURANILAHUE": {
+    "CRUZ VERDE": [
+      "2394"
+    ],
+    "REDFARMA": [
+      "2395"
+    ],
+    "DR. SIMI": [
+      "2397"
+    ],
+    "PAGUE MENOS": [
+      "3231"
+    ],
+    "FARMACIA MUNICIPAL DE CURANILAHUE": [
+      "5258"
+    ]
+  },
+  "HUALPEN": {
+    "AHUMADA": [
+      "2398",
+      "2399"
+    ],
+    "FARMACIA EXTERNA CLINICA ANDES SALUD CONCEPCION": [
+      "2400"
+    ],
+    "CRUZ VERDE": [
+      "2401",
+      "2402",
+      "2404"
+    ],
+    "FARMACIA LA FLORESTA": [
+      "2405"
+    ],
+    "SANA N00ba 2": [
+      "2406"
+    ],
+    "FARMACIA COMUNAL HUALP00c9N": [
+      "5163"
+    ],
+    "JUMBO HUALPEN": [
+      "5877"
+    ],
+    "FARMACIA ARAVAL": [
+      "5999"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "6058"
+    ],
+    "FARMACIA DR. SIMI": [
+      "7063"
+    ]
+  },
+  "HUALQUI": {
+    "REDFARMA": [
+      "2407"
+    ],
+    "BIOSALUD HUALQUI": [
+      "2531"
+    ],
+    "MAS VIDA Y SALUD": [
+      "4467"
+    ]
+  },
+  "LEBU": {
+    "CRUZ VERDE": [
+      "2408"
+    ],
+    "DR. SIMI": [
+      "2409"
+    ],
+    "NUEVA FARMACIA LEBU": [
+      "2410"
+    ],
+    "FUTURO": [
+      "2411"
+    ],
+    "REDFARMA": [
+      "2412"
+    ],
+    "FARMACIA COMUNITARIA LEBU": [
+      "5000"
+    ]
+  },
+  "LOS ALAMOS": {
+    "FARMATODO": [
+      "2413"
+    ],
+    "FARMA SALUD": [
+      "4426"
+    ],
+    "FARMACIA AHORRO MAS": [
+      "5183"
+    ]
+  },
+  "LOTA": {
+    "DR. SIMI": [
+      "2416"
+    ],
+    "SALCOBRAND": [
+      "2417"
+    ],
+    "SAN PABLO": [
+      "2418"
+    ],
+    "REDFARMA": [
+      "4727"
+    ],
+    "BOTICA DEL CARB00d3N": [
+      "5002"
+    ]
+  },
+  "PENCO": {
+    "CRUZ VERDE": [
+      "2419"
+    ],
+    "DR. SIMI": [
+      "2420"
+    ],
+    "FARMA EDAN": [
+      "2421"
+    ],
+    "PENCO": [
+      "2422"
+    ],
+    "RENACER": [
+      "2423"
+    ],
+    "FARMACIA MUNICIPAL PENCO": [
+      "5011"
+    ],
+    "FARMACIA IGNAFAR": [
+      "5195"
+    ]
+  },
+  "PINTO": {
+    "BECERRA": [
+      "2425"
+    ]
+  },
+  "QUILLON": {
+    "QUILL00d3N": [
+      "2426"
+    ],
+    "SUR": [
+      "2427"
+    ],
+    "ITATA": [
+      "2428"
+    ],
+    "DR. SIMI": [
+      "5499"
+    ]
+  },
+  "QUIRIHUE": {
+    "FARMAX": [
+      "2429"
+    ],
+    "QUIRIHUE": [
+      "2430"
+    ],
+    "FARMACIA POPULAR COMUNAL QUIRIHUE": [
+      "6066"
+    ]
+  },
+  "SAN CARLOS": {
+    "CRUZ VERDE": [
+      "2433"
+    ],
+    "SAAVEDRA": [
+      "2434"
+    ],
+    "SALCOBRAND": [
+      "2435"
+    ],
+    "DR. SIMI": [
+      "2436"
+    ],
+    "SALUD NATURAL": [
+      "2437"
+    ],
+    "FARMACIA ASISTENCIAL COMUNAL SAN CARLOS": [
+      "5014"
+    ],
+    "FARMACIAS ARAGON": [
+      "6063"
+    ],
+    "PUNTOFARMACIA": [
+      "7178"
+    ]
+  },
+  "SAN PEDRO DE LA PAZ": {
+    "AHUMADA": [
+      "2438"
+    ],
+    "CRUZ VERDE": [
+      "2441",
+      "2442",
+      "2443"
+    ],
+    "DR. SIMI": [
+      "2444"
+    ],
+    "FARMAX": [
+      "2445"
+    ],
+    "FARMA MAS AHORRO": [
+      "2446"
+    ],
+    "SALCOBRAND": [
+      "2447",
+      "2448",
+      "2449",
+      "4129"
+    ],
+    "BIOFARMA": [
+      "2450"
+    ],
+    "BIOFARMA SUCURSAL": [
+      "2451"
+    ],
+    "FARMACIA POPULAR LLACOL00c9N": [
+      "4693"
+    ],
+    "FARMACIA SANA": [
+      "5949"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "6452",
+      "6491"
+    ],
+    "FARMACIA ANDALU00c9": [
+      "6833"
+    ],
+    "DR SIMI SAN PEDRO DE LA PAZ": [
+      "6960"
+    ],
+    "FARMACIA DR SIMI": [
+      "7118"
+    ],
+    "FARMACIA BLEU": [
+      "7545"
+    ]
+  },
+  "YUNGAY": {
+    "FARMA": [
+      "2481"
+    ],
+    "FARMITALIA": [
+      "2482"
+    ],
+    "DR. SIMI": [
+      "2483"
+    ]
+  },
+  "LOS ANGELES": {
+    "CRUZ VERDE": [
+      "2484",
+      "2485",
+      "2486",
+      "2487",
+      "2488",
+      "2489",
+      "2541",
+      "6018",
+      "6051",
+      "6360"
+    ],
+    "SALCOBRAND": [
+      "2490",
+      "2491",
+      "2492",
+      "4452"
+    ],
+    "AHUMADA": [
+      "2494",
+      "2495",
+      "2496",
+      "4500"
+    ],
+    "CLINICA": [
+      "2497"
+    ],
+    "STEP": [
+      "2498"
+    ],
+    "CLINICA LOS ANDES": [
+      "2499"
+    ],
+    "DR. SIMI": [
+      "2500",
+      "2501",
+      "5223",
+      "5919"
+    ],
+    "MUNDO VERDE": [
+      "2581"
+    ],
+    "NETFARMA": [
+      "2582"
+    ],
+    "REDFARMA": [
+      "4004",
+      "4323",
+      "6623"
+    ],
+    "FARMACONSULTA": [
+      "4659"
+    ],
+    "FARMACIA ANDRADE": [
+      "4879"
+    ],
+    "NICFARMA": [
+      "4901"
+    ],
+    "FARMACIA COMUNITARIA": [
+      "5018"
+    ],
+    "ALMACEN FARMACEUTICO ANTONIO CHEUL ALE": [
+      "5186"
+    ],
+    "FARMACIAS +SALUD": [
+      "5665"
+    ],
+    "BARRIO SALUD": [
+      "6624"
+    ],
+    "CAMPS": [
+      "7035"
+    ],
+    "HOMEOPATICA KNOP": [
+      "7132"
+    ],
+    "FARMACIA CESFAM SANTA FE": [
+      "7397"
+    ],
+    "FARMACIA CLINICA LOS ANDES": [
+      "7457"
+    ],
+    "FARMACIA CLINICA ADVENTISTA": [
+      "7570"
+    ],
+    "FARMACIA COMPLEJO ASISTENCIAL DR VICTOR RIOS RUIZ": [
+      "7572"
+    ],
+    "FARMACIA CESFAM NUEVO HORIZONTE": [
+      "7573"
+    ],
+    "FARMACIA CESFAM 2 DE SEPTIEMBRE": [
+      "7574"
+    ],
+    "FARMACIA CESFAM NOR-ORIENTE": [
+      "7575"
+    ],
+    "FARMACIA CESFAM SUR": [
+      "7576"
+    ],
+    "FARMACIA CESFAM NORTE": [
+      "7577"
+    ],
+    "FARMACIA CESFAM ENTRE RIOS": [
+      "7578"
+    ]
+  },
+  "CABRERO": {
+    "TREBOL": [
+      "2502"
+    ],
+    "REDFARMA": [
+      "2503"
+    ],
+    "DR. SIMI": [
+      "2504"
+    ],
+    "FARMACIA CABRERO": [
+      "4648"
+    ],
+    "FARMACIA MUNICIPAL CABRERO": [
+      "5024"
+    ],
+    "CRUZ VERDE": [
+      "5662"
+    ],
+    "MONTEAGUILA": [
+      "5920"
+    ],
+    "FARMACIA MUNICIPAL MONTE AGUILA": [
+      "6999"
+    ],
+    "FARMACIA CESFAM MONTE AGUILA": [
+      "7583"
+    ],
+    "FARMACIA CESFAM CABRERO": [
+      "7584"
+    ]
+  },
+  "YUMBEL": {
+    "SAN SEBASTIAN": [
+      "2505"
+    ],
+    "YUMBEL": [
+      "2506"
+    ],
+    "DR. SIMI": [
+      "2543"
+    ],
+    "FARMACIA POPULAR": [
+      "5023"
+    ],
+    "REDFARMA": [
+      "7000"
+    ],
+    "FARMACIA CESFAM YUMBEL ESTACION": [
+      "7586"
+    ],
+    "FARMACIA HOSPITAL DE YUMBEL": [
+      "7593"
+    ]
+  },
+  "LAJA": {
+    "CRUZ VERDE": [
+      "2509"
+    ],
+    "REDFARMA": [
+      "2511"
+    ],
+    "DR. SIMI": [
+      "2512"
+    ],
+    "FARMACIA COMUNITARIA LAJA": [
+      "5022"
+    ],
+    "FARMACIA DCS MUNICIPALIDAD LAJA": [
+      "7281"
+    ],
+    "FARMACIA HOSPITAL DE LAJA": [
+      "7592"
+    ]
+  },
+  "NACIMIENTO": {
+    "DR. SIMI": [
+      "2510"
+    ],
+    "CRUZ VERDE": [
+      "2519",
+      "2520"
+    ],
+    "COMUNITARIA CENTRAL": [
+      "2521"
+    ],
+    "FARMACIA MI BOTICA": [
+      "4878"
+    ],
+    "FARMACIA MUNICIPAL": [
+      "5026"
+    ],
+    "REDFARMA": [
+      "6657"
+    ],
+    "FARMACIA HOSPITAL DE NACIMIENTO": [
+      "7594"
+    ]
+  },
+  "SANTA BARBARA": {
+    "MANANTIAL": [
+      "2513"
+    ],
+    "FARMACIA SOCIAL MUNICIPAL": [
+      "5017"
+    ],
+    "SANTA BARBARA": [
+      "6639"
+    ],
+    "EFE FARMA": [
+      "7249"
+    ],
+    "FARMACIA HOSPITAL SANTA BARBARA": [
+      "7283"
+    ]
+  },
+  "MULCHEN": {
+    "CRUZ VERDE": [
+      "2515"
+    ],
+    "CORDILLERA": [
+      "2516"
+    ],
+    "DR. SIMI": [
+      "2518"
+    ],
+    "RIOS": [
+      "2549"
+    ],
+    "FARMACIA BERNARDINO YA00d1EZ QUINTEROS": [
+      "5027"
+    ],
+    "FARMACIA HOSPITAL MULCHEN": [
+      "7284"
+    ]
+  },
+  "FLORIDA": {
+    "FARMAX": [
+      "2530"
+    ]
+  },
+  "SANTA JUANA": {
+    "BIO BIO": [
+      "2533"
+    ],
+    "FARMACIA GREENFARMA": [
+      "2534"
+    ],
+    "FARMACIA MUNICIPAL DE SANTA JUANA": [
+      "6699"
+    ]
+  },
+  "TUCAPEL": {
+    "FARMARKET": [
+      "2547"
+    ],
+    "ARCOIRIS": [
+      "5946"
+    ],
+    "SALUD": [
+      "5947"
+    ],
+    "1000 FARMACOS": [
+      "6628"
+    ],
+    "FARMACIA COMUNITARIA": [
+      "6885"
+    ],
+    "FARMACIA HOSPITAL DE HUEPIL": [
+      "7595"
+    ],
+    "FARMACIA CESFAM TUCAPEL": [
+      "7596"
+    ]
+  },
+  "ALHUE": {
+    "SAN ENRIQUE": [
+      "2558"
+    ],
+    "SRA. FELICINDA": [
+      "6082"
+    ],
+    "ALHUE": [
+      "6711"
+    ]
+  },
+  "OLMUE": {
+    "QFARMA": [
+      "2586",
+      "5840",
+      "5950"
+    ],
+    "SALCOBRAND": [
+      "3979"
+    ],
+    "FARMACIA COMUNAL DE OLMUE": [
+      "4739"
+    ]
+  },
+  "PUERTO MONTT": {
+    "FARMACIA GONZALEZ": [
+      "3093"
+    ],
+    "FARMACIA COOPERCARAB": [
+      "3094"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3095",
+      "3101",
+      "3102",
+      "3105",
+      "3275",
+      "3277",
+      "3291",
+      "3293",
+      "6044"
+    ],
+    "FARMACIAS CRUZ VERDE": [
+      "3097",
+      "3099",
+      "3106",
+      "3109",
+      "3112",
+      "3114",
+      "3115",
+      "3270",
+      "3284",
+      "3288",
+      "3289"
+    ],
+    "FARMACIA AHUMADA": [
+      "3107",
+      "3108",
+      "4773"
+    ],
+    "FARMACIA REDFARMA": [
+      "3274"
+    ],
+    "FARMACIA DEL DR. SIMI": [
+      "3278",
+      "3285",
+      "4191"
+    ],
+    "FARMACIA KNOP": [
+      "4005",
+      "4130"
+    ],
+    "FARMACIA CENTRAL DE HOMEOPAT00cdA HAHNEMANN": [
+      "4132"
+    ],
+    "FARMACIA CLINICA UNIVERSITARIA DE PUERTO MONTT": [
+      "4714"
+    ],
+    "FARMACIA FARMA ALERCE": [
+      "4770"
+    ],
+    "FARMACIA CIUDADANA PUERTO MONTT": [
+      "4836"
+    ],
+    "FARMACIA DEL DR.SIMI": [
+      "5188"
+    ],
+    "FARMACIA CAYENEL": [
+      "5347"
+    ],
+    "FARMACIA DE LA CL00cdNICA PUERTO MONTT": [
+      "5501"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "5519",
+      "6330",
+      "6417"
+    ],
+    "FARMACIA DR. SIMI": [
+      "5861"
+    ],
+    "FARMACIA CAYENEL 2": [
+      "6043"
+    ],
+    "FARMACIA JUMBO": [
+      "6174"
+    ],
+    "FARMACIA RELONCAVI": [
+      "6377"
+    ],
+    "FARMACIA PUERTA DEL SUR": [
+      "6418"
+    ],
+    "FARMACIA BOSQUEMAR": [
+      "6421"
+    ],
+    "EMPORIO FARMA ASUTRAL": [
+      "6821"
+    ],
+    "FARMA DELIVERY": [
+      "7411"
+    ],
+    "CLINICA PUERTO MONTT": [
+      "7415"
+    ],
+    "FARMACIA ABIERTA HOSPITAL EDUARDO SCHUTZ SCHROEDER": [
+      "7425"
+    ],
+    "FARMACIA CERRADA HOSPITAL EDUARDO SCHUTZ SCHROEDER": [
+      "7426"
+    ],
+    "BOTIQU00edN DE LA LIGA CONTRA LA EPILEPSIA": [
+      "7510"
+    ],
+    "BOTIQU00edN DEL CENTRO DE REHABILITACI00f3N DE LA SOC. PRO AYUDA DEL NI00f1O LISIADO O IRI TELET00f3N": [
+      "7514"
+    ],
+    "BOTIQU00edN CL00edNICA LOS ANDES (PUNTO 500ba)": [
+      "7515"
+    ],
+    "BOTIQU00edN CL00edNICA AMBULATORIA DE LA MUTUAL DE SEGURIDAD": [
+      "7516"
+    ],
+    "BOTIQU00edN DEL CENTRO M00e9DICO DENTAL DIPRECA": [
+      "7518"
+    ],
+    "BOTIQU00edN DEL CENTRO DE SALUD PENITENCIARIO DE PUERTO MONTT": [
+      "7519"
+    ],
+    "UNIDAD DE DI00e1LISIS HEMOSUR": [
+      "7522"
+    ],
+    "BOTIQU00edN (CENTRO M00e9DICO SURMED)": [
+      "7529"
+    ],
+    "BOTIQU00edN DE LA SOCIEDAD IMAGENOLOG00edA SUR S.A.": [
+      "7530",
+      "7531"
+    ],
+    "BOTIQU00edN CENTRO NEFROL00f3GICO PTO. MONTT": [
+      "7532"
+    ],
+    "BOTIQU00edN -POLICL00edNICO A.CH.S.-PUERTO MONTT": [
+      "7535"
+    ],
+    "BOTIQUIN SALA PROC. ENDOSCOPIA DIGESTIVA ALTA": [
+      "7538"
+    ],
+    "BOTIQU00edN COMUNIDAD TERAP00e9UTICA V00edNCULOS ADOLESCENTES": [
+      "7549"
+    ],
+    "BOTIQU00edN DEL SERVICIO DE TRANSPORTE A00e9REO DE PERSONAS ENFERMAS O ACCIDENTADAS INAER HELICOPTER CHILE S.A.": [
+      "7557"
+    ],
+    "BOTIQU00edN REGIMIENTO00a0 N00ba 12 SANGRA": [
+      "7559"
+    ],
+    "BOTIQU00edN DE ENDOMED SUR S.A.": [
+      "7560"
+    ],
+    "BOTIQU00edN CL00edNICA PUERTO MONTT SPA": [
+      "7561"
+    ],
+    "BOTIQU00edN CENTRO M00e9DICO MEDICENTER PUERTO MONTT": [
+      "7569"
+    ]
+  },
+  "OSORNO": {
+    "FARMACIA AHUMADA": [
+      "3116",
+      "3336",
+      "3337"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3340",
+      "3344",
+      "3345",
+      "4071",
+      "6042"
+    ],
+    "FARMACIA LYNCH": [
+      "3352"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3362",
+      "3363",
+      "3364",
+      "3365",
+      "3372",
+      "3373",
+      "3374"
+    ],
+    "FARMACIA MEDICAMENTA": [
+      "3375"
+    ],
+    "FARMACIA REPUBLICA": [
+      "3380",
+      "3433"
+    ],
+    "FARMACIA RAHUE": [
+      "3385"
+    ],
+    "FARMACIA SAN IGNACIO": [
+      "3397"
+    ],
+    "FARMACIAS OSORNO": [
+      "3429"
+    ],
+    "FARMACIAS DEL DR. SIMI": [
+      "3431"
+    ],
+    "FARMACIAS CRUZ VERDE": [
+      "4206"
+    ],
+    "FARMACIA VECINA": [
+      "5004"
+    ],
+    "FARMACIA DR. SIMI LOCAL": [
+      "5046"
+    ],
+    "FARMACIAS DR. SIMI": [
+      "5985"
+    ],
+    "FARMACIA LOS LAGOS": [
+      "6647"
+    ],
+    "FARMACIAS DEL DR. SIMI 295": [
+      "6700"
+    ],
+    "FARMAES": [
+      "6701"
+    ],
+    "FARMACIA B00dcHLER": [
+      "7034"
+    ],
+    "FARMACIA INTEGRAL OSORNO": [
+      "7119"
+    ],
+    "FARMACIA SUR MAGISTRAL": [
+      "7342"
+    ],
+    "FARMACIA ABIERTA COSAM ORIENTE": [
+      "7429"
+    ],
+    "FARMACIA CLINICA ALEMANA OSORNO": [
+      "7451"
+    ],
+    "ANTU FARMACIA": [
+      "7598"
+    ]
+  },
+  "COPIAPO": {
+    "FARMACIA FARMASALUD": [
+      "3118"
+    ],
+    "FARMACIA LA BOTIKA": [
+      "3123",
+      "4892"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3126",
+      "3127",
+      "3128",
+      "3129",
+      "3130",
+      "4284",
+      "5443",
+      "6020"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3133",
+      "3134",
+      "3135",
+      "4382",
+      "5994"
+    ],
+    "FARMACIA MILANO": [
+      "3138"
+    ],
+    "FARMACIA AHUMADA": [
+      "3142",
+      "3145",
+      "3147",
+      "4564"
+    ],
+    "FARMACIA PUNTA NEGRA": [
+      "3148"
+    ],
+    "FARMACIA DEL DR. SIMI": [
+      "3156",
+      "3157",
+      "5746"
+    ],
+    "FARMACIA FE Y ALEGRIA": [
+      "4076"
+    ],
+    "BOTIQUIN CENTRO MEDICO Y DIAGNOSTICO ATACAMA SALA SCANNER": [
+      "4646"
+    ],
+    "BOTICA COMUNAL LA ESTRELLA": [
+      "4838"
+    ],
+    "FARMACIA AMBULATORIA DEL CENTRO DE DIAGNOSTICO TERAPEUTICO": [
+      "5612"
+    ],
+    "FARMACIA RED DE CLINICAS REGIONALES": [
+      "5669"
+    ],
+    "CENTRO DE DIALISIS DIALVIDA": [
+      "5690"
+    ],
+    "CENTRO DE DIALISIS NEFRODIAL": [
+      "5691"
+    ],
+    "BOTIQUIN SERVICIO DE URGENCIAS": [
+      "5695"
+    ],
+    "BOTIQUIN VACUNATORIO ALTAMIRA": [
+      "5696"
+    ],
+    "BOTIQUIN VACUNATORIO TRASMED": [
+      "5697"
+    ],
+    "BOTIQUIN FARMACEUTICO CARDIONORT": [
+      "5700"
+    ],
+    "BOTIQUIN CLINICA ACHS COPIAPO": [
+      "5709"
+    ],
+    "BOTIQUIN CENTRO MEDICO": [
+      "5715"
+    ],
+    "BOTIQUIN CENTRO MEDICO INDIREE": [
+      "5716"
+    ],
+    "BOTIQUIN CENTRO DE ATENCI00d3N DE SALUD COPIAPO MUTUAL C.CH.C.": [
+      "5717"
+    ],
+    "BOTIQUIN FARMACUETICO CENTRO MEDICO ATACAMA SH FAMILIA": [
+      "5718"
+    ],
+    "BOTIQUIN CENTRO MEDICO CEDIMED": [
+      "5719"
+    ],
+    "CLINICA IMPLANET CHILE": [
+      "5721"
+    ],
+    "UNIDAD DE FARMACIA HOSPITAL REGIONAL DE COPIAPO": [
+      "6061"
+    ],
+    "BOTIQUIN TRASLADO DE ENFERMOS ALTAMIRA CONSULTORES LIMITADA": [
+      "6196"
+    ],
+    "BOTIQUIN TRASLADO DE ENFERMOS ATACAMA SAFETY AND HEALTH": [
+      "6197"
+    ],
+    "CLINICA RCR DE ATACAMA": [
+      "6198"
+    ],
+    "BOTIQUIN SALA PROCEDIMIENTOS INSTITUTO DE SEGURIDAD DEL TRABAJO IST": [
+      "6199"
+    ],
+    "BOTIQUIN TRASLADO DE ENFERMOS TERRESTRE MANTOS DE ORO - FAENA MINERA LA COIPA": [
+      "6202"
+    ],
+    "BOTIQUIN SALA PROCEDIMIENTOS INVASIVOS TELET00d3N COPIAPO": [
+      "6203"
+    ],
+    "BOTIQUIN VACUNATIO DR. OMAR LUZ": [
+      "6204"
+    ],
+    "BOTIQU00cdN TRASLADO DE ENFERMOS AEREO ATACAMA COPTER": [
+      "6208"
+    ],
+    "BOTIQUIN PLANTA MAGNETITA CAP MHA ESACHS": [
+      "6210"
+    ],
+    "BOTIQU00cdN TRASLADO DE ENFERMOS TERRESTRES LOS COLORADOS": [
+      "6211"
+    ],
+    "BOTIQUIN HOGAR DE ENFERMOS TERMINALES MADRE TERESA DE CALCUTA": [
+      "6213"
+    ],
+    "BOTIQUIN POLICLINICO ACHS COMPA00d100cdA MINERA CANDELARIA": [
+      "6216"
+    ],
+    "BOTIQUIN CENTRO FERNANDO ARIZT00cdA": [
+      "6218"
+    ],
+    "BOTIQUIN LICANATAY": [
+      "6220"
+    ],
+    "BOTIQUIN CASERONES - CAMPAMENTO CARRIZALILLO GRANDE": [
+      "6221"
+    ],
+    "BOTIQUIN SPTE MINERA PUNTA DEL COBRE": [
+      "6229"
+    ],
+    "POLICLINICO FUNDICION HERNAN VIDELA LIRA- ENAMI": [
+      "6230",
+      "6231"
+    ],
+    "BOTIQUIN REST 911": [
+      "6232"
+    ],
+    "OTIQUIN SPI SACYR PROYECTO DESALADORA MANTO VERDE": [
+      "6233"
+    ],
+    "FARMACIA FARMA ATACAMA": [
+      "6323"
+    ],
+    "FARMACIA FARMATERRA": [
+      "6810"
+    ],
+    "FARMACIA FARMAP": [
+      "6924"
+    ],
+    "FARMACIA Y PERFUMER00cdA MI VICTORIA": [
+      "7010"
+    ],
+    "FARMACIA VENFARMA": [
+      "7011"
+    ],
+    "FARMACIA FARMANOR": [
+      "7232"
+    ]
+  },
+  "VALLENAR": {
+    "FARMACIA VIDA": [
+      "3121"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3131",
+      "3132",
+      "6264"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3137"
+    ],
+    "FARMACIA AHUMADA": [
+      "3146"
+    ],
+    "FARMACIA MULET": [
+      "3150"
+    ],
+    "FARMACIA SANTIAGO": [
+      "3151"
+    ],
+    "FARMACIA LA NACIONAL": [
+      "3152"
+    ],
+    "FARMACIA DEL DR. SIMI": [
+      "3158"
+    ],
+    "FARMACIA COMUNITARIA NICOLAS NARANJO PALACIOS": [
+      "4697"
+    ],
+    "FARMACIA CENTRAL HOSPITAL PROVINCIAL DEL HUASCO": [
+      "5675"
+    ],
+    "CENTRO DE DIALISIS RENACER EN EL VALLE": [
+      "5689"
+    ],
+    "CENTRO DE DIALISIS VALLENAR": [
+      "5693"
+    ],
+    "BOTIQUIN VACUNATORIO VALLENAR": [
+      "5698"
+    ],
+    "BOTIQUIN CLINICA ACHS VALLENAR": [
+      "5710"
+    ],
+    "POLICLINICO IST VALLENAR": [
+      "5720"
+    ],
+    "BOTIQUIN SALA PROCEDIMIENTO INVASIVO POLICLINICO FAENA CAMPAMENTO MINERO LOS COLORADOS": [
+      "6200"
+    ],
+    "BOTIQUIN SPI RELINCHO - MUTUAL": [
+      "6201"
+    ],
+    "BOTIQUIN CENTRO DE IMAGENOLOGIA SAN AMBROSIO": [
+      "6207"
+    ],
+    "BOTIQUIN BOTIQUIN COMUNIDAD TERAP00c9UTICA AMBULATORIA AYLLUPURA": [
+      "6219"
+    ],
+    "FARMACIA VALLENAR": [
+      "7410"
+    ]
+  },
+  "HUASCO": {
+    "FARMACIA VIDA": [
+      "3122"
+    ],
+    "FARMACIA Y PERFUMERIA MI AROMA": [
+      "5722"
+    ],
+    "BOTIQUIN ICTUS I": [
+      "6206"
+    ]
+  },
+  "CALDERA": {
+    "FARMACIA LA BOTIKA": [
+      "3124"
+    ],
+    "FARMACIA CRUZ": [
+      "3153"
+    ],
+    "FARMACIA AURORA": [
+      "4834"
+    ],
+    "BOTIQUIN POLICLINICO ACHS CALDERA": [
+      "5712"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "7251"
+    ]
+  },
+  "TIERRA AMARILLA": {
+    "FARMACIA FARMATERRA": [
+      "3149"
+    ],
+    "BOTIQUIN POLICLINICO ACHS LOS LOROS": [
+      "5714"
+    ],
+    "BOTIQUIN POLICLINICO ACHS AMOLANAS": [
+      "6195"
+    ],
+    "BOTIQUIN SPI MUTUAL CAMPAMENTO RANCHO EL GALLO MARICUNGA": [
+      "6212"
+    ],
+    "BOTIQUIN COMPA00d100cdA MINERA CASALE-ATACAMASH": [
+      "6224"
+    ],
+    "BOTIQUIN OJOS DEL SALADO (AUREX) - ESACHS": [
+      "6225"
+    ]
+  },
+  "DIEGO DE ALMAGRO": {
+    "FARMACIA SAN MARTIN": [
+      "3155"
+    ],
+    "FARMACIA SAN MIGUEL": [
+      "3180"
+    ],
+    "FARMACIA SAN LORENZO": [
+      "4133"
+    ],
+    "FARMACIA M00d3VIL DEL NORTE": [
+      "5489"
+    ],
+    "FARMACIA CENTRAL HOSPITAL DE DIEGO DE ALMAGRO": [
+      "5676"
+    ],
+    "BOTIQUIN POLICLINICO ACHS EL SALVADOR": [
+      "5713"
+    ],
+    "BOTIQUIN SALA DE PROCEDIMIENTO INVASIVOS POLICLINICO CODELCO POTRERILLOS - ACHS": [
+      "6215"
+    ],
+    "BOTIQUIN POLICLINICO GOLD FIELDS PROYECTO SALARES NORTE": [
+      "6227"
+    ]
+  },
+  "CHA00d1ARAL": {
+    "FARMACIA PAEZ": [
+      "3159"
+    ],
+    "FARMACIA VARAS": [
+      "3160"
+    ],
+    "FARMACIA PORTOFINO": [
+      "4905"
+    ],
+    "FARMACIA CENTRAL HOSPITAL DE CHA00d1ARAL": [
+      "5677"
+    ],
+    "BOTIQUIN POLICLINICO ACHS CHA00d1ARAL": [
+      "5711"
+    ],
+    "POLICLINICO SPI FAENA MANTO VERDE": [
+      "6226"
+    ],
+    "BOTIQUIN MINERA MANTO VERDE": [
+      "6228"
+    ]
+  },
+  "LAGO RANCO": {
+    "RUDOLPH": [
+      "3162"
+    ],
+    "ALMAC00c9N FARMAC00c9UTICO BETANIA": [
+      "5132"
+    ],
+    "DEL RANCO": [
+      "6695"
+    ]
+  },
+  "LOS LAGOS": {
+    "TORRES": [
+      "3163"
+    ],
+    "DEL SUR": [
+      "4417"
+    ],
+    "DR. SIMI": [
+      "6370"
+    ],
+    "CRUZ VERDE": [
+      "6696"
+    ]
+  },
+  "MAFIL": {
+    "MAFIL": [
+      "3164"
+    ],
+    "CAFANY": [
+      "7580"
+    ]
+  },
+  "MARIQUINA": {
+    "VITAL": [
+      "3165"
+    ],
+    "INTEGRAL": [
+      "4140"
+    ],
+    "CRUCES": [
+      "6687"
+    ]
+  },
+  "FUTRONO": {
+    "CRUZ VERDE": [
+      "3167"
+    ],
+    "ALBORADA": [
+      "3168"
+    ],
+    "FARMAVIDA": [
+      "5453"
+    ]
+  },
+  "LANCO": {
+    "LANCO": [
+      "3169"
+    ],
+    "ALMAC00c9N FARMAC00c9UTICO MALALHUE": [
+      "5135"
+    ],
+    "INTEGRAL LANCO": [
+      "5197"
+    ],
+    "NUEVA NORTE": [
+      "5780"
+    ],
+    "NAROA": [
+      "7226"
+    ]
+  },
+  "PAILLACO": {
+    "CENTRO": [
+      "3171"
+    ],
+    "PLAZA": [
+      "3173"
+    ],
+    "DEL DR. SIMI": [
+      "3174"
+    ],
+    "FARMACIA DEL PUEBLO": [
+      "5883"
+    ]
+  },
+  "RIO BUENO": {
+    "CRUZ VERDE": [
+      "3175"
+    ],
+    "DEL DR. SIMI": [
+      "3176"
+    ],
+    "REDFARMA": [
+      "3177"
+    ],
+    "R00cdO BUENO": [
+      "5995"
+    ],
+    "FARMACIA COMUNITARIA M00d3VIL DE R00cdO BUENO": [
+      "6307"
+    ],
+    "FARMACIA FARMA RANCO": [
+      "7060"
+    ]
+  },
+  "PANGUIPULLI": {
+    "SALCOBRAND": [
+      "3181"
+    ],
+    "CRUZ VERDE": [
+      "3184"
+    ],
+    "PANGUIPULLI": [
+      "3185"
+    ],
+    "DEL DR. SIMI": [
+      "3186"
+    ],
+    "FARMACIA COMUNAL PANGUIPULLI": [
+      "5129"
+    ],
+    "FARMACIA MASSALUD": [
+      "5517"
+    ],
+    "FARMACIA SIETE LAGOS": [
+      "7135"
+    ]
+  },
+  "TEMUCO": {
+    "FARMACIA CRUZ VERDE": [
+      "3187",
+      "3191",
+      "3194",
+      "3197",
+      "3198",
+      "3227",
+      "3232",
+      "3511",
+      "3512",
+      "3513",
+      "5116",
+      "5401",
+      "6088",
+      "7381"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3188",
+      "3214",
+      "3222",
+      "3225",
+      "3229",
+      "3509",
+      "3510",
+      "6089"
+    ],
+    "FARMACIA DR. SIMI": [
+      "3196",
+      "3216",
+      "3514",
+      "4358",
+      "6090"
+    ],
+    "FARMACIA AHUMADA": [
+      "3199",
+      "3228",
+      "3507",
+      "4345",
+      "4346",
+      "4399"
+    ],
+    "FARMACIA SALCOBRND": [
+      "3200"
+    ],
+    "FARMACIAS AHUMADA": [
+      "3219"
+    ],
+    "FARMACIA NOVASALUD": [
+      "3226"
+    ],
+    "FARMACIA CENTRAL": [
+      "3234"
+    ],
+    "ECOMAX": [
+      "3500"
+    ],
+    "F.PINTO": [
+      "3501"
+    ],
+    "FARMACIA CRUZ AZUL SEVILLA": [
+      "3503"
+    ],
+    "FARMAX": [
+      "3505"
+    ],
+    "FARMACIA CRUZ AZUL": [
+      "4349"
+    ],
+    "KNOP": [
+      "4350"
+    ],
+    "FARMACIA KNOP": [
+      "4352"
+    ],
+    "FARMACIA MUNICIPAL": [
+      "4713"
+    ],
+    "FARMACIA DR SIMI": [
+      "5402",
+      "6621"
+    ],
+    "FARMACIAS MIRAFLORES": [
+      "5403"
+    ],
+    "FARMACIA CRUZ VERDE MOVIL": [
+      "5405"
+    ],
+    "FARMACIA 00d1IELOL": [
+      "5644"
+    ],
+    "DR.SIMI": [
+      "5953"
+    ],
+    "FARMACIA LIGA CHILENA CONTRA LA EPILEPSIA": [
+      "6469"
+    ],
+    "BOTIQUIN FARMACEUTICO DE LA CONAC": [
+      "6737"
+    ],
+    "FARMACIAS DEL SUR": [
+      "6886"
+    ],
+    "FARMACIAS SANTA MAR00cdA": [
+      "6937"
+    ],
+    "BOTIQUIN FARMAC00c9UTICO CIDO SPA": [
+      "6976"
+    ],
+    "BOTIQUIN FARMAC00c9UTICO CENTRO M00c9DICO MEDIFIS": [
+      "6977"
+    ],
+    "FARMACIA DEL DR. SIMI": [
+      "7084"
+    ],
+    "FARMACIA MIRAFLORES": [
+      "7198"
+    ],
+    "FARMACIAS KNOP": [
+      "7228"
+    ],
+    "FARMACIA BIOCUBA": [
+      "7234"
+    ],
+    "FARMACIAS REDFARMA L-20": [
+      "7235"
+    ],
+    "FARMACIA EPUFARMA": [
+      "7237"
+    ],
+    "FARMACIAS DEL DR. SIMI F-0333": [
+      "7245"
+    ],
+    "FARMACIAS E00b4SENCIAL": [
+      "7354"
+    ],
+    "FARMACIA SALCOBRAND L-712": [
+      "7571"
+    ]
+  },
+  "LA UNION": {
+    "DEL DR. SIMI": [
+      "3189"
+    ],
+    "CRUZ VERDE": [
+      "3192"
+    ],
+    "AHUMADA": [
+      "3193"
+    ],
+    "SALCOBRAND": [
+      "3195"
+    ],
+    "FARMACIA COMUNITARIA LA UNI00d3N": [
+      "5113"
+    ],
+    "FARMACIAS LA UNI00d3N": [
+      "5514"
+    ]
+  },
+  "VALDIVIA": {
+    "CRUZ VERDE": [
+      "3202",
+      "3207",
+      "3208",
+      "3210",
+      "4017",
+      "4729",
+      "4929",
+      "5408",
+      "5602",
+      "7625"
+    ],
+    "AHUMADA": [
+      "3203",
+      "3209"
+    ],
+    "PRAT": [
+      "3205"
+    ],
+    "SALCOBRAND": [
+      "3211",
+      "3213",
+      "5260",
+      "5978"
+    ],
+    "K-SOL": [
+      "3224"
+    ],
+    "LAS ANIMAS": [
+      "4238"
+    ],
+    "DR. SIMI": [
+      "4597",
+      "4742",
+      "4864",
+      "5882",
+      "5884"
+    ],
+    "FARMACIA MUNICIPAL DE VALDIVIA": [
+      "5112"
+    ],
+    "PAC00cdFICO": [
+      "5388"
+    ],
+    "PICARTE": [
+      "5515"
+    ],
+    "DHARMASALUD": [
+      "5757"
+    ],
+    "DEL FORMULARIO": [
+      "5777"
+    ],
+    "BUERAS": [
+      "5843"
+    ],
+    "LOS R00cdOS": [
+      "6653"
+    ],
+    "LAS ANIMAS CENTRO": [
+      "6727"
+    ],
+    "BOTIQU00edN CORPORACI00f3N NACIONAL DEL C00e1NCER": [
+      "6880"
+    ],
+    "FARMACIA LAS ENCINAS": [
+      "7016"
+    ],
+    "FARMACIAS PHARMASUR": [
+      "7059"
+    ],
+    "FARMACIA HOMEOPATICA KNOP": [
+      "7097"
+    ],
+    "ISLA TEJA": [
+      "7309"
+    ],
+    "LA ALEMANA": [
+      "7462"
+    ],
+    "COLLICO": [
+      "7582"
+    ]
+  },
+  "QUELLON": {
+    "FARMACIA QUELLON": [
+      "3238"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3239"
+    ],
+    "FARMACIA CHILHUE": [
+      "3242"
+    ],
+    "FARMACIA MUNICIPAL QUELLON": [
+      "5189"
+    ],
+    "FARMACIA DR.SIMI": [
+      "5248"
+    ],
+    "BOTIQU00edN POLICL00edNICO A.CH.S. QUELLON": [
+      "7537"
+    ],
+    "BOTIQU00edN PESQUERA LOS FIORDOS LTDA.": [
+      "7539"
+    ]
+  },
+  "QUINCHAO": {
+    "FARMACIA REDFARMA 104": [
+      "3243"
+    ],
+    "FARMACIA QUINCHAO": [
+      "3456"
+    ]
+  },
+  "DALCAHUE": {
+    "FARMACIA USYDAL": [
+      "3244"
+    ],
+    "FARMACIA AUSTRAL": [
+      "3245"
+    ]
+  },
+  "CHONCHI": {
+    "FARMACIA AUSTRAL": [
+      "3246"
+    ],
+    "FARMACIA NACIMIENTO": [
+      "3458"
+    ]
+  },
+  "ARICA": {
+    "AHUMADA": [
+      "3247",
+      "3252"
+    ],
+    "ISAIAS 2": [
+      "3254"
+    ],
+    "ISAIAS 3": [
+      "3378"
+    ],
+    "TU SALUD": [
+      "3381"
+    ],
+    "ISAIAS 4": [
+      "3384"
+    ],
+    "CONCEPCION": [
+      "3386"
+    ],
+    "CRUZ VERDE": [
+      "3388",
+      "3391",
+      "3392",
+      "3394",
+      "3396",
+      "5479",
+      "5588",
+      "6935"
+    ],
+    "DR. SIMI": [
+      "3398",
+      "3400",
+      "6108"
+    ],
+    "FARMAHORIZONTE": [
+      "3402"
+    ],
+    "FARMAX": [
+      "3403"
+    ],
+    "ISAIAS": [
+      "3406"
+    ],
+    "M&M": [
+      "3408"
+    ],
+    "SALCOBRAND": [
+      "3413",
+      "3415",
+      "5429",
+      "5592"
+    ],
+    "VIDA SANA": [
+      "4035"
+    ],
+    "FARMADAVILA": [
+      "4214"
+    ],
+    "FARMACIA URGENCIA": [
+      "4282"
+    ],
+    "FARMACIAS CAPSULA FARMA": [
+      "4456"
+    ],
+    "ANGEL": [
+      "4580"
+    ],
+    "FARMACIA SOFIA": [
+      "4952"
+    ],
+    "FARMACIA QULLANI": [
+      "4954"
+    ],
+    "FARMAHORRO": [
+      "4955",
+      "6026"
+    ],
+    "FARMACIA MUNICIPAL ARICA SECTRO CENTRO": [
+      "4957"
+    ],
+    "ASOCIACI00d3N CHILENA DE SEGURIDAD": [
+      "4972"
+    ],
+    "BRUNOFARMA": [
+      "5036"
+    ],
+    "FARMACIA KNOP": [
+      "5160"
+    ],
+    "24 HORAS": [
+      "5263"
+    ],
+    "FARMACIA MZ": [
+      "5264"
+    ],
+    "FARMACIA ARUMI": [
+      "5464"
+    ],
+    "CENTRO DE ATENCIONES MEDICAS FLEMING ARICA": [
+      "5512"
+    ],
+    "HOSPITAL VETERINARIO LIMARI": [
+      "5581"
+    ],
+    "MEGAPHARM": [
+      "5731"
+    ],
+    "BOTIQUIN DE LA MUTUAL DE SEGURIDAD": [
+      "5773"
+    ],
+    "FARMACIA SOFIA 2": [
+      "5984"
+    ],
+    "CENTRO MEDICO CEMICH": [
+      "6009"
+    ],
+    "FARMACIA 24 HORAS": [
+      "6013"
+    ],
+    "MAS SALUD": [
+      "6015"
+    ],
+    "CRONOFARMA": [
+      "6031",
+      "7002"
+    ],
+    "JUKU": [
+      "6053"
+    ],
+    "FARMACIA 18": [
+      "6193"
+    ],
+    "FARMEDICAL": [
+      "6194"
+    ],
+    "FARMACIA FARMAHORRO": [
+      "6361"
+    ],
+    "FARMACIA CHINCHORRO": [
+      "6859"
+    ],
+    "FARMACIA CALIDAD TOTAL": [
+      "6920"
+    ],
+    "FARMACIA SAN BENITO DE PALERMO": [
+      "7003"
+    ],
+    "FARMACIA EMERSON": [
+      "7255"
+    ],
+    "JUKU EXPRESS": [
+      "7385"
+    ],
+    "PHARMA NORTE": [
+      "7452"
+    ],
+    "ATIKA": [
+      "7605"
+    ]
+  },
+  "ANCUD": {
+    "FARMACIA CHILOE": [
+      "3248"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3249"
+    ],
+    "FARMACIA NUEVA ERA": [
+      "3250"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3255"
+    ],
+    "FARMACIA AHUMADA": [
+      "3256"
+    ],
+    "FARMACIA DR SIMI": [
+      "3257"
+    ],
+    "FARMACIA PUDETO": [
+      "3259"
+    ],
+    "FARMACIA POPULAR ANCUD": [
+      "6023"
+    ],
+    "BOTIQU00edN POLICL00edNICO MUTUAL DE SEGURIDAD C.CH.C.": [
+      "7517"
+    ],
+    "BOTIQU00edN POLICL00edNICO A.CH.S.": [
+      "7536"
+    ]
+  },
+  "CASTRO": {
+    "FARMACIA CRUZ VERDE": [
+      "3263",
+      "3264",
+      "4490"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3265",
+      "4522"
+    ],
+    "FARMACIA AHUMADA": [
+      "3266"
+    ],
+    "FARMACIA AUSTRAL": [
+      "3267"
+    ],
+    "FARMACIA DR. SIMI": [
+      "3268",
+      "5455"
+    ],
+    "FARMACIA MUNICIPAL CASTRO": [
+      "4891"
+    ],
+    "FARMACIA FARMACEUTICA CHILOE": [
+      "5979"
+    ],
+    "FARMACIA KNOP": [
+      "7102"
+    ],
+    "FARMACIA ATENCI00f3N ABIERTA HOSPITAL DE CASTRO \"DR.AUGUSTO RIFFART\"": [
+      "7448"
+    ],
+    "FARMACIA ATENCI00f3N CERRADA HOSPITAL DE CASTRO \"DR.AUGUSTO RIFFART\"": [
+      "7449"
+    ],
+    "BOTIQU00edN DEL CENTRO M00e9DICO AUSTRAL": [
+      "7520"
+    ],
+    "BOTIQU00edN CL00edNICA TRABAJADOR CASTRO": [
+      "7533"
+    ],
+    "BOTIQU00edN DE LA COMUNIDAD TERAP00e9UTICA PARA ADOLESCENTES V00edNCULOS": [
+      "7547"
+    ],
+    "BOTIQU00edN DEL CENTRO DE DI00e1LISIS FUTURO": [
+      "7550"
+    ],
+    "BOTIQU00edN POLICL00edNICO DE LA MUTUAL DE SEGURIDAD C.CH.C. CASTRO": [
+      "7552"
+    ]
+  },
+  "CHILE CHICO": {
+    "FARMAUSTRAL": [
+      "3269"
+    ]
+  },
+  "TOCOPILLA": {
+    "FARMACIA CRUZ VERDE": [
+      "3283"
+    ],
+    "FARMACIA VICTORIA": [
+      "3286"
+    ],
+    "FARMACIA TOCOPILLA": [
+      "6056"
+    ]
+  },
+  "MEJILLONES": {
+    "FARMACIA GALENO G": [
+      "3290"
+    ],
+    "FARMACIA FIGUESAN": [
+      "3294"
+    ]
+  },
+  "SAN PEDRO DE ATACAMA": {
+    "FARMACIA CRUZ VERDE": [
+      "3298"
+    ]
+  },
+  "PUERTO VARAS": {
+    "FARMACIA PSUYING TANG": [
+      "3300"
+    ],
+    "FARMACIAS CRUZ VERDE": [
+      "3301",
+      "3302",
+      "3305"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3312",
+      "4176",
+      "4518"
+    ],
+    "FARMACIA TANG": [
+      "3317"
+    ],
+    "FARMACIA AHUMADA": [
+      "3318"
+    ],
+    "FARMACIA DR. SIMI": [
+      "4062"
+    ],
+    "FARMACIA LA BOTICA DE TODOS": [
+      "4832"
+    ],
+    "FARMACIA IDINI": [
+      "5305"
+    ],
+    "FARMACIA VALLE VOLCANES": [
+      "5668"
+    ],
+    "FARMACIA CL00cdNICA PUERTO VARAS": [
+      "5748"
+    ],
+    "FARMACIA BOTICA BRAUNAU": [
+      "5871"
+    ],
+    "FARMACIA LOS ARRAYANES": [
+      "7064"
+    ],
+    "CLINICA PUERTO VARAS": [
+      "7414"
+    ],
+    "BOTIQU00edN CENTRO DE DI00e1LISIS Y ESPECIALIDADES M00e9DICAS PUERTO VARAS LTDA.": [
+      "7521"
+    ],
+    "BOTIQU00edN POLICL00edNICO SAN FRANCISCO": [
+      "7534"
+    ],
+    "BOTIQU00edN POLICL00edNICO A.CH.S. (PUERTO VARAS)": [
+      "7543"
+    ],
+    "BOTIQU00edN DEL SERVICIO DE TRANSPORTE A00e9REO DE PERSONAS ENFERMAS O ACCIDENTADAS INAER HELICOPTER CHILE S.A.": [
+      "7556"
+    ],
+    "BOTIQUIN CENTRO DE RESONANCIA MAGN00e9TICA SINAPSIS SPA": [
+      "7562"
+    ]
+  },
+  "LA SERENA": {
+    "BOTICA NILSSON 1": [
+      "3303"
+    ],
+    "NUEVA ALAMEDA": [
+      "3306"
+    ],
+    "ORIENTE": [
+      "3307"
+    ],
+    "CRUZ VERDE": [
+      "3577",
+      "3578",
+      "3579",
+      "3580",
+      "3622",
+      "3635",
+      "4012",
+      "5271",
+      "5448",
+      "5449",
+      "6751"
+    ],
+    "AHUMADA": [
+      "3587",
+      "3588",
+      "3589",
+      "3590",
+      "3592",
+      "3606",
+      "3922"
+    ],
+    "SALCOBRAND": [
+      "3600",
+      "3601",
+      "5446"
+    ],
+    "FARMACIA DEL DR. SIMI": [
+      "3636",
+      "5641",
+      "5963"
+    ],
+    "DR. SIMI": [
+      "3639"
+    ],
+    "FARMACIAS DEL DR. SIMI": [
+      "4011"
+    ],
+    "FARMACIA FARMA PAZ": [
+      "4297"
+    ],
+    "FARMACIA SAN JUAN": [
+      "4679",
+      "5988",
+      "5990"
+    ],
+    "SALCOBRAND HUANHUALI": [
+      "4680"
+    ],
+    "FARMACIA FARMABOTICA": [
+      "4855"
+    ],
+    "BOTICA CIUDADANA": [
+      "4992"
+    ],
+    "FARMACIAS CALAFATE": [
+      "5279"
+    ],
+    "MI FARMACIA": [
+      "5445"
+    ],
+    "PUNTO BLANCO": [
+      "5528"
+    ],
+    "FARMACIAS LA REBJA": [
+      "5960"
+    ],
+    "FARMACIA A.L.A.": [
+      "5961"
+    ],
+    "BOTIQUIN INSTITUTO TELETON COQUIMBO": [
+      "6079"
+    ],
+    "BOTIQUIN INTEGRAMEDICA": [
+      "6084"
+    ],
+    "BOTIQUIN ACHS LA SERENA": [
+      "6087"
+    ],
+    "BOTIQUIN IMARED": [
+      "6109"
+    ],
+    "BOTIQUIN SURGICAL": [
+      "6111"
+    ],
+    "BOTIQUIN CENTRO MEDICO VI-MED": [
+      "6163"
+    ],
+    "BOTIQUIN CLINICA MONTEGRANDE PCM": [
+      "6164"
+    ],
+    "BOTIQUIN CENTRO DE PERITONEO DE DIALISIS CALMED": [
+      "6165"
+    ],
+    "BOTIQUIN INFERTILITY GROUP": [
+      "6177"
+    ],
+    "BOTIQUIN IC LA SERENA RESEARCH": [
+      "6180"
+    ],
+    "EL FARO": [
+      "6266"
+    ],
+    "FARMACIAS KNOP LA SERENA": [
+      "6280"
+    ],
+    "BOTIQUIN URGENCIA CLINICA ELQUI": [
+      "6331"
+    ],
+    "VACUNATORIO EAD": [
+      "6364"
+    ],
+    "PABELLON DE CIRUGIA MENOR MEDIDENT": [
+      "6365"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "6366"
+    ],
+    "LA LIGA CHILENA": [
+      "6478"
+    ],
+    "CENTRO MEDICO AMUNATEGUI": [
+      "6595"
+    ],
+    "ELQUI VISION": [
+      "6596"
+    ],
+    "BOTIQUIN CENTRO MEDICO VITAL MAS": [
+      "6660"
+    ],
+    "BOTIQUIN SAED": [
+      "6690"
+    ],
+    "DOC DOC EXPRESS CLINIC": [
+      "6746"
+    ],
+    "CLINICA KINESIOLOGIA ESTETICA.CL": [
+      "6755"
+    ],
+    "FARMACIA ORIENTE": [
+      "6838"
+    ],
+    "BOTIQUIN CENTRO MEDICO REDMEDICAL": [
+      "6849"
+    ],
+    "FARMACIA DOCTOR SIMI": [
+      "6863"
+    ],
+    "FARMACIA CLINICA ELQUI": [
+      "6866"
+    ],
+    "FARMACIA DR. EMILIO SCHAFFHAUSER ACU00d1A": [
+      "6868"
+    ],
+    "BOTIQUIN CENTRO CLINICO MEDICIS": [
+      "6913"
+    ],
+    "FARMACIA METFARMA": [
+      "6994"
+    ],
+    "FARMAVID": [
+      "7077"
+    ],
+    "BOTIQUIN LINE ESTHETICS & BEAUTY": [
+      "7081"
+    ],
+    "CLINICA ESBELTA": [
+      "7082"
+    ],
+    "BOTIQUIN CENTRO MEDICO LA SERENA": [
+      "7091"
+    ],
+    "BOTIQUIN DENTOESTHETICS": [
+      "7196"
+    ],
+    "CLINICA HERA": [
+      "7204"
+    ],
+    "CLINICA VETERINARIA MODO ANIMAL": [
+      "7408"
+    ],
+    "FARMACIA MI BARRIO": [
+      "7494"
+    ],
+    "FARMACIA REGIONAL": [
+      "7638"
+    ]
+  },
+  "COQUIMBO": {
+    "PERALTA": [
+      "3309"
+    ],
+    "ZEDEKIEL ARCANGEL": [
+      "3310"
+    ],
+    "AHUMADA": [
+      "3595",
+      "3607"
+    ],
+    "SALCOBRAND": [
+      "3602"
+    ],
+    "CRUZ VERDE": [
+      "3629",
+      "5447",
+      "5642",
+      "6098",
+      "7639"
+    ],
+    "DR. SIMI": [
+      "3638"
+    ],
+    "FARMACIA DEL DR. SIMI": [
+      "3655",
+      "5276",
+      "5444"
+    ],
+    "A.L.A.": [
+      "3658"
+    ],
+    "FARMACIA DEL FORMULARIO": [
+      "4010"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "4013",
+      "5274"
+    ],
+    "FARMACIAS CALAFATE": [
+      "5180"
+    ],
+    "FARMACIAS A.L.A": [
+      "5182"
+    ],
+    "SALCOBRAND MALL VIVO COQUIMBO": [
+      "5275"
+    ],
+    "MULTIFARMA": [
+      "5635"
+    ],
+    "BOTIQUIN CENTRO DE DIALISIS OSMODIAL": [
+      "6162"
+    ],
+    "BOTIQUIN CESAM PUNTA MIRA": [
+      "6181"
+    ],
+    "FARMACIAS KNOP": [
+      "6272"
+    ],
+    "FARMACIA FARMAELQUI": [
+      "6306"
+    ],
+    "BOTIQUIN PAI MARIANO PUGA": [
+      "6325"
+    ],
+    "FARMACIA ALA": [
+      "6369"
+    ],
+    "FENIX FARMA": [
+      "6606"
+    ],
+    "DOCTOR SIMI": [
+      "6607",
+      "7208"
+    ],
+    "PE00d1UELAS": [
+      "6736"
+    ],
+    "BOTIQUIN PDC 24 HORAS OSCAR ROMERO": [
+      "6797"
+    ],
+    "FARMACIA FARMASKIN": [
+      "7206"
+    ],
+    "FARMA ELQUI": [
+      "7213"
+    ],
+    "PUNTO BLANCO": [
+      "7288"
+    ],
+    "BOTIQUIN CENTRO ODONTO-MEDICO SAN CARLOS": [
+      "7303"
+    ],
+    "BOTIQUIN IMATEC O & G CENTRO RADIOLOGICO": [
+      "7355"
+    ],
+    "FARMACIA URBANA": [
+      "7407"
+    ],
+    "BOTIQUIN UNO DENTAL COQUIMBO": [
+      "7507"
+    ],
+    "TU FARMACIA MOVIL": [
+      "7621"
+    ]
+  },
+  "VICU00d1A": {
+    "RIVERA 1": [
+      "3311"
+    ],
+    "CRUZ VERDE": [
+      "3585",
+      "3645"
+    ],
+    "DR. SIMI": [
+      "3649"
+    ],
+    "FARMACIA CESFAM SAN ISIDRO CALINGASTA": [
+      "6761"
+    ]
+  },
+  "COMBARBALA": {
+    "NUEVA CENTRAL": [
+      "3314"
+    ]
+  },
+  "SALAMANCA": {
+    "CHOAPA": [
+      "3315"
+    ],
+    "JARUFE": [
+      "3316"
+    ],
+    "SALAMANCA": [
+      "3641"
+    ],
+    "CRUZ VERDE": [
+      "3652"
+    ],
+    "SAN JUAN": [
+      "3914"
+    ],
+    "BOTIQUIN POLICLINICO CHACAY II": [
+      "7092"
+    ],
+    "FARMACIA DOCTOR SIMI": [
+      "7216"
+    ]
+  },
+  "CALBUCO": {
+    "FARMACIAS CRUZ VERDE": [
+      "3319"
+    ],
+    "FARMACIA VERONICA": [
+      "3338"
+    ],
+    "FARMACIA DR.SIMI": [
+      "4517"
+    ],
+    "FARMACIA EL HERBARIO DE CALBUCO": [
+      "6706"
+    ],
+    "BOTIQU00edN POLICL00edNICO A.CH.S. (CALBUCO)": [
+      "7540"
+    ]
+  },
+  "LOS MUERMOS": {
+    "FARMACIA GALENO": [
+      "3322"
+    ],
+    "FARMACIA COMUNAL LOS MUERMOS": [
+      "4851"
+    ],
+    "FARMACIA DEL DR. SIMI": [
+      "6030"
+    ]
+  },
+  "LLANQUIHUE": {
+    "FARMACIA CRUZ VERDE": [
+      "3351"
+    ],
+    "FARMACIA PLAZA": [
+      "3353"
+    ],
+    "FARMACIA COMUNITARIA LLANQUIHUE": [
+      "5187"
+    ],
+    "BOTIQU00edN POLICL00edNICO A.CH.S. (LLANQUIHUE)": [
+      "7541"
+    ]
+  },
+  "POZO ALMONTE": {
+    "FARMACIA JERUSALEN": [
+      "3356"
+    ],
+    "FARMACIA COMUNAL POZO ALMONTE": [
+      "4848"
+    ],
+    "BOTIQUIN POLICLINICO CERRO COLORADO": [
+      "5863"
+    ],
+    "BOTIQUIN SALA DE PROCEDIMIENTOS DE PRIMEROS AUXILIOS IRIS": [
+      "6277"
+    ],
+    "BOTIQUIN CESFAM DE POZO ALMONTE": [
+      "6750"
+    ],
+    "BOTIQUIN POLICLINICO DUCTOS 1": [
+      "6817"
+    ],
+    "BOTIQU00cdN POLICL00cdNICO DUCTOS 2": [
+      "6883"
+    ]
+  },
+  "MAULLIN": {
+    "FARMACIA LAHUEN": [
+      "3357"
+    ],
+    "FARMACIA POPULAR MAULLIN": [
+      "4837"
+    ]
+  },
+  "HUALAIHUE": {
+    "FARMACIA AUSTRAL": [
+      "3358"
+    ],
+    "BOTIQU00edN POLICL00edNICO A.CH.S. (HORNOPIR00e9N)": [
+      "7544"
+    ]
+  },
+  "AYSEN": {
+    "FARMACIAS CRUZ VERDE": [
+      "3366"
+    ],
+    "FARMACIAS AHUMADA": [
+      "3370"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "4070"
+    ],
+    "HOSPITAL DE PUERTO AYSEN": [
+      "7499"
+    ]
+  },
+  "COYHAIQUE": {
+    "FARMACIAS CRUZ VERDE": [
+      "3367",
+      "3371"
+    ],
+    "FARMACIAS DR SIMI": [
+      "3459"
+    ],
+    "FARMACIAS SALCOBRAND": [
+      "3460"
+    ],
+    "FARMACIA POPULAR PATAGONA": [
+      "5081"
+    ],
+    "FARMACIA AHUMADA": [
+      "6027"
+    ],
+    "FARMACIAS DE AYSEN": [
+      "6456"
+    ]
+  },
+  "PICA": {
+    "JERUSALEM": [
+      "3379"
+    ],
+    "BOTIQUIN POLICLINICO COPOSA": [
+      "5864"
+    ],
+    "BOTIQUIN CESFAM DE PICA": [
+      "6295"
+    ],
+    "BOTIQUIN POLICLINICO CONCENTRADORA": [
+      "6808"
+    ]
+  },
+  "FRUTILLAR": {
+    "FARMACIA FRUTILLAR": [
+      "3383"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "4313"
+    ],
+    "FARMACIA MUNICIPAL DE FRUTILLAR": [
+      "5272"
+    ]
+  },
+  "FRESIA": {
+    "FARMACIA CONDELL": [
+      "3390"
+    ]
+  },
+  "PUNTA ARENAS": {
+    "CRUZ VERDE": [
+      "3420",
+      "3422",
+      "3440",
+      "3441"
+    ],
+    "LA ESTRELLA": [
+      "3424",
+      "3425"
+    ],
+    "FUENTE DE SALUD": [
+      "3430"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3437",
+      "5131"
+    ],
+    "SALCOBRAND": [
+      "3439"
+    ],
+    "FARMACIA DEL RECETARIO": [
+      "3774"
+    ],
+    "LIGA CHILENA CONTRA LA EPILEPSIA, SEDE PUNTA ARENAS": [
+      "5266"
+    ],
+    "FARMACIA LA ESTRELLA": [
+      "6380"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "7199"
+    ],
+    "FARMACIA MAGALLANES": [
+      "7637"
+    ]
+  },
+  "PURRANQUE": {
+    "FARMACIA DROGUETT": [
+      "3434"
+    ],
+    "FARMACIA SUR": [
+      "3436"
+    ],
+    "FARMACIA DEL DR SIMI": [
+      "3438"
+    ]
+  },
+  "PUERTO NATALES": {
+    "CRUZ VERDE": [
+      "3444"
+    ]
+  },
+  "PORVENIR": {
+    "CRUZ VERDE": [
+      "3445"
+    ]
+  },
+  "CALAMA": {
+    "FARMACIA CRUZ VERDE": [
+      "3450",
+      "3463",
+      "3465",
+      "3469",
+      "3473",
+      "3474",
+      "3477",
+      "3870"
+    ],
+    "SALCOBRAND": [
+      "3451",
+      "3454",
+      "3464",
+      "3471",
+      "3472"
+    ],
+    "FARMACIA AHUMADA": [
+      "3453",
+      "3467",
+      "3475",
+      "3476"
+    ],
+    "REDPOPULAR LOCAL N00b01": [
+      "3462"
+    ],
+    "FARMACIA DR SIMI": [
+      "3466"
+    ],
+    "REDPOPULAR LOCAL N00b02": [
+      "3470"
+    ],
+    "COSMOFARMA": [
+      "4082"
+    ],
+    "FARMACIAS KNOP": [
+      "5428"
+    ],
+    "CRUZ VERDE L-9030": [
+      "6068"
+    ],
+    "LA BOTIKA SIN IGUAL": [
+      "6359"
+    ],
+    "FARMACIA LACKUNTUR": [
+      "6794"
+    ]
+  },
+  "ANTOFAGASTA": {
+    "DR SIMI": [
+      "3482",
+      "4609"
+    ],
+    "SALCOBRAND": [
+      "3484",
+      "3485",
+      "3686",
+      "3795",
+      "3801"
+    ],
+    "CRUZ VERDE": [
+      "3486",
+      "3487",
+      "3496"
+    ],
+    "FARMACIA GALENO": [
+      "3488"
+    ],
+    "FARMACIA AHUMADA": [
+      "3490",
+      "3495",
+      "3785",
+      "3786",
+      "3789",
+      "3794",
+      "3803"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3492",
+      "3672",
+      "3674",
+      "3683",
+      "3790",
+      "3791",
+      "3793",
+      "3800",
+      "3804",
+      "3806",
+      "4083",
+      "4420",
+      "5337"
+    ],
+    "DEL NORTE": [
+      "3497"
+    ],
+    "EKONOFARMA": [
+      "3498",
+      "3787"
+    ],
+    "FARMACIA RENDIC": [
+      "3659"
+    ],
+    "FARMACIA FARMANUESTRA": [
+      "3665"
+    ],
+    "FARMACIA GALENO G": [
+      "3788"
+    ],
+    "FARMACIA NOVOA": [
+      "3796"
+    ],
+    "FARMACIA SAN LUIS": [
+      "3797"
+    ],
+    "DR. SIMI": [
+      "3798"
+    ],
+    "FARMACIA DEL DESIERTO": [
+      "4084"
+    ],
+    "AHUMADA": [
+      "4091"
+    ],
+    "FARMACIA SANTO REMEDIO": [
+      "4307"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "4419"
+    ],
+    "FARMACIA ACEVEDO": [
+      "4472",
+      "7144"
+    ],
+    "FARMACIA PROSALUD": [
+      "4494"
+    ],
+    "FARMACIA BICENTENARIO": [
+      "4495"
+    ],
+    "FARMACIA SIMI": [
+      "4622"
+    ],
+    "FARMACIA COMUNAL DE ANTOFAGASTA": [
+      "4653"
+    ],
+    "FARMACIA GACEMA II": [
+      "5041"
+    ],
+    "FARMACIA SUPERFARMA": [
+      "5192"
+    ],
+    "FARMACIA FARMAVEGA": [
+      "5409"
+    ],
+    "FARMACIAS KNOP": [
+      "5426"
+    ],
+    "FARMACIA KNOP": [
+      "5427"
+    ],
+    "SALCOBRAND LOCAL 620": [
+      "5599"
+    ],
+    "LIGA CHILENA CONTRA LA EPILEPSIA": [
+      "5606"
+    ],
+    "FARMACIA SAN MARCO": [
+      "5866"
+    ],
+    "FARMACIA DEL DESIERTO MEF": [
+      "5867"
+    ],
+    "FARMACIA HIGEA": [
+      "5888"
+    ],
+    "FARMACIA BICENTENARIO II": [
+      "6071"
+    ],
+    "FARMACIA DR SIMI": [
+      "6415"
+    ],
+    "FARMACIA CRUZ VERDE 1109": [
+      "6795"
+    ],
+    "FARMACIA COSTA NORTE": [
+      "6869"
+    ],
+    "LA ECONOMICA II": [
+      "7143"
+    ],
+    "FARMACIA FARMALIFE": [
+      "7203"
+    ],
+    "FARMACIA HIGEA LOCAL 3": [
+      "7412"
+    ],
+    "CRUZ VERDE LOCAL 9073": [
+      "7413"
+    ],
+    "FARMACIA SAN AGUSTIN": [
+      "7447"
+    ]
+  },
+  "PADRE LAS CASAS": {
+    "FARMACIA FARMAX": [
+      "3516"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "4343"
+    ],
+    "FARMACIA MUNICIPAL DE PADRE LAS CASAS": [
+      "5201"
+    ],
+    "FARMACIA MAXAHORRO": [
+      "5397"
+    ],
+    "FARMACIA DR. SIMI": [
+      "5441"
+    ]
+  },
+  "ANGOL": {
+    "FARMACIA AHUMADA": [
+      "3518"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3519",
+      "3520"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3521",
+      "6093"
+    ],
+    "FARMACIA DR. SIMI": [
+      "3523",
+      "6645"
+    ],
+    "FARMACIA VITASUR": [
+      "3525",
+      "4676",
+      "5965"
+    ],
+    "FARMACIA FARMAEXPRESS": [
+      "3526"
+    ],
+    "FARMACIA MUNICIPAL DE ANGOL": [
+      "5210"
+    ]
+  },
+  "PUCON": {
+    "FARMACIA AHUMADA": [
+      "3527"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3528"
+    ],
+    "FARMACIA RELMU": [
+      "3529"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3530",
+      "3531"
+    ],
+    "FARMACIA PUC00d3N": [
+      "3533"
+    ],
+    "FARMACIA MUNICIPAL DE PUCON": [
+      "5206"
+    ],
+    "FARMACIA DE TODOS E.I.R.L": [
+      "6646"
+    ],
+    "FARMACIA DR SIMI": [
+      "6648"
+    ],
+    "FARMACIA ASISTENCIAL DEL HOSPITAL SAN FRANCISCO DE PUCON": [
+      "7422"
+    ]
+  },
+  "VICTORIA": {
+    "FARMACIA AHUMADA": [
+      "3534"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3535",
+      "3538"
+    ],
+    "FARMACIA CENTRAL": [
+      "3536"
+    ],
+    "FARMACIA MUNICIPAL DE VICTORIA DR. EDUARDO BURGOS": [
+      "5204"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "6376"
+    ],
+    "FARMACIA DR SIMI": [
+      "6608"
+    ],
+    "FARMACIAS FARMATOTAL": [
+      "7500"
+    ]
+  },
+  "TRAIGUEN": {
+    "FARMACIA CRUZ VERDE": [
+      "3539"
+    ],
+    "FARMACIA MIRAFLORES": [
+      "3540"
+    ],
+    "FARMACIA DR. SIMI": [
+      "3541"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3542"
+    ]
+  },
+  "CURACAUTIN": {
+    "FARMACIA HUMANITARIA": [
+      "3543"
+    ],
+    "FARMACIA CRISTAL": [
+      "3544"
+    ],
+    "FARMACIA DR. SIMI": [
+      "3545"
+    ],
+    "FARMACIA POPULAR CURACAUT00cdN": [
+      "6891"
+    ],
+    "FARMACIA LUPITA": [
+      "7443"
+    ]
+  },
+  "NUEVA IMPERIAL": {
+    "FARMACHILE": [
+      "3546"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3547"
+    ],
+    "DR. SIMI": [
+      "4357"
+    ],
+    "FARMACIA ESFARMA": [
+      "7095"
+    ]
+  },
+  "CARAHUE": {
+    "FARMACIA DR. SIMI": [
+      "3548"
+    ],
+    "FARMACHILE": [
+      "3549"
+    ],
+    "FARMACIA COMUNITARIA FLORENCIA CONCHA": [
+      "5209"
+    ],
+    "ALMAC00c9N FARMAC00c9UTICO FARMAVITARIAS": [
+      "7007"
+    ]
+  },
+  "TOLTEN": {
+    "FARMACIA TOLT00c9N": [
+      "3550"
+    ]
+  },
+  "CUNCO": {
+    "FARMACIA CUNCO": [
+      "3551"
+    ]
+  },
+  "GORBEA": {
+    "FARMACIA PARIS": [
+      "3552"
+    ],
+    "FARMACIA DR. SIMI": [
+      "5396"
+    ]
+  },
+  "PUREN": {
+    "FARMACIA RUKALAHUEN": [
+      "3554"
+    ]
+  },
+  "VILLARRICA": {
+    "F. CRUZ VERDE": [
+      "3555",
+      "3557"
+    ],
+    "SALCOBRAND": [
+      "3558"
+    ],
+    "F. AHUMADA": [
+      "3561"
+    ],
+    "F. DERIVAL": [
+      "3562"
+    ],
+    "DR. SIMI": [
+      "3563"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "4341",
+      "6936"
+    ],
+    "VILLA NATURA": [
+      "4355"
+    ],
+    "FARMACIA DEL LAGO": [
+      "4673"
+    ],
+    "FARMACIA MUNICIPAL DE VILLARRICA": [
+      "5205"
+    ],
+    "FARMACIAS PEHUEN": [
+      "5404"
+    ],
+    "FARMACIA KUMELEN": [
+      "5616"
+    ],
+    "FARMACIA DR. SIMI": [
+      "5967",
+      "6651"
+    ],
+    "FARMACIA ECONOSUR": [
+      "6091"
+    ],
+    "FARMACIA VITASUR": [
+      "6092"
+    ],
+    "FARMACIA FARMATOTAL": [
+      "6437",
+      "6650"
+    ],
+    "FARMACIA MASSALUD SPA": [
+      "6718"
+    ],
+    "FARMACIAS DEL LAGO SEGUNDA FAJA": [
+      "7525"
+    ]
+  },
+  "LAUTARO": {
+    "DR. SIMI": [
+      "3565"
+    ],
+    "F. OHIGGINS": [
+      "3567"
+    ],
+    "F. SALCOBRAND": [
+      "3568"
+    ],
+    "FARMACIA POPULAR MUNICIPAL \" EL TOQUI\"": [
+      "5203"
+    ],
+    "REDFARMA": [
+      "6355"
+    ]
+  },
+  "PITRUFQUEN": {
+    "F. CRUZ VERDE": [
+      "3569"
+    ],
+    "FARMACIA DR. SIMI": [
+      "4377"
+    ],
+    "FARMACIA MUNICIPAL DE PITRUFQUEN": [
+      "5211"
+    ],
+    "FARMACIAS MIFARMA SPA": [
+      "5957"
+    ]
+  },
+  "COLLIPULLI": {
+    "DR. SIMI": [
+      "3571"
+    ],
+    "FARMACIA VITASUR IV": [
+      "3572"
+    ],
+    "FARMACIA FIJA": [
+      "4595"
+    ],
+    "FARMACIA MUNICIPAL DE COLLIPULLI": [
+      "5202"
+    ],
+    "FARMACIAS ARAUCAN00cdA": [
+      "7030"
+    ]
+  },
+  "LONCOCHE": {
+    "F. FRANCIA": [
+      "3574"
+    ],
+    "MIFARMA": [
+      "4590"
+    ],
+    "FARMACIA NA-ROA": [
+      "5958"
+    ],
+    "FARMACIA DR. SIMI": [
+      "6904"
+    ],
+    "ALMAC00c9N FARMAC00c9UTICO NAROA": [
+      "7528"
+    ]
+  },
+  "RANCAGUA": {
+    "FARMACIA AHUMADA": [
+      "3576",
+      "3625",
+      "3661"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3662",
+      "3664",
+      "3666",
+      "3667",
+      "3668",
+      "3669",
+      "3671",
+      "3673",
+      "3675",
+      "4060",
+      "4185",
+      "6598"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3676",
+      "3677",
+      "3678",
+      "3679",
+      "3680",
+      "3681"
+    ],
+    "EL COBRE": [
+      "3736",
+      "3737"
+    ],
+    "NETFARMA": [
+      "3738",
+      "4334"
+    ],
+    "LA BOTICA ANICH": [
+      "3739",
+      "3752"
+    ],
+    "CUGAT VIDA BAQUEDANO": [
+      "3741"
+    ],
+    "CUGAT VIDA": [
+      "3742"
+    ],
+    "NOVASALUD.COM": [
+      "3743"
+    ],
+    "SIBONAT": [
+      "3744"
+    ],
+    "SU SALUD": [
+      "3745"
+    ],
+    "GALENO": [
+      "3746",
+      "3747"
+    ],
+    "BEL00c9N": [
+      "3751"
+    ],
+    "CORDILLERA": [
+      "3753"
+    ],
+    "DR. SIMI": [
+      "3754",
+      "4248"
+    ],
+    "FARMACIA ALEMANA": [
+      "4335",
+      "5287",
+      "6396"
+    ],
+    "FARMACIA KNOP": [
+      "4423"
+    ],
+    "FARMACIA CRERIK": [
+      "4674"
+    ],
+    "FARMACIA FARMAVECINA": [
+      "4888"
+    ],
+    "FARMACIA JUMBO RANCAGUA": [
+      "4950"
+    ],
+    "FARNACIA CRUZ VERDE": [
+      "5236"
+    ],
+    "FARMACIA ALAMED": [
+      "5244"
+    ],
+    "FARMACIA DR SIMI": [
+      "5371",
+      "7436"
+    ],
+    "FARMAVECINA": [
+      "5395"
+    ],
+    "FARMACENTRO": [
+      "5775"
+    ],
+    "PAULA SALUD": [
+      "5778"
+    ],
+    "EMERGENCIA": [
+      "5969"
+    ],
+    "DR.SIMI": [
+      "5970"
+    ],
+    "FARMACIA BICHARA": [
+      "6083"
+    ],
+    "FARMACIA LA GLORIA": [
+      "6085"
+    ],
+    "FARMACIA DR. SIMI": [
+      "6276"
+    ],
+    "TU FARMACIA": [
+      "6358"
+    ],
+    "FARMACIA TU DOSIS": [
+      "6892"
+    ],
+    "RED FARMA": [
+      "7026"
+    ],
+    "FARMACIA COMUNAL RANCAGUA": [
+      "7087"
+    ],
+    "FARMACIA IVANNA": [
+      "7218"
+    ],
+    "FARMA CLEVER": [
+      "7642"
+    ]
+  },
+  "OVALLE": {
+    "CRUZ VERDE": [
+      "3583",
+      "4047",
+      "4089"
+    ],
+    "AHUMADA": [
+      "3597",
+      "4413"
+    ],
+    "SALCOBRAND": [
+      "3605",
+      "4087"
+    ],
+    "FARMACIA ALEJANDRO RODR00cdGUEZ": [
+      "3612"
+    ],
+    "FARMACIA SANA SANA": [
+      "4009"
+    ],
+    "FARMACIA DR. SIMI": [
+      "4412"
+    ],
+    "FARMACIA MUNICIPAL DE OVALLE": [
+      "4698"
+    ],
+    "FARMACIA SAN JUAN": [
+      "4854"
+    ],
+    "FARMACIA DEL DR. SIMI": [
+      "5277"
+    ],
+    "FARMACIA PUNTO BLANCO": [
+      "5962"
+    ],
+    "BOTIQUIN DIAGNO IMAGE": [
+      "6110"
+    ],
+    "KNOP OVALLE": [
+      "6305"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "6368",
+      "6422"
+    ],
+    "CLINICA DERMATOLOGICA VALLE NORTE": [
+      "6622"
+    ],
+    "DOCTOR DEL DR. SIMI": [
+      "6857"
+    ],
+    "BOTIQUIN CENTRO DENTAL REDSALUD": [
+      "6903"
+    ],
+    "FARMACIA DOCTOR SIMI": [
+      "7183"
+    ],
+    "FARMACIA ESPACIO PIEL": [
+      "7205"
+    ],
+    "ADASKIN ESTHETIC": [
+      "7409"
+    ],
+    "FARMACIA SAN FRANCISCO": [
+      "7620"
+    ]
+  },
+  "ILLAPEL": {
+    "CRUZ VERDE": [
+      "3586"
+    ],
+    "DR SIMI": [
+      "3610"
+    ],
+    "ECONAT 2": [
+      "3613"
+    ],
+    "ECONAT 1": [
+      "3615"
+    ],
+    "SANTO REMEDIO": [
+      "3630"
+    ],
+    "SAN JUAN": [
+      "3912"
+    ],
+    "FARMACIA SAN CARLOS": [
+      "4645"
+    ],
+    "FARMACIA COMUNITARIA": [
+      "4993"
+    ],
+    "FARMACIA DON JOS00c9": [
+      "5959"
+    ],
+    "CESFAM URBANO ILLAPEL": [
+      "6363"
+    ]
+  },
+  "LOS VILOS": {
+    "NUEVA ESTRELLA": [
+      "3619"
+    ],
+    "EL INDIECITO": [
+      "3620"
+    ],
+    "CRUZ VERDE": [
+      "3913"
+    ],
+    "FARMACIA SAN JUAN": [
+      "4291"
+    ],
+    "FARMACIAS DEL DR. SIMI": [
+      "4677"
+    ],
+    "ALMAC00c9N FARMAC00c9UTICO EL INDIECITO": [
+      "5175"
+    ],
+    "PAI CHOAPA": [
+      "6362"
+    ],
+    "BOTIQUIN POLICLINICO PUNTA CHUNGO": [
+      "7093"
+    ],
+    "BOTIQUIN POLICNICO TIPAY": [
+      "7094"
+    ],
+    "CENTRO MEDICO ARAUCO": [
+      "7197"
+    ]
+  },
+  "SAN FERNANDO": {
+    "FARMACIA SALCOBRAND": [
+      "3685",
+      "3687",
+      "3688",
+      "4675"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3690",
+      "3767",
+      "4067",
+      "6593"
+    ],
+    "FARMACIA FARMAS": [
+      "3719"
+    ],
+    "LOURDES": [
+      "3720"
+    ],
+    "DR. SIMI": [
+      "3755",
+      "5117"
+    ],
+    "FARMAXOL": [
+      "3760"
+    ],
+    "FARMACIA AHUMADA": [
+      "3769"
+    ],
+    "FARMACIA NOLY": [
+      "6397"
+    ],
+    "FARMACIA SEGAL": [
+      "6601"
+    ],
+    "FARFARMACIA RED FARMA": [
+      "6793"
+    ],
+    "FARMACIA FARMAFAST": [
+      "7078"
+    ],
+    "FARMACIA SAN FERNANDO": [
+      "7079"
+    ],
+    "FARMACIA LA COMARCA": [
+      "7643"
+    ]
+  },
+  "GRANEROS": {
+    "V00cdA VERDE": [
+      "3692"
+    ],
+    "GRANEROS": [
+      "3693"
+    ],
+    "LA COMPA00d100cdA": [
+      "3694"
+    ],
+    "DR. SIMI": [
+      "3763"
+    ],
+    "GROBFARMA": [
+      "7313"
+    ]
+  },
+  "LAS CABRAS": {
+    "SAN JUAN": [
+      "3697"
+    ],
+    "RAPEL": [
+      "3698"
+    ],
+    "POSTO VERDE": [
+      "3761"
+    ],
+    "DR. SIMI": [
+      "4034"
+    ],
+    "FARMACENTER": [
+      "4953"
+    ],
+    "FARMACIA COMUNITARIA LAS CABRAS": [
+      "5996"
+    ],
+    "FARMACIA M Y N": [
+      "6910"
+    ]
+  },
+  "PERALILLO": {
+    "FARCO": [
+      "3699"
+    ],
+    "PERALILLO": [
+      "3700"
+    ]
+  },
+  "PICHIDEGUA": {
+    "CUARTOCENTENARIO": [
+      "3701"
+    ],
+    "POSTO VERDE": [
+      "3730"
+    ],
+    "FARMACIA SOLIDARIA PICHIDEGUA": [
+      "5593"
+    ]
+  },
+  "DO00d1IHUE": {
+    "LO MIRANDA": [
+      "3702"
+    ],
+    "LOURDES": [
+      "3706"
+    ]
+  },
+  "CHIMBARONGO": {
+    "M & M": [
+      "3704"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3781"
+    ],
+    "FARMACIA PRINCIPAL": [
+      "3871"
+    ],
+    "DR. SIMI": [
+      "5598"
+    ],
+    "FARMACIA FARMAS 2": [
+      "6025"
+    ]
+  },
+  "LITUECHE": {
+    "SAN ENRIQUE": [
+      "3707"
+    ],
+    "FARMACIA TU SALUD": [
+      "6287"
+    ]
+  },
+  "MARCHIGUE": {
+    "FLORES": [
+      "3708"
+    ]
+  },
+  "NANCAGUA": {
+    "CRUZ VERDE": [
+      "3709"
+    ],
+    "PRINCIPAL": [
+      "3710"
+    ]
+  },
+  "NAVIDAD": {
+    "EKONOFARMACIA II": [
+      "3711"
+    ]
+  },
+  "QUINTA DE TILCOCO": {
+    "MATUS": [
+      "3713"
+    ],
+    "FARMACIA GUTI": [
+      "5198"
+    ]
+  },
+  "RENGO": {
+    "MAGISTRAL": [
+      "3715"
+    ],
+    "TRIFARMA": [
+      "3731"
+    ],
+    "DR. SIMI": [
+      "3764"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3782",
+      "4059"
+    ],
+    "FARMACIA AHUMADA": [
+      "3783"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3784"
+    ],
+    "FARMACIA MED": [
+      "4061"
+    ],
+    "FCIA O'HIGGINS": [
+      "4546"
+    ],
+    "FARMACIA RENGO": [
+      "4880"
+    ],
+    "FARMACIA COMUNITARIA RENGO": [
+      "4897"
+    ],
+    "FCIA. DR. SIMI": [
+      "4970"
+    ],
+    "MANANTIALES": [
+      "6298"
+    ],
+    "FARMACIA LA ECONOMICA": [
+      "6991"
+    ]
+  },
+  "REQUINOA": {
+    "MAGISTRAL": [
+      "3718"
+    ],
+    "CORDILLERA": [
+      "3729"
+    ],
+    "FARMACIA POPULAR DE REQUINOA": [
+      "4701"
+    ],
+    "FARMACIA SU SALUD": [
+      "6599"
+    ],
+    "FARMACIA LA BOTICA DE REQU00edNOA": [
+      "6894"
+    ],
+    "FARMACIA ALOIS": [
+      "7240"
+    ]
+  },
+  "SAN FRANCISCO DE MOSTAZAL": {
+    "V00cdA VERDE": [
+      "3723"
+    ],
+    "KARMEL": [
+      "3724"
+    ],
+    "FARMACIA AHUMADA": [
+      "3807"
+    ],
+    "FARMACIA NUEVA PROGRESO": [
+      "3874"
+    ]
+  },
+  "SAN VICENTE": {
+    "CRUZ DEL SUR": [
+      "3726"
+    ],
+    "DR. SIMI": [
+      "3757"
+    ],
+    "CUGAT VIDA": [
+      "3758"
+    ],
+    "POSTO VERDE": [
+      "3765",
+      "3766"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3770",
+      "7417"
+    ],
+    "FARMACIA AHUMADA": [
+      "3772"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3773"
+    ],
+    "FCIA POPULAR SAN VICENTE": [
+      "4896"
+    ],
+    "FARMACIA PRINCIPAL": [
+      "6373"
+    ],
+    "FARMACIA O'HIGGINS": [
+      "6374"
+    ]
+  },
+  "SANTA CRUZ": {
+    "CARDEMIL": [
+      "3727"
+    ],
+    "ALLIENDE": [
+      "3728"
+    ],
+    "DR. SIMI": [
+      "3756"
+    ],
+    "CARMEN": [
+      "3759"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3775"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3777",
+      "3778",
+      "6691"
+    ],
+    "FARMACIA AHUMADA": [
+      "3779"
+    ],
+    "FARMACIA SANTA CRUZ": [
+      "3872"
+    ],
+    "FARMACIA KNOP": [
+      "4424"
+    ],
+    "FARMACIA TU SANTA CRUZ": [
+      "4702"
+    ],
+    "FARMACIA LA AVENIDA": [
+      "5288"
+    ],
+    "FARMACIA ALIAGA": [
+      "6371"
+    ]
+  },
+  "PEUMO": {
+    "POSTO VERDE": [
+      "3732"
+    ],
+    "FARMACIA POPULAR PEUMO": [
+      "4894"
+    ]
+  },
+  "MACHALI": {
+    "MEJOR SALUD": [
+      "3733"
+    ],
+    "MACHAL00cd": [
+      "3735"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3809"
+    ],
+    "FARMACIA AHUMADA": [
+      "3810"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "4336"
+    ],
+    "CRUZ VERDE ( FRANQUICIA)": [
+      "5029"
+    ],
+    "FARMACIA POPULAR MACHALI": [
+      "5190"
+    ],
+    "FARMACIA O'HIGGINS": [
+      "5595"
+    ],
+    "MI FARMA": [
+      "6807"
+    ],
+    "FARMACIA CORDILLERA": [
+      "6988"
+    ],
+    "FARMACIA KNOP": [
+      "7356"
+    ]
+  },
+  "PICHILEMU": {
+    "POSTO VERDE": [
+      "3762"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3780"
+    ],
+    "FARMACIA VIENTOS DE MAR": [
+      "5430"
+    ],
+    "FARMACIA SAN ANDRES": [
+      "5604"
+    ],
+    "FARMACIA POSTO VERDE": [
+      "5749"
+    ],
+    "FARMACIA POPULAR PICHILEMU": [
+      "5836"
+    ],
+    "FARMACIA FARMAS": [
+      "6372"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "6692"
+    ],
+    "FARMACIA PUNTA DE LOBOS": [
+      "6792"
+    ]
+  },
+  "RETIRO": {
+    "FARMACIA RETIRO": [
+      "3812"
+    ],
+    "FARMACIA SAN LUIS": [
+      "3813"
+    ]
+  },
+  "LONGAVI": {
+    "FARMACIA EL CARMEN": [
+      "3815"
+    ],
+    "FARMACIA DR. SIMI": [
+      "4464"
+    ],
+    "FARMACIA PRO-B": [
+      "5045"
+    ],
+    "FARMACIA DEL MAULE": [
+      "7151"
+    ]
+  },
+  "HUALA00d1E": {
+    "FARMACIA PRAT": [
+      "3817"
+    ],
+    "FARMACIA HUALA00d100c9": [
+      "3818"
+    ],
+    "FARMACIA POPULAR DE HUALA00d100c9": [
+      "4778"
+    ],
+    "FARMACIA HUALA00d1E MAS SALUD Y BELLEZA": [
+      "7176"
+    ],
+    "FARMACIA VIDA": [
+      "7312"
+    ],
+    "FARMACIA HUALA00d100c9 M00c1S SALUD Y BELLEZA LOCA00d1 A HUALA00d100c9": [
+      "7316"
+    ]
+  },
+  "TENO": {
+    "FARMACIA SAN FRANCISCO": [
+      "3819"
+    ],
+    "FARMACIA DOCTOR FARMA": [
+      "3820"
+    ],
+    "ALMACEN FARMACEUTICO STA. MAR00cdA": [
+      "3822"
+    ]
+  },
+  "SAN CLEMENTE": {
+    "FARMACIA FARMAQUIM": [
+      "3823"
+    ],
+    "FARMACIA FARMASUR": [
+      "3824"
+    ],
+    "FARMACIA SAN PABLO": [
+      "3825"
+    ],
+    "FARMACIA LA BOTICA": [
+      "3826"
+    ],
+    "FARMACIA DR. SIMI": [
+      "3828"
+    ],
+    "CRUZ VERDE": [
+      "4288"
+    ],
+    "FARMACIA SAN DANIEL": [
+      "5539"
+    ],
+    "FARMACIA TALL00d3N": [
+      "6011"
+    ],
+    "FARMACIA OMUNITARIA SAN CLEMENTE": [
+      "6450"
+    ],
+    "FARMACIA COMUNITARIA SAN CLEMENTET": [
+      "6641"
+    ],
+    "FARMACIA LAS CUMBRES": [
+      "7168"
+    ]
+  },
+  "SAN JAVIER": {
+    "FARMACIA SALCOBRAND": [
+      "3830"
+    ],
+    "FARMACIAS CRUZ VERDE": [
+      "3831"
+    ],
+    "FARMACIA AHUMADA": [
+      "3832",
+      "5344"
+    ],
+    "FARMACIA GAETE": [
+      "3833"
+    ],
+    "FARMACIA POPULAR DE SAN JAVIER": [
+      "4694"
+    ],
+    "FARMACIA VIDANUEVA": [
+      "4903"
+    ],
+    "FARMACIA MIMIZA": [
+      "5225",
+      "6689"
+    ],
+    "FARMACIA DR. SIMI": [
+      "5918"
+    ],
+    "FARMACIA FARMAPLUS": [
+      "7173",
+      "7320"
+    ],
+    "FARMACIA AMATIST": [
+      "7307"
+    ]
+  },
+  "VILLA ALEGRE": {
+    "FARMACIA MIMIZA": [
+      "3834"
+    ],
+    "FARMACIA EL BOTICARIO": [
+      "4900"
+    ],
+    "FARMACIA G Y M": [
+      "5544"
+    ]
+  },
+  "MOLINA": {
+    "FARMACIA CRUZ VERDE": [
+      "3835"
+    ],
+    "FARMACIA MOLINA": [
+      "3837"
+    ],
+    "FARMACIA DR. SIMI": [
+      "3838"
+    ],
+    "FARMACIA SAN MARTIN": [
+      "3839"
+    ],
+    "FARMACIA MART00cdN GALENO": [
+      "5358"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "5982"
+    ],
+    "FARMACIA REDFARMA": [
+      "6349",
+      "7167"
+    ]
+  },
+  "PARRAL": {
+    "FARMACIA IGUALDAD": [
+      "3840",
+      "4410"
+    ],
+    "FARMACIA ARAG00d3N": [
+      "3841"
+    ],
+    "FARMACIA AHUMADA": [
+      "3842"
+    ],
+    "FARMACIA DR. SIMI": [
+      "3843",
+      "5732"
+    ],
+    "FARMACIA PARRAL": [
+      "3844"
+    ],
+    "FARMACIAS CRUZ VERDE": [
+      "3845"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3846"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3847"
+    ],
+    "FARMACIA POPULAR DE PARRAL": [
+      "4821"
+    ],
+    "FARMACIA MUNICIPAL DR. PATRCIO BLANCO": [
+      "6939"
+    ],
+    "FARMACIA EXPRES JH": [
+      "7171"
+    ]
+  },
+  "CAUQUENES": {
+    "FARMACIA ANTONIO VARAS": [
+      "3850"
+    ],
+    "FARMACIA HOSPITAL": [
+      "3851"
+    ],
+    "FARMACIA SAN ALFONSO": [
+      "3853"
+    ],
+    "FARMACIA AHUMADA": [
+      "3855"
+    ],
+    "FARMACIA DR. SIMI": [
+      "3856"
+    ],
+    "FARMACIA SAN MIGUEL": [
+      "3857"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3859"
+    ],
+    "FARMACIA ESTACI00f3N": [
+      "6309"
+    ],
+    "FARMACIA SAN RAFAEL": [
+      "6638"
+    ],
+    "FARMACIA AVICENA": [
+      "6801"
+    ],
+    "FARMACIA DEL DOCTOR SIMI": [
+      "7493"
+    ]
+  },
+  "LINARES": {
+    "FARMACIA SUR": [
+      "3860",
+      "4611"
+    ],
+    "FARMACIA AHUMADA": [
+      "3861",
+      "3862",
+      "3863"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3864",
+      "3876",
+      "3878"
+    ],
+    "FARMACIA EL CARMEN": [
+      "3865"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3866"
+    ],
+    "FARMACIA NUEVA FRANCESA": [
+      "3867"
+    ],
+    "FARMACIA ROCA": [
+      "3868"
+    ],
+    "FARMACIA NUEVA FRANCESA N00b0 2": [
+      "3869"
+    ],
+    "FARMACIA DR. SIMI": [
+      "3875",
+      "3881"
+    ],
+    "FARMACIA ORIENTE 2": [
+      "3877"
+    ],
+    "FARMACIA PARADA": [
+      "5238"
+    ],
+    "FARMACIA SAN MIGUEL": [
+      "5374"
+    ],
+    "FARMACIA PRO-B": [
+      "5667"
+    ],
+    "FARMACIA MUNICIPAL DE LINARES": [
+      "5794"
+    ],
+    "FARMACIA VIDAFARMA": [
+      "6012"
+    ],
+    "FARMACIA REYES": [
+      "6076"
+    ],
+    "SAN MIGUEL": [
+      "6179"
+    ],
+    "FARMACIA LINARES CENTRO": [
+      "6822"
+    ],
+    "FARMACIA LA MODESTA": [
+      "7161"
+    ],
+    "FARMACIA FARMAHORRO": [
+      "7172"
+    ],
+    "FARMACIAS EL CARMEN N00ba3": [
+      "7317"
+    ],
+    "FARMACIA FARMAVENZ": [
+      "7555"
+    ]
+  },
+  "CONSTITUCION": {
+    "FARMACIA SALCOBRAND": [
+      "3882",
+      "3887"
+    ],
+    "FARMACIA DR. SIMI": [
+      "3883"
+    ],
+    "FARMACIA FARMASUR": [
+      "3884"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3888"
+    ],
+    "FARMACIA SANA SANA": [
+      "4715"
+    ],
+    "FARMACIA COMUNITARIA POPULAR": [
+      "4728"
+    ],
+    "FARMCIA TERMINAL": [
+      "4886"
+    ],
+    "FARMACIA SAN MIGUEL N00ba2": [
+      "5242"
+    ],
+    "FARMACIA CONSTITUCI00d3N": [
+      "5292"
+    ],
+    "FARMACIA ALAMEDA": [
+      "5608"
+    ],
+    "FARMACIA CERRO ALTO": [
+      "6635"
+    ],
+    "FARMACIA DEL MAULE": [
+      "7158"
+    ]
+  },
+  "CURICO": {
+    "FARMACIA AHUMADA": [
+      "3889",
+      "3890",
+      "3901"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3891",
+      "3892",
+      "3904",
+      "3906",
+      "6189"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3894",
+      "3908",
+      "3909",
+      "3972",
+      "5047"
+    ],
+    "FARMACIA DR. SIMI": [
+      "3897",
+      "3902",
+      "4689",
+      "5478",
+      "6447"
+    ],
+    "FARMACIA BELMONTE": [
+      "3898",
+      "6881"
+    ],
+    "FARMACIA UNIVERSO": [
+      "3899"
+    ],
+    "FARMACIA PRAT": [
+      "3900"
+    ],
+    "FARMACIA CRUZ DE ORO": [
+      "3903"
+    ],
+    "FARMACIA FERNANDEZ": [
+      "3907"
+    ],
+    "FARMACIA ENOC": [
+      "3911"
+    ],
+    "FARMACIA BIOFARMA": [
+      "4126"
+    ],
+    "CRUZ VERDE": [
+      "4294",
+      "4305",
+      "4306"
+    ],
+    "FARMACIA M00c1S SALUD": [
+      "4473"
+    ],
+    "FARMACIA FARMASALUD": [
+      "4563"
+    ],
+    "FARMACIA LA BOTICA CURIC00d3": [
+      "4604"
+    ],
+    "FARMACIA POPULAR COMUNITARIA": [
+      "4632"
+    ],
+    "FARMACIA VIDA": [
+      "4893",
+      "6899"
+    ],
+    "FARMACIA MANZANO": [
+      "5380"
+    ],
+    "FARMACIA SANTA FE": [
+      "5437"
+    ],
+    "FARMACIA KNOP": [
+      "5756"
+    ],
+    "FARMACIA LIGA CHILENA": [
+      "5782"
+    ],
+    "FARMACIA TUTUQU00c9N": [
+      "6075"
+    ],
+    "FARMACIA LA F00d3RMULA": [
+      "6209"
+    ],
+    "FARMACIA CONDELL": [
+      "6436"
+    ],
+    "FARMACIA UNIFARMA": [
+      "6631"
+    ],
+    "FARMACIA CONDELL N00ba2": [
+      "6633"
+    ],
+    "FARMACIA SOLUFARMA": [
+      "6710"
+    ],
+    "FARMACIAS KNOP": [
+      "7096"
+    ],
+    "FARMACIA OMEGA": [
+      "7164"
+    ],
+    "FARMACIA LOS NICHES": [
+      "7174"
+    ],
+    "FARMACIA BARATITA": [
+      "7175"
+    ],
+    "FARMACIA MI FARMACIA": [
+      "7311"
+    ],
+    "FARMACIA REDFARMA N00ba67": [
+      "7384"
+    ],
+    "FARMACIA LA BARATITA N00ba2": [
+      "7542"
+    ]
+  },
+  "TALCA": {
+    "FARMACIA PRINCIPAL N00ba 2": [
+      "3915"
+    ],
+    "FARMACIA AHUMADA": [
+      "3918",
+      "3929",
+      "3958",
+      "3965"
+    ],
+    "FARMACIA SALCOBRAND": [
+      "3920",
+      "3928",
+      "3933",
+      "3934",
+      "3939",
+      "6073"
+    ],
+    "FARMACIA CRUZ VERDE": [
+      "3921",
+      "3923",
+      "3930",
+      "3932",
+      "3942",
+      "3948",
+      "4414",
+      "5262",
+      "6290",
+      "7513",
+      "7558"
+    ],
+    "FARMACIA SOCORRO": [
+      "3925",
+      "3926"
+    ],
+    "FARMACIA CUBILLOS": [
+      "3927"
+    ],
+    "FARMACIAS CRUZ VERDE": [
+      "3931"
+    ],
+    "FARMACIA PALMA": [
+      "3937"
+    ],
+    "FARMACIA LIRCAY": [
+      "3941",
+      "5889"
+    ],
+    "FARMACIA SAN AGUSTIN": [
+      "3943"
+    ],
+    "FARMACIA 11 ORIENTE": [
+      "3944"
+    ],
+    "FARMACIA LA FLORIDA": [
+      "3945"
+    ],
+    "FARMACIA ORIENTE N00ba3": [
+      "3946"
+    ],
+    "FARMACIA FARMAX": [
+      "3947"
+    ],
+    "FARMACIA ORIENTE N00ba 1": [
+      "3949"
+    ],
+    "FARMACIA EXPRESS": [
+      "3953",
+      "5115"
+    ],
+    "FARMACIA SAN MARTIN 2": [
+      "3955"
+    ],
+    "FARMACIA ESTACION": [
+      "3956"
+    ],
+    "FARMACIA FARMACENTER": [
+      "3957"
+    ],
+    "FARMACIA EL SOL": [
+      "3959"
+    ],
+    "FARMACIA SR. MOLINA": [
+      "3960"
+    ],
+    "LA BOTICA DE MELANIA": [
+      "3962"
+    ],
+    "FARMACIA SIETE SUR": [
+      "3963"
+    ],
+    "FARMACIA CARACOL": [
+      "3964",
+      "3974"
+    ],
+    "FARMACIA FARMACITY": [
+      "3967"
+    ],
+    "FARMACIA DR. SIMI": [
+      "3973",
+      "5259",
+      "5699"
+    ],
+    "CRUZ VERDE": [
+      "4122",
+      "4300",
+      "4301",
+      "7169"
+    ],
+    "OLIPAR": [
+      "4124"
+    ],
+    "FARMACIA DON FERNANDO": [
+      "4127"
+    ],
+    "FARMACENTER": [
+      "4245"
+    ],
+    "DR. SIMI": [
+      "4299"
+    ],
+    "SALCOBRAND": [
+      "4302"
+    ],
+    "AHUMADA": [
+      "4316"
+    ],
+    "FARMACIA VICTORIA": [
+      "4415"
+    ],
+    "FARMACIA ECOFARMA LAS HERAS": [
+      "4482"
+    ],
+    "FARMACVIA SALCOBRAND": [
+      "4626"
+    ],
+    "FARMACIA BIOFARMA": [
+      "4688"
+    ],
+    "FARMACIA TRIFARMA": [
+      "4814"
+    ],
+    "FARMACIA VALLE LAS RASTRAS": [
+      "4902"
+    ],
+    "FARMACIA OLIPAR N00ba2": [
+      "4909"
+    ],
+    "FARMACIA LAS RASTRAS": [
+      "5247"
+    ],
+    "FARMACIA VIDA BICENTENARIO": [
+      "5343"
+    ],
+    "FARMACIA BICENTENARIO": [
+      "5346"
+    ],
+    "FARMACIA KNOP": [
+      "5383"
+    ],
+    "FARMACIA SALUD MAULE": [
+      "5451"
+    ],
+    "FARMACIA LA VIOLETA": [
+      "5607"
+    ],
+    "FARMACIA LIGA CHILENA": [
+      "5783"
+    ],
+    "FARMACIA UNO ORIENTE": [
+      "5787"
+    ],
+    "FARMACIA CARLOS SCHORR": [
+      "5857"
+    ],
+    "FARMACIA VIDA Y SALUD": [
+      "5872"
+    ],
+    "FARMACIA JUNTO A TI": [
+      "5874",
+      "6014",
+      "6444",
+      "6663",
+      "6744",
+      "6756",
+      "6757"
+    ],
+    "FARMACIA VIDANUEVA": [
+      "5875"
+    ],
+    "FARMACIA R00cdO CLARO": [
+      "5913"
+    ],
+    "FARMACIA REDFARMA": [
+      "6144"
+    ],
+    "FARMACIA LAWEN": [
+      "6145"
+    ],
+    "FARMACIA DE LA FAMILIA": [
+      "6184"
+    ],
+    "FARMACIA SANTA MAR00cdA": [
+      "6446"
+    ],
+    "FARMACIA VIDA Y SALUD N00ba2": [
+      "6448"
+    ],
+    "FARMACIA ARAG00d3N N00ba3": [
+      "6632"
+    ],
+    "FARMACIA DE LA FAMILIA N00ba2": [
+      "6634"
+    ],
+    "FARMACIA FARMACONTIGO": [
+      "6636"
+    ],
+    "FARMACIA M00d3VIL": [
+      "6637"
+    ],
+    "FARMACIA JUNTO ATI": [
+      "6716"
+    ],
+    "FARMACIA ANDES": [
+      "6742"
+    ],
+    "FAMACIA FARMADERM": [
+      "6743"
+    ],
+    "FARMACIA MERCADOFARMA": [
+      "6814"
+    ],
+    "FARMACIA ARRAYAN": [
+      "6825"
+    ],
+    "FARMACIA PURAPHARMA": [
+      "6898"
+    ],
+    "BOTIQUIN HOSPITAL VETERINARIO DOCENTE": [
+      "7139"
+    ],
+    "FARMACIA ECOFARMA LAS RASTRAS": [
+      "7146"
+    ],
+    "FARMACIA CESFAM BICENTENARIO": [
+      "7148"
+    ],
+    "FARMACRECER": [
+      "7149"
+    ],
+    "FARMACIA SAN MIGUEL": [
+      "7160",
+      "7209",
+      "7215",
+      "7322"
+    ],
+    "FARMACIA VIVE M00c1S": [
+      "7165"
+    ],
+    "FARMACIA MAGISTRAL": [
+      "7308"
+    ],
+    "FARMACIA LA REBAJA": [
+      "7315"
+    ]
+  },
+  "COCHRANE": {
+    "FARMACIA CRUZ VERDE": [
+      "3975"
+    ]
+  },
+  "COIHUECO": {
+    "FARMEDICA": [
+      "4037"
+    ],
+    "FARMACIA ASISTENCIAL COMUNAL COIHUE": [
+      "5016"
+    ],
+    "FARMACIA LA BOTICA": [
+      "6303"
+    ]
+  },
+  "EL CARMEN": {
+    "SANTA MARIA": [
+      "4039"
+    ],
+    "BELEN": [
+      "4040"
+    ]
+  },
+  "SAN IGNACIO": {
+    "GENESIS": [
+      "4041"
+    ]
+  },
+  "PETORCA": {
+    "A. F. PETORCA": [
+      "4075"
+    ]
+  },
+  "RAUCO": {
+    "TARM": [
+      "4110"
+    ],
+    "FARMACIA POPULAR COMUNITARIA": [
+      "4629"
+    ],
+    "FARMACIA RAUCO SALUD Y BELLEZA": [
+      "5983"
+    ],
+    "FARMACIA GUERRA": [
+      "6183"
+    ]
+  },
+  "LOLOL": {
+    "FARMACIA JULIAN": [
+      "4125"
+    ]
+  },
+  "EMPEDRADO": {
+    "ALMACEN FARMACEUTICO EMPEDRADO": [
+      "4149"
+    ]
+  },
+  "LICANTEN": {
+    "FARMACIA LICANTEN": [
+      "4150"
+    ],
+    "FARMACIA HUMANA": [
+      "4633"
+    ],
+    "FARMACIA MUNICIPAL DE LICANT00e9N": [
+      "4703"
+    ],
+    "FARMACIA POPULAR DE LICANT00c9N": [
+      "5159"
+    ],
+    "FARMACIA ILOCA": [
+      "5386"
+    ]
+  },
+  "MAULE": {
+    "FARMACIA GREEN": [
+      "4250"
+    ],
+    "FARMACIA EXPRESS MAULE": [
+      "6072"
+    ],
+    "FARMACIA ALMENDRA": [
+      "6081"
+    ],
+    "FARMACIA FARMACONTIGO": [
+      "7150"
+    ],
+    "FARMACIA FARMAVITALID": [
+      "7166"
+    ],
+    "FARMACIA RED FARMA": [
+      "7285"
+    ],
+    "FARMACIA REDFARMA": [
+      "7319"
+    ],
+    "FARMACIA HCB": [
+      "7321"
+    ]
+  },
+  "CAMARONES": {
+    "CRUZ VERDE": [
+      "4311"
+    ]
+  },
+  "LOS SAUCES": {
+    "FARMACIA MOVIL ITINERANTE": [
+      "4363"
+    ],
+    "ALMACEN FARMACEUTICO LEAL": [
+      "6107"
+    ]
+  },
+  "TALTAL": {
+    "FARMACIA FARMAPLUSS": [
+      "4381"
+    ]
+  },
+  "PELLUHUE": {
+    "FARMACIA CHANCO": [
+      "4416"
+    ]
+  },
+  "RIO NEGRO": {
+    "FARMACIA LA BOTICA DEL RIO": [
+      "4588"
+    ],
+    "ALMAC00c9N FARMAC00c9UTICO R00cdO NEGRO": [
+      "5048"
+    ]
+  },
+  "PUYEHUE": {
+    "FARMACIA LA SALUD": [
+      "4589"
+    ],
+    "ALMAC00c9N FARMAC00c9UTICO LA BOTIKA": [
+      "5049"
+    ]
+  },
+  "CUREPTO": {
+    "FARMACIA BOTICA CUANCA DEL MATAQUITO": [
+      "4599"
+    ]
+  },
+  "COLTAUCO": {
+    "FARMACIA MUNICIPAL COLTAUCO": [
+      "4699"
+    ],
+    "DIVINA SALUD": [
+      "6028"
+    ]
+  },
+  "MARIA PINTO": {
+    "CESFAM ADRIANA MADRID DE COSTABAL": [
+      "4709"
+    ],
+    "MENIER": [
+      "6501"
+    ],
+    "B&S": [
+      "6717"
+    ]
+  },
+  "PENCAHUE": {
+    "FARMACIA POPULAR DE PENCAHUE": [
+      "4777"
+    ],
+    "FARMACIA VIDA": [
+      "6803"
+    ],
+    "FARMACIA NOVUSPHARMA": [
+      "7318"
+    ]
+  },
+  "QUEMCHI": {
+    "FARMACIA FENIX": [
+      "4779"
+    ]
+  },
+  "PLACILLA": {
+    "FARMACIA COMUNITARIA PLACILLA": [
+      "4895"
+    ]
+  },
+  "PELARCO": {
+    "FARMACIA SAN BENJAMIN-2": [
+      "4899"
+    ]
+  },
+  "SAN PABLO": {
+    "FARMACIA MUNICIPAL SAN PABLO": [
+      "5005"
+    ],
+    "FARMACIA ABIERTA HOSPITAL PU M00dcLEN QUILACAHU00cdN": [
+      "7419"
+    ]
+  },
+  "FUTALEUFU": {
+    "FARMACIA FUTALEUFU": [
+      "5006"
+    ]
+  },
+  "00d1IQUEN": {
+    "FARMACIA ASISTENCIAL COMUNAL 00d1IQU00c9N": [
+      "5012"
+    ]
+  },
+  "CISNES": {
+    "ALMAC00e9N FARMAC00e9UTICO PUERTO CISNES": [
+      "5083"
+    ]
+  },
+  "PUQUELDON": {
+    "ALMACEN FARMAC00c9UTICO AUSTRAL": [
+      "5128"
+    ]
+  },
+  "PUNITAQUI": {
+    "ALMAC00e9N FARMAC00e9UTICO FIGUEROA": [
+      "5173"
+    ]
+  },
+  "ANDACOLLO": {
+    "ALMAC00e9N FARMAC00e9UTICO FAVIBAR": [
+      "5174"
+    ]
+  },
+  "LA HIGUERA": {
+    "ALMAC00c9N FARMAC00c9UTICO SAN JOS00c9": [
+      "5178"
+    ]
+  },
+  "QUILACO": {
+    "ALMACEN FARMACEUTICO GABRIEL": [
+      "5185"
+    ],
+    "FARMACIA CESFAM QUILACO": [
+      "7587"
+    ]
+  },
+  "LONQUIMAY": {
+    "ALMACEN FARMACEUTICO LONQUISALUDABLE": [
+      "5214"
+    ]
+  },
+  "QUEILEN": {
+    "FARMACIA BUENAVIDA": [
+      "5296"
+    ]
+  },
+  "TIRUA": {
+    "ALMACEN FARMACEUTICO MU00d1OZ": [
+      "5341"
+    ]
+  },
+  "YERBAS BUENAS": {
+    "FARMACIA BOTICA DE MELANIA N00ba2": [
+      "5378"
+    ],
+    "BOTICA DE MELANIA": [
+      "5911"
+    ],
+    "FARMACIA COLONIAL": [
+      "7162"
+    ]
+  },
+  "RENAICO": {
+    "FARMACIA GUZMAN": [
+      "5399"
+    ]
+  },
+  "CODEGUA": {
+    "FARMACIA CODEGUA": [
+      "5523"
+    ]
+  },
+  "VILCUN": {
+    "FARMACIA LAHUEN": [
+      "5621"
+    ],
+    "FARMACIA DR. SALUD": [
+      "6644"
+    ]
+  },
+  "MELIPEUCO": {
+    "FARMACIA SAN AGUSTIN": [
+      "5622"
+    ]
+  },
+  "TEODORO SCHMIDT": {
+    "ALMACEN FARMACEUTICO ESFARMAX": [
+      "5624"
+    ],
+    "ALMAC00c9N FARMAC00c9UTICO G00c9NESIS SPA": [
+      "7227"
+    ]
+  },
+  "RIO CLARO": {
+    "FARMACIA SIN REMEDIO": [
+      "5765"
+    ]
+  },
+  "COLBUN": {
+    "FARMACIA SAN MATEO": [
+      "5793"
+    ],
+    "FARMACIA CENTENARIO": [
+      "5912"
+    ],
+    "FARMACIA EL CARMEN N00ba2": [
+      "6006"
+    ],
+    "FARMACIA POPULAR COLB00daN SOMOS TODOS": [
+      "6024"
+    ],
+    "FARMACIA CESFAM ALCALDE FRANCISCO SEPULVEDA SALGADO": [
+      "6045"
+    ],
+    "FARMACIA SAN MATEO N00ba2": [
+      "6078"
+    ]
+  },
+  "MALLOA": {
+    "FARMACIA MANANTIALES": [
+      "6005"
+    ]
+  },
+  "HUARA": {
+    "CESFAM DR. AMADOR NEGHME RODRIGUEZ": [
+      "6007"
+    ],
+    "BOTIQUIN POSTA RURAL DE PACHICA": [
+      "6752"
+    ]
+  },
+  "CHANCO": {
+    "UNIDAD DE FARMACIA CONSULTORIO ADOSADO HOSPITAL DE CHANCO": [
+      "6010"
+    ],
+    "FARMACIA FARMAHORRO": [
+      "6661"
+    ]
+  },
+  "PUERTO OCTAY": {
+    "FARMACIA PUERTO OCTAY": [
+      "6041"
+    ],
+    "FARMACIA HOSPITAL PUERTO OCTAY": [
+      "7450"
+    ]
+  },
+  "PAIHUANO": {
+    "FARMACIA DEL ELQUI": [
+      "6062"
+    ]
+  },
+  "GALVARINO": {
+    "ALMACEN FARMACEUTICO TU FARMACIA": [
+      "6141"
+    ],
+    "ALMACEN FARMAC00c9UTICO GALVARINO": [
+      "6143"
+    ]
+  },
+  "PUERTO SAAVEDRA": {
+    "ALMACEN FARMACEUTICO ESFARMAX": [
+      "6142"
+    ]
+  },
+  "SAGRADA FAMILIA": {
+    "FARMACIA MANZANO": [
+      "6166"
+    ],
+    "FARMACIA EL SOL": [
+      "6642"
+    ],
+    "FARMACIA NOVAVIDA": [
+      "6745"
+    ]
+  },
+  "ALTO DEL CARMEN": {
+    "BOTIQUIN SPI POLICLINICO LA FORTUNA": [
+      "6214"
+    ],
+    "BOTIQUIN SPI CAMPAMENTO POTRERILLO, PASCUALAMA ESACHS": [
+      "6222"
+    ],
+    "BOTIQUIN CAMPAMENTOS BARRIALES PASCUALAMA - ESACHS TRASLADO DE ENFERMOS": [
+      "6223"
+    ]
+  },
+  "PAREDONES": {
+    "FARMACIA COMUNITARIA PAREDONES": [
+      "6346"
+    ]
+  },
+  "SAN NICOLAS": {
+    "NUEVA VIDA": [
+      "6416"
+    ]
+  },
+  "ROMERAL": {
+    "FARMACIA ROMERAL": [
+      "6693"
+    ]
+  },
+  "CHEPICA": {
+    "FARMACIA DOCTOR FARMA": [
+      "6694"
+    ]
+  },
+  "NEGRETE": {
+    "REDFARMA": [
+      "6778"
+    ],
+    "FARMACIA CESFAM YANEQUEN": [
+      "7581"
+    ]
+  },
+  "OLIVAR": {
+    "FARMACIA OLIVAR": [
+      "6802"
+    ],
+    "FARMACIA DEL CACHAPOAL": [
+      "6865"
+    ],
+    "FARMACIA OLIFARMA": [
+      "6895"
+    ]
+  },
+  "VICHUQUEN": {
+    "ALMACEN FARMAC00c9UTICO LA BOTICA IMPULSA": [
+      "6804"
+    ],
+    "FARMACIA VICHUQU00c9N": [
+      "6813",
+      "6823"
+    ]
+  },
+  "CHOL CHOL": {
+    "FARMACIA FARMA MAYRA": [
+      "6884"
+    ]
+  },
+  "PERQUENCO": {
+    "ALMAC00c9N FARMAC00c9UTICO ARMANDO CARES 2": [
+      "6970"
+    ],
+    "ALMACEN FARMAC00c9UTICO LA BOTICA DEL DR SALUD": [
+      "6971"
+    ]
+  },
+  "LUMACO": {
+    "ALMAC00c9N FARMAC00c9UTICO FARMALEAL": [
+      "7006"
+    ]
+  },
+  "SAN RAFAEL": {
+    "FARMACIA FARMALILAS": [
+      "7159"
+    ]
+  },
+  "SAN FABIAN": {
+    "URIEL": [
+      "7179"
+    ],
+    "AROMA DE ROCIO": [
+      "7180"
+    ]
+  },
+  "FREIRINA": {
+    "SANTA ROSA": [
+      "7220"
+    ]
+  },
+  "SAN PEDRO": {
+    "SAN ENRIQUE": [
+      "7224"
+    ]
+  },
+  "CANELA": {
+    "FARMACIA POPULAR EL COBRE": [
+      "7264"
+    ]
+  },
+  "SAN JUAN DE LA COSTA": {
+    "FARMACIA ABIERTA HOSPITAL F00fcTA SR00fcKA LAWENCHE K00fcNKO MAPU MO": [
+      "7420"
+    ]
+  },
+  "CONTULMO": {
+    "BOTICA ENTRE LAGOS": [
+      "7439"
+    ]
+  },
+  "COBQUECURA": {
+    "NUEVA VIDA": [
+      "7445"
+    ]
+  },
+  "ALTO BIO BIO": {
+    "ALMACEN FARMACEUTICO FARMA RALCO": [
+      "7502"
+    ],
+    "FARMACIA CESFAM RALCO": [
+      "7588"
+    ]
+  },
+  "SAN ROSENDO": {
+    "FARMACIA CESFAM SAN ROSENDO": [
+      "7579"
+    ]
+  },
+  "ANTUCO": {
+    "FARMACIA CESFAM ANTUCO": [
+      "7585"
+    ]
+  },
+  "QUILLECO": {
+    "FARMACIA CESFAM QUILLECO": [
+      "7589"
+    ],
+    "FARMACIA CESFAM CANTERAS": [
+      "7590"
+    ]
+  }
+}
