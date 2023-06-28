@@ -30,9 +30,9 @@ class Hermano:
     
     def mostrarhermano(self):
 
-        print(self.nombre) 
-        print(self.apellido)
-        print(self.edad)
+        self.nombre
+        self.apellido
+        self.edad
     
     def MayorDeEdad(self):
         return  self.edad >= 18

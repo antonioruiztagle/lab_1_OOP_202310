@@ -26,12 +26,10 @@ class Persona:
         return self.apellido
     
     def mostrar(self):
-        #  print("nombre: ", self.nombre)
-        #  print("edad: ", self.edad)
-        #  print("apellido: ", self.apellido)
-        print(self.nombre)
-        print(self.edad)
-        print(self.apellido)
+        
+        self.nombre
+        self.edad
+        self.apellido
 
     def esMayorDeEdad(self):
         return self.edad >= 18
